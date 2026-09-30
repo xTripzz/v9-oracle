@@ -1,0 +1,29 @@
+{
+ "atualizado": "2026-09-30T19:44:40.720001Z",
+ "paises": [
+  {
+   "geo": "BR",
+   "nome": "Brasil",
+   "bandeira": "🇧🇷",
+   "termos_hoje": 17
+  },
+  {
+   "geo": "US",
+   "nome": "EUA",
+   "bandeira": "🇺🇸",
+   "termos_hoje": 23
+  },
+  {
+   "geo": "MX",
+   "nome": "México",
+   "bandeira": "🇲🇽",
+   "termos_hoje": 17
+  },
+  {
+   "geo": "DE",
+   "nome": "Alemanha",
+   "bandeira": "🇩🇪",
+   "termos_hoje": 26
+  }
+ ]
+}

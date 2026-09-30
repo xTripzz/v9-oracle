@@ -1,0 +1,14 @@
+# V9 ORACLE v3: começa pelo Google Trends de cada país.
+# Não tem nicho nem semente. Ele descobre o que o país tá buscando e decide o que vira vídeo.
+
+paises:
+  - {geo: BR, nome: Brasil,   idioma: pt, bandeira: "🇧🇷"}
+  - {geo: US, nome: EUA,      idioma: en, bandeira: "🇺🇸"}
+  - {geo: MX, nome: México,   idioma: es, bandeira: "🇲🇽"}
+  - {geo: DE, nome: Alemanha, idioma: de, bandeira: "🇩🇪"}
+
+top: 30               # quantos temas aparecem em cada ranking
+yt_por_rodada: 6      # quantos temas por país são checados no YouTube a cada rodada
+quota_diaria: 9000    # limite grátis do YouTube é 10.000 por dia, deixa folga
+reddit_por_rodada: 8
+ia_por_rodada: 15     # só usa se tiver ANTHROPIC_API_KEY

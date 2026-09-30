@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>V9 ORACLE · Algoritmo Secreto</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔮</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,400..800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{--bg:#030604;--panel:#0a110c;--panel2:#0f1a12;--ink:#e9fbef;--mut:#6f8c78;--line:#15241a;
+--neon:#39ff88;--lime:#d4ff3a;--teal:#2f7d62;--down:#ff4d6a}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{background:radial-gradient(900px 400px at 15% -10%,rgba(57,255,136,.12),transparent 60%),
+radial-gradient(700px 400px at 100% 110%,rgba(57,255,136,.06),transparent 60%),var(--bg);
+color:var(--ink);font-family:Archivo,system-ui,sans-serif;padding-top:env(safe-area-inset-top,0px)}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;
+background:linear-gradient(rgba(57,255,136,.025) 1px,transparent 1px),linear-gradient(90deg,rgba(57,255,136,.025) 1px,transparent 1px);background-size:40px 40px}
+.app{height:100%;display:grid;grid-template-rows:auto auto 1fr;gap:12px;padding:14px 18px 16px;max-width:1920px;margin:0 auto;position:relative}
+/* hero */
+.hero{display:flex;align-items:center;gap:22px;flex-wrap:wrap}
+.brand h1{margin:0;font-stretch:75%;font-weight:800;font-size:clamp(34px,3.6vw,52px);line-height:.9;letter-spacing:-1px;
+color:var(--neon);text-shadow:0 0 18px rgba(57,255,136,.55),0 0 40px rgba(57,255,136,.25)}
+.brand h1 span{color:var(--ink);text-shadow:none}
+.by{margin-top:6px;font-size:13px;color:var(--mut);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.by b{color:var(--ink);font-weight:600}
+.by .at{font-family:"JetBrains Mono";color:var(--neon);border:1px solid rgba(57,255,136,.35);border-radius:6px;padding:1px 7px;font-size:12px}
+.live{display:inline-flex;align-items:center;gap:6px}
+.live i{width:7px;height:7px;border-radius:50%;background:var(--neon);box-shadow:0 0 0 0 rgba(57,255,136,.6);animation:p 2s infinite}
+@keyframes p{70%{box-shadow:0 0 0 7px rgba(57,255,136,0)}100%{box-shadow:0 0 0 0 rgba(57,255,136,0)}}
+.ctl{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.paises{display:flex;gap:6px}
+.pais{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:10px;padding:8px 12px;font:600 13px Archivo;cursor:pointer;transition:.15s}
+.pais:hover{border-color:#2a4a34}
+.pais[aria-pressed=true]{border-color:var(--neon);box-shadow:0 0 14px rgba(57,255,136,.25) inset,0 0 10px rgba(57,255,136,.2)}
+.seg{display:flex;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:3px}
+.seg button{border:0;background:none;color:var(--mut);padding:6px 13px;font:600 13px Archivo;cursor:pointer;border-radius:7px}
+.seg button[aria-pressed=true]{background:var(--neon);color:#021006}
+select{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:10px;padding:8px 10px;font:500 13px Archivo}
+button:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--neon);outline-offset:2px}
+/* kpis */
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.card{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:14px;padding:14px;min-width:0;min-height:0}
+.kpi{display:flex;align-items:center;gap:14px;padding:12px 16px}
+.kpi .v{font-family:"JetBrains Mono";font-weight:700;font-size:30px;line-height:1}
+.kpi .l{color:var(--mut);font-size:11px;text-transform:uppercase;letter-spacing:.7px}
+.kpi .d{font-size:12px;color:var(--mut);margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:22ch}
+.kpi .ic{width:38px;height:38px;border-radius:10px;display:grid;place-items:center;background:rgba(57,255,136,.08);border:1px solid rgba(57,255,136,.2);font-size:18px;flex:none}
+/* main */
+.main{display:grid;grid-template-columns:1.45fr 1fr 1.15fr;grid-template-rows:1fr 1fr;gap:12px;min-height:0}
+.main .card{display:flex;flex-direction:column}
+.card h3{margin:0;font-size:13px;font-weight:600;letter-spacing:.2px}
+.card .sub{margin:2px 0 8px;color:var(--mut);font-size:11.5px;line-height:1.35}
+.ch{position:relative;flex:1;min-height:170px}
+.mapa{grid-column:1;grid-row:1}.serie{grid-column:1;grid-row:2}.top{grid-column:2;grid-row:1}.cat{grid-column:2;grid-row:2}
+.rank{grid-column:3;grid-row:1/3}
+.aviso{font-size:11.5px;color:var(--lime)}
+/* ranking */
+.list{overflow:auto;flex:1;margin:0 -6px;padding:0 6px;scrollbar-width:thin;scrollbar-color:#1d3324 transparent}
+details{border-top:1px solid var(--line)}
+summary{list-style:none;display:grid;grid-template-columns:26px 1fr 56px;gap:10px;align-items:center;padding:9px 6px;cursor:pointer;border-radius:8px}
+summary:hover{background:rgba(57,255,136,.05)}
+summary::-webkit-details-marker{display:none}
+.rk{font-family:"JetBrains Mono";color:var(--mut);font-size:12px}
+.tm{font-weight:600;font-size:14px;min-width:0}
+.tm small{display:block;color:var(--mut);font-weight:400;font-size:11.5px;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pill{display:inline-block;font-size:9.5px;font-weight:700;padding:2px 6px;border-radius:20px;margin-left:6px;vertical-align:2px;text-transform:uppercase;letter-spacing:.4px}
+.sbar{height:4px;background:var(--line);border-radius:4px;overflow:hidden;margin-top:6px}
+.sbar i{display:block;height:100%;border-radius:4px}
+.sc{font-family:"JetBrains Mono";font-weight:700;font-size:19px;text-align:right;line-height:1.1}
+.sc div{font-size:10.5px;font-weight:600}
+.body{padding:2px 6px 12px 42px;font-size:13px;line-height:1.5}
+.body p{margin:4px 0}.body b{font-weight:600;color:#bfe9cc}
+.stats{display:flex;flex-wrap:wrap;gap:4px 14px;font-family:"JetBrains Mono";font-size:11.5px;color:var(--mut);margin:2px 0 6px}
+.stats b{color:var(--ink)}
+a{color:var(--neon)}
+.empty{padding:30px 16px;text-align:center;color:var(--mut);border:1px dashed var(--line);border-radius:12px}
+@media (max-width:1100px){
+ html,body{height:auto}.app{height:auto}
+ .kpis{grid-template-columns:repeat(2,1fr)}
+ .main{grid-template-columns:1fr 1fr;grid-template-rows:auto}
+ .mapa,.serie,.top,.cat,.rank{grid-column:auto;grid-row:auto}.mapa,.rank{grid-column:1/-1}
+ .ch{min-height:260px}.list{max-height:70vh}
+ .ctl{margin-left:0}
+}
+@media (max-width:640px){.main{grid-template-columns:1fr}.kpi .v{font-size:24px}.paises{flex-wrap:wrap}}
+</style>
+</head>
+<body>
+<div class="app">
+<header class="hero">
+ <div class="brand"><h1>V9 <span>ORACLE</span></h1>
+  <div class="by">by <b>Algoritmo Secreto</b><span class="at">@tieepo</span><span class="live"><i></i><span id="meta">carregando</span></span></div></div>
+ <div class="ctl">
+  <div class="paises" id="paises"></div>
+  <div class="seg" id="per"><button data-p="hoje" aria-pressed="true">Hoje</button><button data-p="semana" aria-pressed="false">Semana</button><button data-p="ano" aria-pressed="false">Ano</button></div>
+  <select id="fV"><option value="">Todos os temas</option><option value="sim">Só vira vídeo</option><option value="sim,talvez">Vira vídeo + talvez</option></select>
+ </div>
+</header>
+
+<section class="kpis">
+ <div class="card kpi"><div class="ic">📈</div><div><div class="l">Temas em alta</div><div class="v" id="k1">0</div><div class="d" id="k1d"></div></div></div>
+ <div class="card kpi"><div class="ic">🔥</div><div><div class="l">Pré-pico</div><div class="v" id="k2" style="color:var(--neon)">0</div><div class="d" id="k2d">publicar em até 10 dias</div></div></div>
+ <div class="card kpi"><div class="ic">🎬</div><div><div class="l">Viram vídeo</div><div class="v" id="k3" style="color:var(--lime)">0</div><div class="d" id="k3d"></div></div></div>
+ <div class="card kpi"><div class="ic">🔎</div><div><div class="l">Maior busca</div><div class="v" id="k4">0</div><div class="d" id="k4d"></div></div></div>
+</section>
+
+<main class="main">
+ <div class="card mapa"><h3>Mapa de oportunidade</h3><p class="sub">Direita e embaixo = brecha: muita busca no Google, pouco vídeo forte no YouTube. Bolha = score.</p><div class="ch"><canvas id="gMapa"></canvas></div></div>
+ <div class="card serie"><h3>Temperatura · 30 dias</h3><p class="sub">Temas em pré-pico e aquecendo por dia</p><div class="ch"><canvas id="gSerie"></canvas></div></div>
+ <div class="card top"><h3>Top 10 por score</h3><p class="sub">Potencial de viralizar no YouTube</p><div class="ch"><canvas id="gTop"></canvas></div></div>
+ <div class="card cat"><h3>Categorias</h3><p class="sub">Onde está a atenção do país</p><div class="ch"><canvas id="gCat"></canvas></div></div>
+ <div class="card rank"><h3>Ranking</h3><p class="sub" id="aviso">Clique no tema pra ver o porquê, o ângulo e o título</p><div class="list" id="list"></div></div>
+</main>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+let geo=null,per="hoje",cache={},charts={};
+const C={hot:"#39ff88",warm:"#d4ff3a",cold:"#2f7d62",up:"#39ff88",down:"#ff4d6a",mut:"#6f8c78",line:"#15241a",ink:"#e9fbef"};
+const cor=s=>s>=75?C.hot:s>=50?C.warm:C.cold;
+const fn={"pre-pico":"Pré-pico","aquecendo":"Aquecendo","frio":"Frio"};
+const vv={sim:[C.hot,"vira vídeo"],talvez:[C.warm,"talvez"],nao:["#2a3a2f","só notícia"]};
+const PAL=["#39ff88","#d4ff3a","#1fc7a8","#2f7d62","#8affc1","#6ee7ff","#a3b86c","#1e4d38","#4f6b58","#b7ffd4"];
+const esc=t=>String(t??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const num=n=>Intl.NumberFormat("pt-BR",{notation:"compact"}).format(n||0);
+const get=async u=>{try{const r=await fetch(u+"?"+Date.now());if(!r.ok)throw 0;return await r.json()}catch(e){return null}};
+const busca=x=>per==="hoje"?x.trafego:(x.pico_trafego||x.trafego);
+
+Chart.defaults.color=C.mut;Chart.defaults.font.family="Archivo";Chart.defaults.borderColor=C.line;
+Chart.defaults.plugins.tooltip.backgroundColor="#030604";Chart.defaults.plugins.tooltip.borderColor="#39ff88";
+Chart.defaults.plugins.tooltip.borderWidth=1;Chart.defaults.plugins.tooltip.padding=10;
+function draw(id,cfg){if(charts[id])charts[id].destroy();charts[id]=new Chart($(id),cfg)}
+
+async function init(){
+ const idx=await get("data/index.json");
+ if(!idx||!idx.paises.length){$("meta").textContent="Nenhum dado ainda. Rode o workflow no GitHub.";return}
+ $("meta").textContent="atualizado "+new Date(idx.atualizado).toLocaleString("pt-BR",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})+" · a cada 4h";
+ geo=idx.paises[0].geo;
+ $("paises").innerHTML=idx.paises.map(p=>`<button class="pais" data-g="${p.geo}" aria-pressed="${p.geo===geo}">${p.bandeira} ${esc(p.nome)}</button>`).join("");
+ $("paises").querySelectorAll("button").forEach(b=>b.onclick=()=>{geo=b.dataset.g;$("paises").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b));render()});
+ render();
+}
+
+async function render(){
+ if(!cache[geo])cache[geo]=await get(`data/${geo}.json`);
+ const d=cache[geo];if(!d){$("list").innerHTML='<div class="empty">Sem dados pra esse país ainda.</div>';return}
+ const h=d.dias_de_historico||1;
+ $("aviso").innerHTML=per==="semana"&&h<7?`<span class="aviso">Semana em formação: ${h} de 7 dias coletados</span>`:per==="ano"&&h<365?`<span class="aviso">Ano em formação: ${h} dias. Revela os temas que sempre voltam</span>`:"Clique no tema pra ver o porquê, o ângulo e o título";
+ const fv=$("fV").value.split(",").filter(Boolean);
+ const it=(d[per]||[]).filter(x=>!fv.length||fv.includes((x.ia||{}).vira_video));
+
+ // KPIs
+ $("k1").textContent=it.length;$("k1d").textContent=per==="hoje"?"coletados hoje no Google":per==="semana"?"nos últimos 7 dias":"no histórico do ano";
+ $("k2").textContent=it.filter(x=>x.score>=75).length;
+ const sim=it.filter(x=>(x.ia||{}).vira_video==="sim").length;
+ $("k3").textContent=sim;$("k3d").textContent=it.some(x=>x.ia)?`de ${it.filter(x=>x.ia).length} analisados pela IA`:"precisa da chave da Anthropic";
+ const mx=it.reduce((a,x)=>!a||busca(x)>busca(a)?x:a,null);
+ $("k4").textContent=mx?num(busca(mx))+"+":"0";$("k4d").textContent=mx?mx.termo:"";
+
+ // Mapa de oportunidade
+ const pts=it.filter(x=>x.yt&&busca(x)>0);
+ draw("gMapa",{type:"bubble",data:{datasets:[{data:pts.map(x=>({x:busca(x),y:x.yt.com_10k,r:4+x.score/7,t:x})),
+  backgroundColor:pts.map(x=>cor(x.score)+"b3"),borderColor:pts.map(x=>cor(x.score)),borderWidth:1.5}]},
+  options:{maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>{const t=c.raw.t;return[t.termo,`${num(busca(t))}+ buscas · ${t.yt.com_10k} vídeos fortes · score ${t.score}`]}}}},
+  scales:{x:{type:"logarithmic",title:{display:true,text:"Buscas no Google (escala log)"},ticks:{maxRotation:0,autoSkip:false,callback:v=>[100,1e3,1e4,1e5,1e6,1e7].includes(v)?num(v):""},grid:{color:C.line}},
+  y:{title:{display:true,text:"Vídeos fortes no YouTube (7 dias)"},min:0,suggestedMax:16,grid:{color:C.line}}}},
+  plugins:[{id:"zona",beforeDraw(ch){const{ctx,chartArea:a,scales:{x,y}}=ch;if(!a)return;const x0=Math.max(x.getPixelForValue(1e4),a.left),y0=Math.min(y.getPixelForValue(5),a.bottom);
+   ctx.save();ctx.fillStyle="rgba(57,255,136,.07)";ctx.fillRect(x0,y0,a.right-x0,a.bottom-y0);ctx.fillStyle="rgba(57,255,136,.9)";ctx.font="600 11px Archivo";ctx.textAlign="right";ctx.fillText("ZONA DE BRECHA",a.right-8,a.bottom-8);ctx.restore()}}]});
+
+ // Categorias
+ const cat={};it.forEach(x=>{const k=(x.ia||{}).categoria||"Sem análise";cat[k]=(cat[k]||0)+1});
+ const ce=Object.entries(cat).sort((a,b)=>b[1]-a[1]).slice(0,9);
+ draw("gCat",{type:"doughnut",data:{labels:ce.map(e=>e[0]),datasets:[{data:ce.map(e=>e[1]),backgroundColor:PAL,borderColor:"#0a110c",borderWidth:3}]},
+  options:{maintainAspectRatio:false,cutout:"68%",plugins:{legend:{position:"right",labels:{boxWidth:9,boxHeight:9,padding:8,font:{size:11}}}}}});
+
+ // Top 10
+ const t10=it.slice(0,10);
+ draw("gTop",{type:"bar",data:{labels:t10.map(x=>x.termo.length>22?x.termo.slice(0,21)+"…":x.termo),datasets:[{data:t10.map(x=>x.score),backgroundColor:t10.map(x=>cor(x.score)),borderRadius:6,barThickness:12}]},
+  options:{indexAxis:"y",maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{min:0,max:100,grid:{color:C.line}},y:{grid:{display:false},ticks:{color:C.ink,font:{size:12}}}}}});
+
+ // Série
+ const s=d.serie||[];
+ const g=$("gSerie").getContext("2d"),gr=g.createLinearGradient(0,0,0,240);gr.addColorStop(0,"rgba(57,255,136,.35)");gr.addColorStop(1,"rgba(57,255,136,0)");
+ draw("gSerie",{type:"line",data:{labels:s.map(x=>x.dia.slice(8,10)+"/"+x.dia.slice(5,7)),datasets:[
+  {label:"Pré-pico",data:s.map(x=>x.pre_pico),borderColor:C.hot,backgroundColor:gr,fill:true,tension:.35,pointRadius:s.length<8?4:0,borderWidth:2.5},
+  {label:"Aquecendo",data:s.map(x=>x.aquecendo),borderColor:C.warm,tension:.35,pointRadius:s.length<8?4:0,borderWidth:2,borderDash:[5,4]}]},
+  options:{maintainAspectRatio:false,interaction:{mode:"index",intersect:false},plugins:{legend:{position:"bottom",labels:{boxWidth:10,boxHeight:10}}},scales:{y:{beginAtZero:true,ticks:{precision:0},grid:{color:C.line}},x:{grid:{display:false}}}}});
+
+ // Ranking
+ if(!it.length){$("list").innerHTML='<div class="empty">Nada com esse filtro.</div>';return}
+ $("list").innerHTML=it.map((x,i)=>{
+  const ia=x.ia||{},y=x.yt,r=x.rd;
+  const tag=ia.vira_video&&vv[ia.vira_video]?`<span class="pill" style="background:${vv[ia.vira_video][0]};color:${ia.vira_video==="nao"?"#9fb8a6":"#021006"}">${vv[ia.vira_video][1]}</span>`:"";
+  let vt="";
+  if(per==="hoje")vt=x.novo?`<span style="color:${C.hot}">NOVO</span>`:x.variacao>0?`<span style="color:${C.up}">▲${x.variacao}</span>`:x.variacao<0?`<span style="color:${C.down}">▼${-x.variacao}</span>`:"";
+  else vt=`<span class="mono" style="color:${C.mut}">${x.dias_em_alta}d</span>`;
+  const sub=[ia.categoria,fn[x.fase],"janela "+x.janela].filter(Boolean).map(esc).join(" · ");
+  return `<details><summary>
+   <span class="rk">${String(i+1).padStart(2,"0")}</span>
+   <span class="tm">${esc(x.termo)}${tag}<small>${sub}</small><div class="sbar"><i style="width:${x.score}%;background:${cor(x.score)};box-shadow:0 0 8px ${cor(x.score)}"></i></div></span>
+   <span class="sc" style="color:${cor(x.score)}">${x.score}<div>${vt}</div></span>
+  </summary><div class="body">
+   <div class="stats"><span><b>${num(busca(x))}+</b> buscas</span>${y?`<span>YT <b>${y.com_10k}</b> fortes/${y.videos_7d}</span><span><b>${num(y.top_vph)}</b>/h</span>`:""}${r?`<span>Reddit <b>${num(r.score)}</b></span>`:""}<span>${per==="hoje"?`em alta <b>${x.aparicoes}x</b>`:`<b>${x.dias_em_alta}</b> dias`}</span></div>
+   ${ia.motivo?`<p><b>Leitura:</b> ${esc(ia.motivo)}</p>`:""}
+   ${ia.angulo?`<p><b>Ângulo:</b> ${esc(ia.angulo)}</p>`:""}
+   ${ia.titulo?`<p><b>Título:</b> ${esc(ia.titulo)}</p>`:""}
+   ${(x.noticias||[]).slice(0,1).map(n=>`<p><b>Por que:</b> <a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titulo)}</a></p>`).join("")}
+   ${y&&y.melhor?`<p><b>Já pegou:</b> <a href="${esc(y.melhor.url)}" target="_blank" rel="noopener">${esc(y.melhor.titulo)}</a> <span style="color:${C.mut}">${num(y.melhor.views)} views</span></p>`:""}
+   ${r&&r.top?`<p><b>Reddit:</b> <a href="${esc(r.top.url)}" target="_blank" rel="noopener">${esc(r.top.titulo)}</a></p>`:""}
+   ${!ia.motivo?`<p style="color:${C.mut}">Ângulo e título aparecem com a chave da Anthropic.</p>`:""}
+  </div></details>`}).join("");
+}
+$("per").querySelectorAll("button").forEach(b=>b.onclick=()=>{per=b.dataset.p;$("per").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b));render()});
+$("fV").onchange=render;
+init();
+</script>
+</body>
+</html>

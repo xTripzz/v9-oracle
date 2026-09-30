@@ -1,0 +1,3299 @@
+{
+ "geo": "DE",
+ "nome": "Alemanha",
+ "atualizado": "2026-09-30T19:44:40.720001Z",
+ "serie": [
+  {
+   "dia": "2026-09-30",
+   "termos": 26,
+   "pre_pico": 0,
+   "aquecendo": 5,
+   "media": 39
+  }
+ ],
+ "dias_de_historico": 1,
+ "hoje": [
+  {
+   "termo": "bodensee",
+   "score": 57,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 1000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Bis zum Bauch im Schlamm: Frau gerät am Bodensee in Not",
+     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/frau-sinkt-am-bodenseeufer-bis-zum-bauch-im-schlamm-ein-100.html",
+     "fonte": "SWR"
+    },
+    {
+     "titulo": "Frau (74) versinkt bis zum Bauch im Schlamm am Bodenseeufer",
+     "url": "https://www.schwaebische.de/regional/bodensee/konstanz/frau-74-versinkt-bis-zum-bauch-im-schlamm-am-bodenseeufer-4903771",
+     "fonte": "Schwäbische.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 4,
+    "top_vph": 1620,
+    "outlier": 588.9,
+    "melhor": {
+     "titulo": "Die Fischerin vom Bodensee mit Sabrina Kulovits ☀️| Steirische Harmonika | GCFB",
+     "canal": "SabsQuetschtZaum",
+     "views": 132232,
+     "url": "https://youtu.be/Yk7fElOX4u8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Turismo",
+    "vira_video": "sim",
+    "motivo": "Incidente ilustra perigos desconhecidos de destino turístico popular",
+    "angulo": "Perigos escondidos no Bodensee que turistas desconhecem",
+    "titulo": "Bodensee Gefahren: Was Touristen über Schlamm und Sicherheit wissen müssen"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "brauerei",
+   "score": 56,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 500,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Allen Mitarbeitern gekündigt: Insolvente Brauerei schließt für immer",
+     "url": "https://www.bild.de/news/inland/allen-mitarbeitern-gekuendigt-insolvente-brauerei-schliesst-fuer-immer-6ab92a9aa8b3f6fdb1edd0a5",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "1627 gegründet: Traditionsbrauerei wird geschlossen",
+     "url": "https://web.de/magazine/wirtschaft/1627-gegruendet-traditionsbrauerei-geschlossen-42779792",
+     "fonte": "WEB.DE"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 1265,
+    "outlier": 32.2,
+    "melhor": {
+     "titulo": "Tream x SCHNEIDER WEISSE Weissbier ab sofort wieder exklusiv bei Kaufland. 🙌 #kaufland",
+     "canal": "Kaufland",
+     "views": 183726,
+     "url": "https://youtu.be/b2q3WDuwc7c"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Economia",
+    "vira_video": "sim",
+    "motivo": "Declínio de cervejarias tradicionais é tendência cultural relevante",
+    "angulo": "Por que cervejarias tradicionais alemãs estão fechando",
+    "titulo": "Traditionsbrauereien in der Krise: Das Sterben deutscher Bierkultur"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "afd sachsen-anhalt",
+   "score": 54,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Sachsen-Anhalt: Die AfD braucht das BSW, aber traut ihm nicht",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-sachsen-anhalt-afd-bsw-100.html",
+     "fonte": "tagesschau.de"
+    },
+    {
+     "titulo": "AfD lenkt im Ausschuss-Streit ein, Sitzordnung steht fest: Vor-Ältestenrat bereitet Landtag vor",
+     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtag-regeln-ausschuesse-sitzordnung-102,vor-aeltestenrat-100.html",
+     "fonte": "MDR.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 8239,
+    "outlier": 250.6,
+    "melhor": {
+     "titulo": "SACHSEN-ANHALT: AfD-Wahlsieger Siegmund will im ersten Wahlgang Ministerpräsident werden",
+     "canal": "WELT Nachrichtensender",
+     "views": 177849,
+     "url": "https://youtu.be/seB2ej5V_3E"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "sim",
+    "motivo": "Dinâmica política AfD-BSW é tema contínuo na Alemanha",
+    "angulo": "Análise da estratégia política AfD em Sachsen-Anhalt",
+    "titulo": "AfD und BSW in Sachsen-Anhalt: Was bedeutet die neue Konstellation?"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "phishing",
+   "score": 52,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "AOK-Phishing: Falsche E-Mail verspricht 478,90 Euro Rückzahlung",
+     "url": "https://www.bild.de/leben-wissen/digital/aok-phishing-falsche-e-mail-verspricht-478-90-euro-rueckzahlung-6abb713a36a3ebaeca5dd903",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "478,90 Euro sind bis zum 7. Oktober ein Warnsignal für alle Bürger",
+     "url": "https://www.ruhr24.de/service/rueckrufe-warnungen/aok-email-rueckerstattung-betreff-oktober-krankenkasse-verbraucherzentrale-betrug-spam-melden-94514384.html",
+     "fonte": "Ruhr24"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 18,
+    "top_vph": 1806,
+    "outlier": 82.2,
+    "melhor": {
+     "titulo": "피싱당한 돈 되찾았다!…경찰, 200억 원 돌려줘 #shorts / KBS",
+     "canal": "KBS News",
+     "views": 12785,
+     "url": "https://youtu.be/MplADtlYBk0"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Segurança Digital",
+    "vira_video": "sim",
+    "motivo": "Golpes digitais são ameaça permanente e educativa",
+    "angulo": "Como identificar e evitar golpes de phishing",
+    "titulo": "AOK-Phishing: So erkennst du falsche E-Mails und schützt dich"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "elektromobilität",
+   "score": 52,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "E-Mobilität: Auslastung von Ladesäulen für Elektroautos nimmt deutlich zu",
+     "url": "https://www.zeit.de/mobilitaet/2026-09/e-auto-ladesaeulen-nutzung-auslastung-vattenfall-enbw-aral-gxe",
+     "fonte": "DIE ZEIT"
+    },
+    {
+     "titulo": "Vattenfall InCharge meldet Rekordauslastung bei Ladepunkten",
+     "url": "https://ecomento.de/2026/09/29/vattenfall-incharge-meldet-rekordauslastung-bei-ladepunkten/",
+     "fonte": "ecomento.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 7,
+    "top_vph": 3044,
+    "outlier": 5.5,
+    "melhor": {
+     "titulo": "Wie zufrieden sind E-Auto-Fahrer wirklich? | Unter Strom – Einfach Elektromobilität | 123 | ADAC",
+     "canal": "ADAC",
+     "views": 154142,
+     "url": "https://youtu.be/_Xug8hjE5tU"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Tecnologia e Sustentabilidade",
+    "vira_video": "sim",
+    "motivo": "Tema evergreen com dados novos sobre infraestrutura crescente",
+    "angulo": "Guia prático de carregamento elétrico na Alemanha",
+    "titulo": "E-Auto laden 2025: So findest du freie Ladesäulen in Deutschland"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "rosenheim cops",
+   "score": 49,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Die Rosenheim Cops ermitteln wieder: Neues zum Staffelstart - Bayern - SZ.de",
+     "url": "https://www.sueddeutsche.de/bayern/bayern-fernsehserien-rosenheim-cops-staffelstart-marisa-burger-li.3555511",
+     "fonte": "SZ.de"
+    },
+    {
+     "titulo": "\"Rosenheim-Cops\"-Produzentin reagiert auf Marisa Burgers Kritik",
+     "url": "https://www.t-online.de/unterhaltung/tv/id_101455960/-rosenheim-cops-im-zdf-produzentin-reagiert-auf-marisa-burgers-kritik.html",
+     "fonte": "T-Online"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 240,
+    "outlier": 2.5,
+    "melhor": {
+     "titulo": "Die Rosenheim-Cops (2002): 10 Stars, die uns verlassen haben – Wer lebt noch 2026?",
+     "canal": "Childhood Legacy",
+     "views": 5962,
+     "url": "https://youtu.be/4OXM3nnJ5f4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Entretenimento",
+    "vira_video": "talvez",
+    "motivo": "Série popular gera interesse em bastidores e análises",
+    "angulo": "Bastidores e curiosidades da série cult alemã",
+    "titulo": "Rosenheim Cops: Die Geheimnisse hinter Deutschlands Kultserie"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "krankenversicherung",
+   "score": 47,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "Sparmaßnahmen der Krankenversicherung sollen auch Beamte treffen",
+     "url": "https://www.br.de/nachrichten/wirtschaft/sparmassnahmen-der-krankenversicherung-sollen-auch-beamte-treffen,VWhAOII",
+     "fonte": "BR"
+    },
+    {
+     "titulo": "Ungerecht? Millionen Kassenpatienten zahlen bald mehr – Beamte sollen verschont bleiben",
+     "url": "https://www.fr.de/verbraucher/fuer-beamte-krankenkassen-chef-fordert-hoehere-zuzahlungen-auch-94511966.html",
+     "fonte": "Frankfurter Rundschau"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 5,
+    "top_vph": 329,
+    "outlier": 50.8,
+    "melhor": {
+     "titulo": "Americans navigate the wild, wild West of health insurance without Obamacare",
+     "canal": "Reuters",
+     "views": 40095,
+     "url": "https://youtu.be/PgqFsXiv-sk"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Finanças Pessoais",
+    "vira_video": "sim",
+    "motivo": "Sistema de saúde alemão afeta milhões constantemente",
+    "angulo": "Guia completo sobre mudanças no sistema de saúde",
+    "titulo": "Krankenversicherung 2024: Was ändert sich für dich?"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "pipeline",
+   "score": 46,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Pipelines sichern Transporte: Rohölexporte am Golf steigen auf Vorkriegsniveau",
+     "url": "https://www.n-tv.de/wirtschaft/Rohoelexporte-am-Golf-steigen-auf-Vorkriegsniveau-id31365736.html",
+     "fonte": "n-tv.de"
+    },
+    {
+     "titulo": "Krise vorbei? Plötzlich fließt das Öl aus Nahost wie geschmiert",
+     "url": "https://www.bild.de/politik/ausland-und-internationales/krise-vorbei-ploetzlich-fliesst-das-oel-aus-nahost-wie-geschmiert-6abbd17172f1dd17be2d3355",
+     "fonte": "BILD"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 10878,
+    "outlier": 450.6,
+    "melhor": {
+     "titulo": "It's DONE: Trump's Import Ban BACKFIRES as Canada Builds Oil Pipeline Cutting America OUT!",
+     "canal": "The Planet D",
+     "views": 296028,
+     "url": "https://youtu.be/mIOy5ADEC34"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Energia",
+    "vira_video": "sim",
+    "motivo": "Infraestrutura energética é tema evergreen e estratégico",
+    "angulo": "Como pipelines garantem segurança energética global",
+    "titulo": "Öl-Pipelines erklärt: So funktioniert die globale Energiesicherheit"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "zschopau",
+   "score": 43,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Vintage-Trophy Zschopau: Das Wichtigste vor Ort um Überblick",
+     "url": "https://magazin.baboons.de/sport-reports/enduro-wm/vintage-trophy-zschopau-das-wichtigste-vor-ort-um-ueberblick",
+     "fonte": "Baboons"
+    },
+    {
+     "titulo": "„MC Simson“ fährt zur WM: Unter Denkmalschutz durchs Gelände",
+     "url": "https://www.insuedthueringen.de/inhalt.mc-simson-faehrt-zur-wm-unter-denkmalschutz-durchs-gelaende.d4130fc3-4698-47e1-a384-242e6c4df7d2.html",
+     "fonte": "inSüdthüringen"
+    }
+   ],
+   "yt": {
+    "videos_7d": 24,
+    "com_10k": 0,
+    "top_vph": 178,
+    "outlier": 13.0,
+    "melhor": {
+     "titulo": "Letzter Check vor Zschopau! BMW Six Days 1979 | Vintage Trophy 2026 | SWT-Sports",
+     "canal": "SWT-SPORTS",
+     "views": 4030,
+     "url": "https://youtu.be/PHpjVhoZxxA"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes Motorizados",
+    "vira_video": "talvez",
+    "motivo": "Evento vintage gera interesse em cultura motociclística clássica",
+    "angulo": "História e cultura das motos vintage Simson",
+    "titulo": "Vintage Trophy Zschopau: Die Faszination klassischer DDR-Motorräder"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "mathias gidsel",
+   "score": 43,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "Hannings Fazit zur Klub-WM: „Die sollen ihren Job machen, für den sie bezahlt werden“",
+     "url": "https://sportbild.bild.de/sportmix/handball/hannings-fazit-zur-klub-wm-die-sollen-ihren-job-machen-fuer-den-sie-bezahlt-werden-6abce29de69c7c64bf6933dd",
+     "fonte": "Sport Bild"
+    },
+    {
+     "titulo": "Handball-Super Globe - Füchse Berlin verpassen bei Club-WM auch Spiel um Platz drei - Sport - SZ.de",
+     "url": "https://www.sueddeutsche.de/sport/handball-super-globe-fuechse-berlin-verpassen-bei-club-wm-auch-spiel-um-platz-drei-dpa.urn-newsml-dpa-com-20090101-260929-930-764338",
+     "fonte": "SZ.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 11,
+    "com_10k": 0,
+    "top_vph": 99,
+    "outlier": 1.2,
+    "melhor": {
+     "titulo": "Mathias Gidsel Berlin Strike | Handball Shorts",
+     "canal": "Handball World",
+     "views": 9985,
+     "url": "https://youtu.be/cENGmfCyYpE"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Estrela do handebol gera interesse em perfis e análises",
+    "angulo": "Perfil do talento dinamarquês do handebol alemão",
+    "titulo": "Mathias Gidsel: Der dänische Superstar im deutschen Handball"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "salmonellen",
+   "score": 42,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Rückruf bei Edeka und Marktkauf: TK-Beeren können mit Salmonellen belastet sein",
+     "url": "https://www.ruhrnachrichten.de/service/rueckruf-edeka-tk-bio-wildheidelbeeren-marktkauf-salmonellen-warnung-w1240414-2002201444/",
+     "fonte": "Ruhr Nachrichten"
+    },
+    {
+     "titulo": "Edeka-Rückruf: Salmonellen in diesem Lebensmittel festgestellt",
+     "url": "https://cedarnews.net/german/1014568/edeka-ruckruf-salmonellen-diesem-lebensmittel-festgestellt/",
+     "fonte": "cedarnews.net"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 5,
+    "top_vph": 977,
+    "outlier": 10.1,
+    "melhor": {
+     "titulo": "Rotisserie chicken is being linked to Salmonella recalls… so check yours",
+     "canal": "FitLifeTV",
+     "views": 23203,
+     "url": "https://youtu.be/hZo1z7t1naA"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Saúde e Segurança Alimentar",
+    "vira_video": "talvez",
+    "motivo": "Recall específico mas tema educativo sobre segurança alimentar permanece relevante",
+    "angulo": "Guia sobre como evitar salmonela em alimentos congelados",
+    "titulo": "Salmonellen-Gefahr bei Edeka: So schützt du dich vor kontaminierten Lebensmitteln"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "ronaldo",
+   "score": 42,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Nations League: Cristiano Ronaldo verlässt Portugal-Camp",
+     "url": "https://www.bild.de/sport/fussball/nations-league-cristiano-ronaldo-verlaesst-portugal-camp-6abd5a4b3874ab06420dfb7f",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "Cristiano Ronaldo reist ab und deutet Karriereende in der Nationalmannschaft an",
+     "url": "https://www.kicker.de/cristiano-ronaldo-reist-ab-und-deutet-karriereende-in-der-nationalmannschaft-an-1257312/artikel",
+     "fonte": "Kicker"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 269247,
+    "outlier": 2166.1,
+    "melhor": {
+     "titulo": "Lamine Yamal vs Ronaldo Dressing Challenge 😱🔥#viral",
+     "canal": "Muzam",
+     "views": 21065282,
+     "url": "https://youtu.be/PwYDlELz-f8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "sim",
+    "motivo": "Possível fim de carreira na seleção gera interesse duradouro",
+    "angulo": "Análise completa da carreira de Ronaldo em Portugal e legado",
+    "titulo": "Ronaldos Karriereende bei Portugal: Seine größten Momente für die Nationalmannschaft"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "thw kiel",
+   "score": 41,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 10000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "Liveticker heute: THW Kiel vs. SC Magdeburg - Handball-Bundesliga",
+     "url": "https://www.kn-online.de/sport/regional/liveticker-heute-thw-kiel-vs-sc-magdeburg-handball-bundesliga-HWA5V5FUBA5ADH5SK5P7X766SQ.html",
+     "fonte": "Kieler Nachrichten"
+    },
+    {
+     "titulo": "SCM will Kiel endlich wieder bezwingen",
+     "url": "https://www.mdr.de/sport/sport-im-osten/scm-will-kiel-endlich-wieder-bezwingen,video-scm-kiel-100.html",
+     "fonte": "MDR.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 11,
+    "top_vph": 480,
+    "outlier": 5.0,
+    "melhor": {
+     "titulo": "Umstrittene Entscheidung – am Ende die richtige? 👀 | ZDFsportstudio | #shorts",
+     "canal": "sportstudio",
+     "views": 34832,
+     "url": "https://youtu.be/ilhdyiotvpw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Rivalidade clássica gera interesse recorrente em análises táticas",
+    "angulo": "Análise tática histórica THW Kiel vs Magdeburg",
+    "titulo": "THW Kiel vs SC Magdeburg: Die größte Rivalität im deutschen Handball"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "cristiano ronaldo",
+   "score": 40,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Cristiano Ronaldo: Portugal boss Jorge Jesus denies rift with captain",
+     "url": "https://www.bbc.com/sport/football/articles/cm9dw7ddwgzwo",
+     "fonte": "BBC"
+    },
+    {
+     "titulo": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
+     "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+     "fonte": "The Guardian"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 99572,
+    "outlier": 1836.8,
+    "melhor": {
+     "titulo": "Animals Try to Be Like Ronaldo...😍🔥",
+     "canal": "217aep",
+     "views": 10329063,
+     "url": "https://youtu.be/4KzlKdYfukw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "sim",
+    "motivo": "Conflito com treinador e futuro na seleção gera debate prolongado",
+    "angulo": "Análise do relacionamento Ronaldo com técnicos ao longo da carreira",
+    "titulo": "Ronaldo vs Trainer Jorge Jesus: Was wirklich hinter dem Konflikt steckt"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "bündnis sahra wagenknecht – vernunft und gerechtigkeit",
+   "score": 39,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "BSW streicht Sahra Wagenknechts Namen aus dem Parteinamen",
+     "url": "https://www.stern.de/politik/deutschland/bsw-streicht-sahra-wagenknechts-namen-aus-dem-parteinamen-38331868.html",
+     "fonte": "STERN.de"
+    },
+    {
+     "titulo": "„BSW bleibt BSW“: So nennt sich die Partei ab Oktober – ohne Sahra Wagenknecht",
+     "url": "https://www.berliner-zeitung.de/article/bsw-neuer-name-ohne-sahra-wagenknecht-10446658",
+     "fonte": "Berliner Zeitung"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 20,
+    "top_vph": 4756,
+    "outlier": 250.6,
+    "melhor": {
+     "titulo": "AfD und BSW verhandeln: Neue Machtverteilung im Landtag! #deutschland",
+     "canal": "Faktenstand",
+     "views": 226294,
+     "url": "https://youtu.be/SuUe9nSbzHo"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Mudança de nome gera debate sobre identidade partidária",
+    "angulo": "O que significa retirar Wagenknecht do nome",
+    "titulo": "BSW ohne Wagenknecht im Namen: Was steckt dahinter?"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "wetter morgen",
+   "score": 36,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 200000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Wetter in Deutschland: Morgen endlich Regen für den Westen",
+     "url": "https://www.wetteronline.de/wetterticker/wetter-in-deutschland-morgen-endlich-regen-fuer-den-westen--5509c734-7c9a-4f04-8fbe-fba30248e218",
+     "fonte": "WetterOnline"
+    },
+    {
+     "titulo": "Wetter morgen am Donnerstag: Kaltfront verlagert sich zum Oktoberstart",
+     "url": "https://www.wetter.com/news/wetterbericht-fuer-morgen-am-donnerstag-01-oktober-kaltfront-verlagert-sich-zum-oktoberstart_aid_6abcac30b4deacd9b0057896.html",
+     "fonte": "wetter.com"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 3,
+    "top_vph": 627,
+    "outlier": 2.5,
+    "melhor": {
+     "titulo": "GTA 6: DAS passiert MORGEN um 18 Uhr!",
+     "canal": "JULEX",
+     "views": 31178,
+     "url": "https://youtu.be/0hyYwIQBTtQ"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meteorologia",
+    "vira_video": "nao",
+    "motivo": "Previsão do tempo muda diariamente, conteúdo expira rápido",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "siegen",
+   "score": 33,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "Siegen: Stockschläge auf Brust und Kopf – Angeklagter: „Das hat er selbst getan“",
+     "url": "https://www.wp.de/lokales/siegen-und-umland/article413297959/siegen-stockschlaege-auf-brust-und-kopf-angeklagter-das-hat-er-selbst-getan.html",
+     "fonte": "WP | Westfalenpost"
+    },
+    {
+     "titulo": "Comeback für altes Karstadt-Haus? Welche Mega-Pläne die Stadt gegen den Riesen-Leerstand hat",
+     "url": "https://www1.wdr.de/nrw/sauerland-siegerland/kreis-siegen-wittgenstein/karstadt-siegen-bibliothek-100.html",
+     "fonte": "WDR"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 8,
+    "top_vph": 646,
+    "outlier": 11.8,
+    "melhor": {
+     "titulo": "Proverbs Prevails - CXCII",
+     "canal": "Nate Da Silva",
+     "views": 74151,
+     "url": "https://youtu.be/p4K3UU39W_A"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias Locais",
+    "vira_video": "talvez",
+    "motivo": "Revitalização urbana interessa além do momento mas crime não",
+    "angulo": "Transformação de espaços abandonados em cidades alemãs",
+    "titulo": "Karstadt Comeback in Siegen: So will die Stadt die Innenstadt retten"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "zdf livestream",
+   "score": 31,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Ein bisschen Spaß muss sein!",
+     "url": "https://www.zdf.de/video/shows/bares-fuer-rares-104/bares-fuer-rares-vom-25-september-2026-100",
+     "fonte": "ZDF"
+    },
+    {
+     "titulo": "Bares für Rares XXL: ZDF bestätigt neuen Sendetermin",
+     "url": "https://www.stuttgarter-zeitung.de/unterhaltung/bares-fuer-rares-xxl-zdf-bestaetigt-neuen-sendetermin-79516129.html",
+     "fonte": "Stuttgarter Zeitung"
+    }
+   ],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Mídia e Entretenimento",
+    "vira_video": "talvez",
+    "motivo": "Busca por acesso ao streaming, tutorial pode ter duração",
+    "angulo": "Tutorial completo sobre como acessar ZDF livestream gratuitamente",
+    "titulo": "ZDF Livestream kostenlos schauen: Komplette Anleitung für alle Geräte 2024"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "fifa-präsident",
+   "score": 29,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "„Können weitere Unterstützung nicht verantworten“ – Schweiz wendet sich von Infantino ab",
+     "url": "https://www.welt.de/sport/fussball/article6abd30f6eb10ca6ab006089d/fifa-koennen-weitere-unterstuetzung-nicht-verantworten-schweiz-wendet-sich-von-infantino-ab.html",
+     "fonte": "WELT"
+    },
+    {
+     "titulo": "Unterstützung für Infantino - Lettland Abweichler in Europa",
+     "url": "https://www.sportschau.de/fussball/unterstuetzung-fuer-infantino-lettland-abweichler-in-europa,lettland-infantino-100.html",
+     "fonte": "sportschau.de"
+    }
+   ],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes e Política",
+    "vira_video": "talvez",
+    "motivo": "Controvérsia política no futebol gera discussão além da notícia imediata",
+    "angulo": "Histórico das polêmicas envolvendo Infantino na FIFA",
+    "titulo": "Infantino unter Druck: Warum die Schweiz dem FIFA-Präsidenten den Rücken kehrt"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "meg ryan",
+   "score": 29,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Meg Ryan sells her Bridgehampton home for $15.25 million: Inside the American actress' former estate, whi",
+     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meg-ryan-sells-her-bridgehampton-home-for-15-25-million-inside-the-american-actress-former-estate-which-she-bought-for-13-49-million-in-2024/articleshow/134516194.cms",
+     "fonte": "The Times of India"
+    },
+    {
+     "titulo": "Inside Meg Ryan’s Minimalist Hamptons Escape, Which Just Sold for the Full Multimillion-Dollar Asking Price",
+     "url": "https://www.yahoo.com/lifestyle/articles/inside-meg-ryan-minimalist-hamptons-152611356.html",
+     "fonte": "Yahoo"
+    }
+   ],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Celebridades e Imóveis",
+    "vira_video": "talvez",
+    "motivo": "Venda de mansão permite tour virtual e análise de estilo",
+    "angulo": "Tour pela mansão minimalista vendida por Meg Ryan",
+    "titulo": "Meg Ryans 15 Millionen Dollar Haus: Exklusiver Rundgang durch die Luxusvilla"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "schule",
+   "score": 26,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Großbritannien: Harry und Meghan empört über Paparazzi vor Schule ihrer Kinder",
+     "url": "https://www.spiegel.de/panorama/leute/harry-und-meghan-empoert-ueber-paparazzi-vor-schule-ihrer-kinder-a-45cde5e4-2350-4a57-acff-54d0c237c839",
+     "fonte": "Spiegel"
+    },
+    {
+     "titulo": "„Inakzeptabler Eingriff“ – Harry und Meghan empört über Fotografen an der Schule ihrer Kinder",
+     "url": "https://www.welt.de/vermischtes/article6abcecb553ba19e8dfe574cf/grossbritannien-inakzeptabler-eingriff-harry-und-meghan-empoert-ueber-fotografen-an-der-schule-ihrer-kinder.html",
+     "fonte": "WELT"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 42644,
+    "outlier": 266.4,
+    "melhor": {
+     "titulo": "My Mom Went Back To School",
+     "canal": "MSA",
+     "views": 3965130,
+     "url": "https://youtu.be/XZXVZjXYGQY"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Sociedade",
+    "vira_video": "nao",
+    "motivo": "Notícia específica sobre celebridades sem valor duradouro",
+    "angulo": "",
+    "titulo": ""
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "vremea de mâine",
+   "score": 26,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Septembrie își ia rămas-bun cu vreme frumoasă. Ce temperaturi avem miercuri",
+     "url": "https://ziar.md/septembrie-isi-ia-ramas-bun-cu-vreme-frumoasa-ce-temperaturi-avem-miercuri-2/",
+     "fonte": "ziar.md"
+    },
+    {
+     "titulo": "Super Neatza. Prognoza meteo cu Ramona Olaru: Cer senin cu înnorări temporare doar pe litoral",
+     "url": "https://a1.ro/neatza-cu-razvan-si-dani/meteo/super-neatza-prognoza-meteo-cu-ramona-olaru-cer-senin-cu-innorari-temporare-doar-pe-litoral-id1163275.html",
+     "fonte": "A1.RO"
+    }
+   ],
+   "yt": {
+    "videos_7d": 3,
+    "com_10k": 0,
+    "top_vph": 2,
+    "outlier": 1.3,
+    "melhor": {
+     "titulo": "Azi e soare, mâine nori ❤️ | Manele de Dragoste 2026 | Manele Românești",
+     "canal": "HitVibe",
+     "views": 129,
+     "url": "https://youtu.be/dEaz9BRLLe0"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meteorologia",
+    "vira_video": "nao",
+    "motivo": "Termo em romeno, fora do mercado alemão, previsão diária",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "schwendau",
+   "score": 25,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Vater und Tochter (4) stürzen in Tirol mit Tandem-Gleitschirm ab",
+     "url": "https://www.allgaeuer-zeitung.de/oesterreich/gleitschirm-unfall-in-tirol-vater-und-tochter-stuerzen-mit-tandem-am-startplatz-penken-in-schwendau-ab-115403071",
+     "fonte": "Allgäuer Zeitung"
+    }
+   ],
+   "yt": {
+    "videos_7d": 1,
+    "com_10k": 0,
+    "top_vph": 0,
+    "outlier": 0.0,
+    "melhor": {
+     "titulo": "Hotel Sieghard, Schwendau, Austria | Travel With Siya",
+     "canal": "Travel With Siya",
+     "views": 3,
+     "url": "https://youtu.be/Dv4KsfAEuYw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias e Atualidades",
+    "vira_video": "nao",
+    "motivo": "Acidente específico, notícia pontual sem valor educativo duradouro",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "deutschland serbien",
+   "score": 24,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "DFB-Team vs. Serbien: PK mit Klopp und Urbig im Liveticker - Torhüter-Entscheidung gefallen",
+     "url": "https://ran.joyn.de/sports/fussball/nations-league-a/dfb-team-vs-serbien-pressekonferenz-mit-juergen-klopp-und-jonas-urbig-jetzt-im-liveticker-torhueter-entscheidung-gefallen-194486",
+     "fonte": "Joyn"
+    },
+    {
+     "titulo": "Jonas Urbig spielt gegen Serbien! Sein ungewöhnliches DFB-Debüt",
+     "url": "https://www.bild.de/sport/fussball/jonas-urbig-spielt-gegen-serbien-sein-ungewoehnliches-dfb-debuet-6abcc5b80f65d43326f6995f",
+     "fonte": "BILD"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 16,
+    "top_vph": 21251,
+    "outlier": 38.9,
+    "melhor": {
+     "titulo": "Deutschland – Griechenland | UEFA Nations League, 2. Spieltag 2026/27 | ZDFsportstudio",
+     "canal": "sportstudio fußball",
+     "views": 1433037,
+     "url": "https://youtu.be/otBvjMTTEB8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico perde relevância após partida realizada",
+    "angulo": "",
+    "titulo": ""
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "berlin",
+   "score": 23,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "Er war lange der mächtigste SPD-Mann Berlins Der nicht ganz freiwillige Abschied des Raed Saleh",
+     "url": "https://www.tagesspiegel.de/berlin/er-war-lange-der-machtigste-spd-mann-berlinsder-nicht-ganz-freiwillige-abschied-des-raed-saleh-16106396.html",
+     "fonte": "Tagesspiegel"
+    },
+    {
+     "titulo": "Berlin: Derya Çaglar und Steffen Krach sind die neuen Vorsitzenden der Berliner SPD-Fraktion",
+     "url": "https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52",
+     "fonte": "Spiegel"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 44912,
+    "outlier": 46.7,
+    "melhor": {
+     "titulo": "Берлин - не Германия. Самый свободный город",
+     "canal": "Послезавтра",
+     "views": 432985,
+     "url": "https://youtu.be/WMwKbbvFwXY"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política Local",
+    "vira_video": "nao",
+    "motivo": "Mudança política interna específica com interesse passageiro",
+    "angulo": "Bastidores do poder SPD em Berlim",
+    "titulo": "Der Machtwechsel in der Berliner SPD: Was jetzt kommt"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "vrijeme sutra",
+   "score": 19,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meteorologia",
+    "vira_video": "nao",
+    "motivo": "Termo em croata, fora do mercado alemão, previsão diária",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "novo": true,
+   "variacao": null
+  }
+ ],
+ "semana": [
+  {
+   "termo": "bodensee",
+   "score": 38,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Bis zum Bauch im Schlamm: Frau gerät am Bodensee in Not",
+     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/frau-sinkt-am-bodenseeufer-bis-zum-bauch-im-schlamm-ein-100.html",
+     "fonte": "SWR"
+    },
+    {
+     "titulo": "Frau (74) versinkt bis zum Bauch im Schlamm am Bodenseeufer",
+     "url": "https://www.schwaebische.de/regional/bodensee/konstanz/frau-74-versinkt-bis-zum-bauch-im-schlamm-am-bodenseeufer-4903771",
+     "fonte": "Schwäbische.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 4,
+    "top_vph": 1620,
+    "outlier": 588.9,
+    "melhor": {
+     "titulo": "Die Fischerin vom Bodensee mit Sabrina Kulovits ☀️| Steirische Harmonika | GCFB",
+     "canal": "SabsQuetschtZaum",
+     "views": 132232,
+     "url": "https://youtu.be/Yk7fElOX4u8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Turismo",
+    "vira_video": "sim",
+    "motivo": "Incidente ilustra perigos desconhecidos de destino turístico popular",
+    "angulo": "Perigos escondidos no Bodensee que turistas desconhecem",
+    "titulo": "Bodensee Gefahren: Was Touristen über Schlamm und Sicherheit wissen müssen"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 57
+  },
+  {
+   "termo": "brauerei",
+   "score": 37,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Allen Mitarbeitern gekündigt: Insolvente Brauerei schließt für immer",
+     "url": "https://www.bild.de/news/inland/allen-mitarbeitern-gekuendigt-insolvente-brauerei-schliesst-fuer-immer-6ab92a9aa8b3f6fdb1edd0a5",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "1627 gegründet: Traditionsbrauerei wird geschlossen",
+     "url": "https://web.de/magazine/wirtschaft/1627-gegruendet-traditionsbrauerei-geschlossen-42779792",
+     "fonte": "WEB.DE"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 1265,
+    "outlier": 32.2,
+    "melhor": {
+     "titulo": "Tream x SCHNEIDER WEISSE Weissbier ab sofort wieder exklusiv bei Kaufland. 🙌 #kaufland",
+     "canal": "Kaufland",
+     "views": 183726,
+     "url": "https://youtu.be/b2q3WDuwc7c"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Economia",
+    "vira_video": "sim",
+    "motivo": "Declínio de cervejarias tradicionais é tendência cultural relevante",
+    "angulo": "Por que cervejarias tradicionais alemãs estão fechando",
+    "titulo": "Traditionsbrauereien in der Krise: Das Sterben deutscher Bierkultur"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 500,
+   "momentum": 0,
+   "score_medio": 56
+  },
+  {
+   "termo": "afd sachsen-anhalt",
+   "score": 36,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Sachsen-Anhalt: Die AfD braucht das BSW, aber traut ihm nicht",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-sachsen-anhalt-afd-bsw-100.html",
+     "fonte": "tagesschau.de"
+    },
+    {
+     "titulo": "AfD lenkt im Ausschuss-Streit ein, Sitzordnung steht fest: Vor-Ältestenrat bereitet Landtag vor",
+     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtag-regeln-ausschuesse-sitzordnung-102,vor-aeltestenrat-100.html",
+     "fonte": "MDR.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 8239,
+    "outlier": 250.6,
+    "melhor": {
+     "titulo": "SACHSEN-ANHALT: AfD-Wahlsieger Siegmund will im ersten Wahlgang Ministerpräsident werden",
+     "canal": "WELT Nachrichtensender",
+     "views": 177849,
+     "url": "https://youtu.be/seB2ej5V_3E"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "sim",
+    "motivo": "Dinâmica política AfD-BSW é tema contínuo na Alemanha",
+    "angulo": "Análise da estratégia política AfD em Sachsen-Anhalt",
+    "titulo": "AfD und BSW in Sachsen-Anhalt: Was bedeutet die neue Konstellation?"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 54
+  },
+  {
+   "termo": "phishing",
+   "score": 35,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "AOK-Phishing: Falsche E-Mail verspricht 478,90 Euro Rückzahlung",
+     "url": "https://www.bild.de/leben-wissen/digital/aok-phishing-falsche-e-mail-verspricht-478-90-euro-rueckzahlung-6abb713a36a3ebaeca5dd903",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "478,90 Euro sind bis zum 7. Oktober ein Warnsignal für alle Bürger",
+     "url": "https://www.ruhr24.de/service/rueckrufe-warnungen/aok-email-rueckerstattung-betreff-oktober-krankenkasse-verbraucherzentrale-betrug-spam-melden-94514384.html",
+     "fonte": "Ruhr24"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 18,
+    "top_vph": 1806,
+    "outlier": 82.2,
+    "melhor": {
+     "titulo": "피싱당한 돈 되찾았다!…경찰, 200억 원 돌려줘 #shorts / KBS",
+     "canal": "KBS News",
+     "views": 12785,
+     "url": "https://youtu.be/MplADtlYBk0"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Segurança Digital",
+    "vira_video": "sim",
+    "motivo": "Golpes digitais são ameaça permanente e educativa",
+    "angulo": "Como identificar e evitar golpes de phishing",
+    "titulo": "AOK-Phishing: So erkennst du falsche E-Mails und schützt dich"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 52
+  },
+  {
+   "termo": "elektromobilität",
+   "score": 35,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "E-Mobilität: Auslastung von Ladesäulen für Elektroautos nimmt deutlich zu",
+     "url": "https://www.zeit.de/mobilitaet/2026-09/e-auto-ladesaeulen-nutzung-auslastung-vattenfall-enbw-aral-gxe",
+     "fonte": "DIE ZEIT"
+    },
+    {
+     "titulo": "Vattenfall InCharge meldet Rekordauslastung bei Ladepunkten",
+     "url": "https://ecomento.de/2026/09/29/vattenfall-incharge-meldet-rekordauslastung-bei-ladepunkten/",
+     "fonte": "ecomento.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 7,
+    "top_vph": 3044,
+    "outlier": 5.5,
+    "melhor": {
+     "titulo": "Wie zufrieden sind E-Auto-Fahrer wirklich? | Unter Strom – Einfach Elektromobilität | 123 | ADAC",
+     "canal": "ADAC",
+     "views": 154142,
+     "url": "https://youtu.be/_Xug8hjE5tU"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Tecnologia e Sustentabilidade",
+    "vira_video": "sim",
+    "motivo": "Tema evergreen com dados novos sobre infraestrutura crescente",
+    "angulo": "Guia prático de carregamento elétrico na Alemanha",
+    "titulo": "E-Auto laden 2025: So findest du freie Ladesäulen in Deutschland"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 52
+  },
+  {
+   "termo": "rosenheim cops",
+   "score": 33,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Die Rosenheim Cops ermitteln wieder: Neues zum Staffelstart - Bayern - SZ.de",
+     "url": "https://www.sueddeutsche.de/bayern/bayern-fernsehserien-rosenheim-cops-staffelstart-marisa-burger-li.3555511",
+     "fonte": "SZ.de"
+    },
+    {
+     "titulo": "\"Rosenheim-Cops\"-Produzentin reagiert auf Marisa Burgers Kritik",
+     "url": "https://www.t-online.de/unterhaltung/tv/id_101455960/-rosenheim-cops-im-zdf-produzentin-reagiert-auf-marisa-burgers-kritik.html",
+     "fonte": "T-Online"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 240,
+    "outlier": 2.5,
+    "melhor": {
+     "titulo": "Die Rosenheim-Cops (2002): 10 Stars, die uns verlassen haben – Wer lebt noch 2026?",
+     "canal": "Childhood Legacy",
+     "views": 5962,
+     "url": "https://youtu.be/4OXM3nnJ5f4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Entretenimento",
+    "vira_video": "talvez",
+    "motivo": "Série popular gera interesse em bastidores e análises",
+    "angulo": "Bastidores e curiosidades da série cult alemã",
+    "titulo": "Rosenheim Cops: Die Geheimnisse hinter Deutschlands Kultserie"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 49
+  },
+  {
+   "termo": "krankenversicherung",
+   "score": 32,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "Sparmaßnahmen der Krankenversicherung sollen auch Beamte treffen",
+     "url": "https://www.br.de/nachrichten/wirtschaft/sparmassnahmen-der-krankenversicherung-sollen-auch-beamte-treffen,VWhAOII",
+     "fonte": "BR"
+    },
+    {
+     "titulo": "Ungerecht? Millionen Kassenpatienten zahlen bald mehr – Beamte sollen verschont bleiben",
+     "url": "https://www.fr.de/verbraucher/fuer-beamte-krankenkassen-chef-fordert-hoehere-zuzahlungen-auch-94511966.html",
+     "fonte": "Frankfurter Rundschau"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 5,
+    "top_vph": 329,
+    "outlier": 50.8,
+    "melhor": {
+     "titulo": "Americans navigate the wild, wild West of health insurance without Obamacare",
+     "canal": "Reuters",
+     "views": 40095,
+     "url": "https://youtu.be/PgqFsXiv-sk"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Finanças Pessoais",
+    "vira_video": "sim",
+    "motivo": "Sistema de saúde alemão afeta milhões constantemente",
+    "angulo": "Guia completo sobre mudanças no sistema de saúde",
+    "titulo": "Krankenversicherung 2024: Was ändert sich für dich?"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 47
+  },
+  {
+   "termo": "pipeline",
+   "score": 31,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Pipelines sichern Transporte: Rohölexporte am Golf steigen auf Vorkriegsniveau",
+     "url": "https://www.n-tv.de/wirtschaft/Rohoelexporte-am-Golf-steigen-auf-Vorkriegsniveau-id31365736.html",
+     "fonte": "n-tv.de"
+    },
+    {
+     "titulo": "Krise vorbei? Plötzlich fließt das Öl aus Nahost wie geschmiert",
+     "url": "https://www.bild.de/politik/ausland-und-internationales/krise-vorbei-ploetzlich-fliesst-das-oel-aus-nahost-wie-geschmiert-6abbd17172f1dd17be2d3355",
+     "fonte": "BILD"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 10878,
+    "outlier": 450.6,
+    "melhor": {
+     "titulo": "It's DONE: Trump's Import Ban BACKFIRES as Canada Builds Oil Pipeline Cutting America OUT!",
+     "canal": "The Planet D",
+     "views": 296028,
+     "url": "https://youtu.be/mIOy5ADEC34"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Energia",
+    "vira_video": "sim",
+    "motivo": "Infraestrutura energética é tema evergreen e estratégico",
+    "angulo": "Como pipelines garantem segurança energética global",
+    "titulo": "Öl-Pipelines erklärt: So funktioniert die globale Energiesicherheit"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 46
+  },
+  {
+   "termo": "zschopau",
+   "score": 29,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Vintage-Trophy Zschopau: Das Wichtigste vor Ort um Überblick",
+     "url": "https://magazin.baboons.de/sport-reports/enduro-wm/vintage-trophy-zschopau-das-wichtigste-vor-ort-um-ueberblick",
+     "fonte": "Baboons"
+    },
+    {
+     "titulo": "„MC Simson“ fährt zur WM: Unter Denkmalschutz durchs Gelände",
+     "url": "https://www.insuedthueringen.de/inhalt.mc-simson-faehrt-zur-wm-unter-denkmalschutz-durchs-gelaende.d4130fc3-4698-47e1-a384-242e6c4df7d2.html",
+     "fonte": "inSüdthüringen"
+    }
+   ],
+   "yt": {
+    "videos_7d": 24,
+    "com_10k": 0,
+    "top_vph": 178,
+    "outlier": 13.0,
+    "melhor": {
+     "titulo": "Letzter Check vor Zschopau! BMW Six Days 1979 | Vintage Trophy 2026 | SWT-Sports",
+     "canal": "SWT-SPORTS",
+     "views": 4030,
+     "url": "https://youtu.be/PHpjVhoZxxA"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes Motorizados",
+    "vira_video": "talvez",
+    "motivo": "Evento vintage gera interesse em cultura motociclística clássica",
+    "angulo": "História e cultura das motos vintage Simson",
+    "titulo": "Vintage Trophy Zschopau: Die Faszination klassischer DDR-Motorräder"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 43
+  },
+  {
+   "termo": "mathias gidsel",
+   "score": 29,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "Hannings Fazit zur Klub-WM: „Die sollen ihren Job machen, für den sie bezahlt werden“",
+     "url": "https://sportbild.bild.de/sportmix/handball/hannings-fazit-zur-klub-wm-die-sollen-ihren-job-machen-fuer-den-sie-bezahlt-werden-6abce29de69c7c64bf6933dd",
+     "fonte": "Sport Bild"
+    },
+    {
+     "titulo": "Handball-Super Globe - Füchse Berlin verpassen bei Club-WM auch Spiel um Platz drei - Sport - SZ.de",
+     "url": "https://www.sueddeutsche.de/sport/handball-super-globe-fuechse-berlin-verpassen-bei-club-wm-auch-spiel-um-platz-drei-dpa.urn-newsml-dpa-com-20090101-260929-930-764338",
+     "fonte": "SZ.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 11,
+    "com_10k": 0,
+    "top_vph": 99,
+    "outlier": 1.2,
+    "melhor": {
+     "titulo": "Mathias Gidsel Berlin Strike | Handball Shorts",
+     "canal": "Handball World",
+     "views": 9985,
+     "url": "https://youtu.be/cENGmfCyYpE"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Estrela do handebol gera interesse em perfis e análises",
+    "angulo": "Perfil do talento dinamarquês do handebol alemão",
+    "titulo": "Mathias Gidsel: Der dänische Superstar im deutschen Handball"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 500,
+   "momentum": 0,
+   "score_medio": 43
+  },
+  {
+   "termo": "salmonellen",
+   "score": 29,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Rückruf bei Edeka und Marktkauf: TK-Beeren können mit Salmonellen belastet sein",
+     "url": "https://www.ruhrnachrichten.de/service/rueckruf-edeka-tk-bio-wildheidelbeeren-marktkauf-salmonellen-warnung-w1240414-2002201444/",
+     "fonte": "Ruhr Nachrichten"
+    },
+    {
+     "titulo": "Edeka-Rückruf: Salmonellen in diesem Lebensmittel festgestellt",
+     "url": "https://cedarnews.net/german/1014568/edeka-ruckruf-salmonellen-diesem-lebensmittel-festgestellt/",
+     "fonte": "cedarnews.net"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 5,
+    "top_vph": 977,
+    "outlier": 10.1,
+    "melhor": {
+     "titulo": "Rotisserie chicken is being linked to Salmonella recalls… so check yours",
+     "canal": "FitLifeTV",
+     "views": 23203,
+     "url": "https://youtu.be/hZo1z7t1naA"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Saúde e Segurança Alimentar",
+    "vira_video": "talvez",
+    "motivo": "Recall específico mas tema educativo sobre segurança alimentar permanece relevante",
+    "angulo": "Guia sobre como evitar salmonela em alimentos congelados",
+    "titulo": "Salmonellen-Gefahr bei Edeka: So schützt du dich vor kontaminierten Lebensmitteln"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 42
+  },
+  {
+   "termo": "ronaldo",
+   "score": 29,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Nations League: Cristiano Ronaldo verlässt Portugal-Camp",
+     "url": "https://www.bild.de/sport/fussball/nations-league-cristiano-ronaldo-verlaesst-portugal-camp-6abd5a4b3874ab06420dfb7f",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "Cristiano Ronaldo reist ab und deutet Karriereende in der Nationalmannschaft an",
+     "url": "https://www.kicker.de/cristiano-ronaldo-reist-ab-und-deutet-karriereende-in-der-nationalmannschaft-an-1257312/artikel",
+     "fonte": "Kicker"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 269247,
+    "outlier": 2166.1,
+    "melhor": {
+     "titulo": "Lamine Yamal vs Ronaldo Dressing Challenge 😱🔥#viral",
+     "canal": "Muzam",
+     "views": 21065282,
+     "url": "https://youtu.be/PwYDlELz-f8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "sim",
+    "motivo": "Possível fim de carreira na seleção gera interesse duradouro",
+    "angulo": "Análise completa da carreira de Ronaldo em Portugal e legado",
+    "titulo": "Ronaldos Karriereende bei Portugal: Seine größten Momente für die Nationalmannschaft"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 42
+  },
+  {
+   "termo": "thw kiel",
+   "score": 28,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 10000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "Liveticker heute: THW Kiel vs. SC Magdeburg - Handball-Bundesliga",
+     "url": "https://www.kn-online.de/sport/regional/liveticker-heute-thw-kiel-vs-sc-magdeburg-handball-bundesliga-HWA5V5FUBA5ADH5SK5P7X766SQ.html",
+     "fonte": "Kieler Nachrichten"
+    },
+    {
+     "titulo": "SCM will Kiel endlich wieder bezwingen",
+     "url": "https://www.mdr.de/sport/sport-im-osten/scm-will-kiel-endlich-wieder-bezwingen,video-scm-kiel-100.html",
+     "fonte": "MDR.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 11,
+    "top_vph": 480,
+    "outlier": 5.0,
+    "melhor": {
+     "titulo": "Umstrittene Entscheidung – am Ende die richtige? 👀 | ZDFsportstudio | #shorts",
+     "canal": "sportstudio",
+     "views": 34832,
+     "url": "https://youtu.be/ilhdyiotvpw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Rivalidade clássica gera interesse recorrente em análises táticas",
+    "angulo": "Análise tática histórica THW Kiel vs Magdeburg",
+    "titulo": "THW Kiel vs SC Magdeburg: Die größte Rivalität im deutschen Handball"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 10000,
+   "momentum": 0,
+   "score_medio": 41
+  },
+  {
+   "termo": "cristiano ronaldo",
+   "score": 28,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Cristiano Ronaldo: Portugal boss Jorge Jesus denies rift with captain",
+     "url": "https://www.bbc.com/sport/football/articles/cm9dw7ddwgzwo",
+     "fonte": "BBC"
+    },
+    {
+     "titulo": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
+     "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+     "fonte": "The Guardian"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 99572,
+    "outlier": 1836.8,
+    "melhor": {
+     "titulo": "Animals Try to Be Like Ronaldo...😍🔥",
+     "canal": "217aep",
+     "views": 10329063,
+     "url": "https://youtu.be/4KzlKdYfukw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "sim",
+    "motivo": "Conflito com treinador e futuro na seleção gera debate prolongado",
+    "angulo": "Análise do relacionamento Ronaldo com técnicos ao longo da carreira",
+    "titulo": "Ronaldo vs Trainer Jorge Jesus: Was wirklich hinter dem Konflikt steckt"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 40
+  },
+  {
+   "termo": "bündnis sahra wagenknecht – vernunft und gerechtigkeit",
+   "score": 27,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "BSW streicht Sahra Wagenknechts Namen aus dem Parteinamen",
+     "url": "https://www.stern.de/politik/deutschland/bsw-streicht-sahra-wagenknechts-namen-aus-dem-parteinamen-38331868.html",
+     "fonte": "STERN.de"
+    },
+    {
+     "titulo": "„BSW bleibt BSW“: So nennt sich die Partei ab Oktober – ohne Sahra Wagenknecht",
+     "url": "https://www.berliner-zeitung.de/article/bsw-neuer-name-ohne-sahra-wagenknecht-10446658",
+     "fonte": "Berliner Zeitung"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 20,
+    "top_vph": 4756,
+    "outlier": 250.6,
+    "melhor": {
+     "titulo": "AfD und BSW verhandeln: Neue Machtverteilung im Landtag! #deutschland",
+     "canal": "Faktenstand",
+     "views": 226294,
+     "url": "https://youtu.be/SuUe9nSbzHo"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Mudança de nome gera debate sobre identidade partidária",
+    "angulo": "O que significa retirar Wagenknecht do nome",
+    "titulo": "BSW ohne Wagenknecht im Namen: Was steckt dahinter?"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 39
+  },
+  {
+   "termo": "wetter morgen",
+   "score": 25,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 200000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Wetter in Deutschland: Morgen endlich Regen für den Westen",
+     "url": "https://www.wetteronline.de/wetterticker/wetter-in-deutschland-morgen-endlich-regen-fuer-den-westen--5509c734-7c9a-4f04-8fbe-fba30248e218",
+     "fonte": "WetterOnline"
+    },
+    {
+     "titulo": "Wetter morgen am Donnerstag: Kaltfront verlagert sich zum Oktoberstart",
+     "url": "https://www.wetter.com/news/wetterbericht-fuer-morgen-am-donnerstag-01-oktober-kaltfront-verlagert-sich-zum-oktoberstart_aid_6abcac30b4deacd9b0057896.html",
+     "fonte": "wetter.com"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 3,
+    "top_vph": 627,
+    "outlier": 2.5,
+    "melhor": {
+     "titulo": "GTA 6: DAS passiert MORGEN um 18 Uhr!",
+     "canal": "JULEX",
+     "views": 31178,
+     "url": "https://youtu.be/0hyYwIQBTtQ"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meteorologia",
+    "vira_video": "nao",
+    "motivo": "Previsão do tempo muda diariamente, conteúdo expira rápido",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 200000,
+   "momentum": 0,
+   "score_medio": 36
+  },
+  {
+   "termo": "siegen",
+   "score": 23,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "Siegen: Stockschläge auf Brust und Kopf – Angeklagter: „Das hat er selbst getan“",
+     "url": "https://www.wp.de/lokales/siegen-und-umland/article413297959/siegen-stockschlaege-auf-brust-und-kopf-angeklagter-das-hat-er-selbst-getan.html",
+     "fonte": "WP | Westfalenpost"
+    },
+    {
+     "titulo": "Comeback für altes Karstadt-Haus? Welche Mega-Pläne die Stadt gegen den Riesen-Leerstand hat",
+     "url": "https://www1.wdr.de/nrw/sauerland-siegerland/kreis-siegen-wittgenstein/karstadt-siegen-bibliothek-100.html",
+     "fonte": "WDR"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 8,
+    "top_vph": 646,
+    "outlier": 11.8,
+    "melhor": {
+     "titulo": "Proverbs Prevails - CXCII",
+     "canal": "Nate Da Silva",
+     "views": 74151,
+     "url": "https://youtu.be/p4K3UU39W_A"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias Locais",
+    "vira_video": "talvez",
+    "motivo": "Revitalização urbana interessa além do momento mas crime não",
+    "angulo": "Transformação de espaços abandonados em cidades alemãs",
+    "titulo": "Karstadt Comeback in Siegen: So will die Stadt die Innenstadt retten"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 500,
+   "momentum": 0,
+   "score_medio": 33
+  },
+  {
+   "termo": "zdf livestream",
+   "score": 22,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Ein bisschen Spaß muss sein!",
+     "url": "https://www.zdf.de/video/shows/bares-fuer-rares-104/bares-fuer-rares-vom-25-september-2026-100",
+     "fonte": "ZDF"
+    },
+    {
+     "titulo": "Bares für Rares XXL: ZDF bestätigt neuen Sendetermin",
+     "url": "https://www.stuttgarter-zeitung.de/unterhaltung/bares-fuer-rares-xxl-zdf-bestaetigt-neuen-sendetermin-79516129.html",
+     "fonte": "Stuttgarter Zeitung"
+    }
+   ],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Mídia e Entretenimento",
+    "vira_video": "talvez",
+    "motivo": "Busca por acesso ao streaming, tutorial pode ter duração",
+    "angulo": "Tutorial completo sobre como acessar ZDF livestream gratuitamente",
+    "titulo": "ZDF Livestream kostenlos schauen: Komplette Anleitung für alle Geräte 2024"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 31
+  },
+  {
+   "termo": "fifa-präsident",
+   "score": 21,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "„Können weitere Unterstützung nicht verantworten“ – Schweiz wendet sich von Infantino ab",
+     "url": "https://www.welt.de/sport/fussball/article6abd30f6eb10ca6ab006089d/fifa-koennen-weitere-unterstuetzung-nicht-verantworten-schweiz-wendet-sich-von-infantino-ab.html",
+     "fonte": "WELT"
+    },
+    {
+     "titulo": "Unterstützung für Infantino - Lettland Abweichler in Europa",
+     "url": "https://www.sportschau.de/fussball/unterstuetzung-fuer-infantino-lettland-abweichler-in-europa,lettland-infantino-100.html",
+     "fonte": "sportschau.de"
+    }
+   ],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes e Política",
+    "vira_video": "talvez",
+    "motivo": "Controvérsia política no futebol gera discussão além da notícia imediata",
+    "angulo": "Histórico das polêmicas envolvendo Infantino na FIFA",
+    "titulo": "Infantino unter Druck: Warum die Schweiz dem FIFA-Präsidenten den Rücken kehrt"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 500,
+   "momentum": 0,
+   "score_medio": 29
+  },
+  {
+   "termo": "meg ryan",
+   "score": 21,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Meg Ryan sells her Bridgehampton home for $15.25 million: Inside the American actress' former estate, whi",
+     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meg-ryan-sells-her-bridgehampton-home-for-15-25-million-inside-the-american-actress-former-estate-which-she-bought-for-13-49-million-in-2024/articleshow/134516194.cms",
+     "fonte": "The Times of India"
+    },
+    {
+     "titulo": "Inside Meg Ryan’s Minimalist Hamptons Escape, Which Just Sold for the Full Multimillion-Dollar Asking Price",
+     "url": "https://www.yahoo.com/lifestyle/articles/inside-meg-ryan-minimalist-hamptons-152611356.html",
+     "fonte": "Yahoo"
+    }
+   ],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Celebridades e Imóveis",
+    "vira_video": "talvez",
+    "motivo": "Venda de mansão permite tour virtual e análise de estilo",
+    "angulo": "Tour pela mansão minimalista vendida por Meg Ryan",
+    "titulo": "Meg Ryans 15 Millionen Dollar Haus: Exklusiver Rundgang durch die Luxusvilla"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 500,
+   "momentum": 0,
+   "score_medio": 29
+  },
+  {
+   "termo": "schule",
+   "score": 19,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Großbritannien: Harry und Meghan empört über Paparazzi vor Schule ihrer Kinder",
+     "url": "https://www.spiegel.de/panorama/leute/harry-und-meghan-empoert-ueber-paparazzi-vor-schule-ihrer-kinder-a-45cde5e4-2350-4a57-acff-54d0c237c839",
+     "fonte": "Spiegel"
+    },
+    {
+     "titulo": "„Inakzeptabler Eingriff“ – Harry und Meghan empört über Fotografen an der Schule ihrer Kinder",
+     "url": "https://www.welt.de/vermischtes/article6abcecb553ba19e8dfe574cf/grossbritannien-inakzeptabler-eingriff-harry-und-meghan-empoert-ueber-fotografen-an-der-schule-ihrer-kinder.html",
+     "fonte": "WELT"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 42644,
+    "outlier": 266.4,
+    "melhor": {
+     "titulo": "My Mom Went Back To School",
+     "canal": "MSA",
+     "views": 3965130,
+     "url": "https://youtu.be/XZXVZjXYGQY"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Sociedade",
+    "vira_video": "nao",
+    "motivo": "Notícia específica sobre celebridades sem valor duradouro",
+    "angulo": "",
+    "titulo": ""
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 26
+  },
+  {
+   "termo": "vremea de mâine",
+   "score": 19,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Septembrie își ia rămas-bun cu vreme frumoasă. Ce temperaturi avem miercuri",
+     "url": "https://ziar.md/septembrie-isi-ia-ramas-bun-cu-vreme-frumoasa-ce-temperaturi-avem-miercuri-2/",
+     "fonte": "ziar.md"
+    },
+    {
+     "titulo": "Super Neatza. Prognoza meteo cu Ramona Olaru: Cer senin cu înnorări temporare doar pe litoral",
+     "url": "https://a1.ro/neatza-cu-razvan-si-dani/meteo/super-neatza-prognoza-meteo-cu-ramona-olaru-cer-senin-cu-innorari-temporare-doar-pe-litoral-id1163275.html",
+     "fonte": "A1.RO"
+    }
+   ],
+   "yt": {
+    "videos_7d": 3,
+    "com_10k": 0,
+    "top_vph": 2,
+    "outlier": 1.3,
+    "melhor": {
+     "titulo": "Azi e soare, mâine nori ❤️ | Manele de Dragoste 2026 | Manele Românești",
+     "canal": "HitVibe",
+     "views": 129,
+     "url": "https://youtu.be/dEaz9BRLLe0"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meteorologia",
+    "vira_video": "nao",
+    "motivo": "Termo em romeno, fora do mercado alemão, previsão diária",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 26
+  },
+  {
+   "termo": "schwendau",
+   "score": 19,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Vater und Tochter (4) stürzen in Tirol mit Tandem-Gleitschirm ab",
+     "url": "https://www.allgaeuer-zeitung.de/oesterreich/gleitschirm-unfall-in-tirol-vater-und-tochter-stuerzen-mit-tandem-am-startplatz-penken-in-schwendau-ab-115403071",
+     "fonte": "Allgäuer Zeitung"
+    }
+   ],
+   "yt": {
+    "videos_7d": 1,
+    "com_10k": 0,
+    "top_vph": 0,
+    "outlier": 0.0,
+    "melhor": {
+     "titulo": "Hotel Sieghard, Schwendau, Austria | Travel With Siya",
+     "canal": "Travel With Siya",
+     "views": 3,
+     "url": "https://youtu.be/Dv4KsfAEuYw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias e Atualidades",
+    "vira_video": "nao",
+    "motivo": "Acidente específico, notícia pontual sem valor educativo duradouro",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 25
+  },
+  {
+   "termo": "deutschland serbien",
+   "score": 18,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "DFB-Team vs. Serbien: PK mit Klopp und Urbig im Liveticker - Torhüter-Entscheidung gefallen",
+     "url": "https://ran.joyn.de/sports/fussball/nations-league-a/dfb-team-vs-serbien-pressekonferenz-mit-juergen-klopp-und-jonas-urbig-jetzt-im-liveticker-torhueter-entscheidung-gefallen-194486",
+     "fonte": "Joyn"
+    },
+    {
+     "titulo": "Jonas Urbig spielt gegen Serbien! Sein ungewöhnliches DFB-Debüt",
+     "url": "https://www.bild.de/sport/fussball/jonas-urbig-spielt-gegen-serbien-sein-ungewoehnliches-dfb-debuet-6abcc5b80f65d43326f6995f",
+     "fonte": "BILD"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 16,
+    "top_vph": 21251,
+    "outlier": 38.9,
+    "melhor": {
+     "titulo": "Deutschland – Griechenland | UEFA Nations League, 2. Spieltag 2026/27 | ZDFsportstudio",
+     "canal": "sportstudio fußball",
+     "views": 1433037,
+     "url": "https://youtu.be/otBvjMTTEB8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico perde relevância após partida realizada",
+    "angulo": "",
+    "titulo": ""
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 24
+  },
+  {
+   "termo": "berlin",
+   "score": 17,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "Er war lange der mächtigste SPD-Mann Berlins Der nicht ganz freiwillige Abschied des Raed Saleh",
+     "url": "https://www.tagesspiegel.de/berlin/er-war-lange-der-machtigste-spd-mann-berlinsder-nicht-ganz-freiwillige-abschied-des-raed-saleh-16106396.html",
+     "fonte": "Tagesspiegel"
+    },
+    {
+     "titulo": "Berlin: Derya Çaglar und Steffen Krach sind die neuen Vorsitzenden der Berliner SPD-Fraktion",
+     "url": "https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52",
+     "fonte": "Spiegel"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 44912,
+    "outlier": 46.7,
+    "melhor": {
+     "titulo": "Берлин - не Германия. Самый свободный город",
+     "canal": "Послезавтра",
+     "views": 432985,
+     "url": "https://youtu.be/WMwKbbvFwXY"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política Local",
+    "vira_video": "nao",
+    "motivo": "Mudança política interna específica com interesse passageiro",
+    "angulo": "Bastidores do poder SPD em Berlim",
+    "titulo": "Der Machtwechsel in der Berliner SPD: Was jetzt kommt"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 23
+  },
+  {
+   "termo": "vrijeme sutra",
+   "score": 15,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meteorologia",
+    "vira_video": "nao",
+    "motivo": "Termo em croata, fora do mercado alemão, previsão diária",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 19
+  }
+ ],
+ "ano": [
+  {
+   "termo": "bodensee",
+   "score": 33,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Bis zum Bauch im Schlamm: Frau gerät am Bodensee in Not",
+     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/frau-sinkt-am-bodenseeufer-bis-zum-bauch-im-schlamm-ein-100.html",
+     "fonte": "SWR"
+    },
+    {
+     "titulo": "Frau (74) versinkt bis zum Bauch im Schlamm am Bodenseeufer",
+     "url": "https://www.schwaebische.de/regional/bodensee/konstanz/frau-74-versinkt-bis-zum-bauch-im-schlamm-am-bodenseeufer-4903771",
+     "fonte": "Schwäbische.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 4,
+    "top_vph": 1620,
+    "outlier": 588.9,
+    "melhor": {
+     "titulo": "Die Fischerin vom Bodensee mit Sabrina Kulovits ☀️| Steirische Harmonika | GCFB",
+     "canal": "SabsQuetschtZaum",
+     "views": 132232,
+     "url": "https://youtu.be/Yk7fElOX4u8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Turismo",
+    "vira_video": "sim",
+    "motivo": "Incidente ilustra perigos desconhecidos de destino turístico popular",
+    "angulo": "Perigos escondidos no Bodensee que turistas desconhecem",
+    "titulo": "Bodensee Gefahren: Was Touristen über Schlamm und Sicherheit wissen müssen"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 57
+  },
+  {
+   "termo": "brauerei",
+   "score": 32,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Allen Mitarbeitern gekündigt: Insolvente Brauerei schließt für immer",
+     "url": "https://www.bild.de/news/inland/allen-mitarbeitern-gekuendigt-insolvente-brauerei-schliesst-fuer-immer-6ab92a9aa8b3f6fdb1edd0a5",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "1627 gegründet: Traditionsbrauerei wird geschlossen",
+     "url": "https://web.de/magazine/wirtschaft/1627-gegruendet-traditionsbrauerei-geschlossen-42779792",
+     "fonte": "WEB.DE"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 1265,
+    "outlier": 32.2,
+    "melhor": {
+     "titulo": "Tream x SCHNEIDER WEISSE Weissbier ab sofort wieder exklusiv bei Kaufland. 🙌 #kaufland",
+     "canal": "Kaufland",
+     "views": 183726,
+     "url": "https://youtu.be/b2q3WDuwc7c"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Economia",
+    "vira_video": "sim",
+    "motivo": "Declínio de cervejarias tradicionais é tendência cultural relevante",
+    "angulo": "Por que cervejarias tradicionais alemãs estão fechando",
+    "titulo": "Traditionsbrauereien in der Krise: Das Sterben deutscher Bierkultur"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 500,
+   "momentum": 0,
+   "score_medio": 56
+  },
+  {
+   "termo": "afd sachsen-anhalt",
+   "score": 31,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Sachsen-Anhalt: Die AfD braucht das BSW, aber traut ihm nicht",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-sachsen-anhalt-afd-bsw-100.html",
+     "fonte": "tagesschau.de"
+    },
+    {
+     "titulo": "AfD lenkt im Ausschuss-Streit ein, Sitzordnung steht fest: Vor-Ältestenrat bereitet Landtag vor",
+     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtag-regeln-ausschuesse-sitzordnung-102,vor-aeltestenrat-100.html",
+     "fonte": "MDR.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 8239,
+    "outlier": 250.6,
+    "melhor": {
+     "titulo": "SACHSEN-ANHALT: AfD-Wahlsieger Siegmund will im ersten Wahlgang Ministerpräsident werden",
+     "canal": "WELT Nachrichtensender",
+     "views": 177849,
+     "url": "https://youtu.be/seB2ej5V_3E"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "sim",
+    "motivo": "Dinâmica política AfD-BSW é tema contínuo na Alemanha",
+    "angulo": "Análise da estratégia política AfD em Sachsen-Anhalt",
+    "titulo": "AfD und BSW in Sachsen-Anhalt: Was bedeutet die neue Konstellation?"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 54
+  },
+  {
+   "termo": "phishing",
+   "score": 30,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "AOK-Phishing: Falsche E-Mail verspricht 478,90 Euro Rückzahlung",
+     "url": "https://www.bild.de/leben-wissen/digital/aok-phishing-falsche-e-mail-verspricht-478-90-euro-rueckzahlung-6abb713a36a3ebaeca5dd903",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "478,90 Euro sind bis zum 7. Oktober ein Warnsignal für alle Bürger",
+     "url": "https://www.ruhr24.de/service/rueckrufe-warnungen/aok-email-rueckerstattung-betreff-oktober-krankenkasse-verbraucherzentrale-betrug-spam-melden-94514384.html",
+     "fonte": "Ruhr24"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 18,
+    "top_vph": 1806,
+    "outlier": 82.2,
+    "melhor": {
+     "titulo": "피싱당한 돈 되찾았다!…경찰, 200억 원 돌려줘 #shorts / KBS",
+     "canal": "KBS News",
+     "views": 12785,
+     "url": "https://youtu.be/MplADtlYBk0"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Segurança Digital",
+    "vira_video": "sim",
+    "motivo": "Golpes digitais são ameaça permanente e educativa",
+    "angulo": "Como identificar e evitar golpes de phishing",
+    "titulo": "AOK-Phishing: So erkennst du falsche E-Mails und schützt dich"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 52
+  },
+  {
+   "termo": "elektromobilität",
+   "score": 30,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "E-Mobilität: Auslastung von Ladesäulen für Elektroautos nimmt deutlich zu",
+     "url": "https://www.zeit.de/mobilitaet/2026-09/e-auto-ladesaeulen-nutzung-auslastung-vattenfall-enbw-aral-gxe",
+     "fonte": "DIE ZEIT"
+    },
+    {
+     "titulo": "Vattenfall InCharge meldet Rekordauslastung bei Ladepunkten",
+     "url": "https://ecomento.de/2026/09/29/vattenfall-incharge-meldet-rekordauslastung-bei-ladepunkten/",
+     "fonte": "ecomento.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 7,
+    "top_vph": 3044,
+    "outlier": 5.5,
+    "melhor": {
+     "titulo": "Wie zufrieden sind E-Auto-Fahrer wirklich? | Unter Strom – Einfach Elektromobilität | 123 | ADAC",
+     "canal": "ADAC",
+     "views": 154142,
+     "url": "https://youtu.be/_Xug8hjE5tU"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Tecnologia e Sustentabilidade",
+    "vira_video": "sim",
+    "motivo": "Tema evergreen com dados novos sobre infraestrutura crescente",
+    "angulo": "Guia prático de carregamento elétrico na Alemanha",
+    "titulo": "E-Auto laden 2025: So findest du freie Ladesäulen in Deutschland"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 52
+  },
+  {
+   "termo": "rosenheim cops",
+   "score": 29,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Die Rosenheim Cops ermitteln wieder: Neues zum Staffelstart - Bayern - SZ.de",
+     "url": "https://www.sueddeutsche.de/bayern/bayern-fernsehserien-rosenheim-cops-staffelstart-marisa-burger-li.3555511",
+     "fonte": "SZ.de"
+    },
+    {
+     "titulo": "\"Rosenheim-Cops\"-Produzentin reagiert auf Marisa Burgers Kritik",
+     "url": "https://www.t-online.de/unterhaltung/tv/id_101455960/-rosenheim-cops-im-zdf-produzentin-reagiert-auf-marisa-burgers-kritik.html",
+     "fonte": "T-Online"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 240,
+    "outlier": 2.5,
+    "melhor": {
+     "titulo": "Die Rosenheim-Cops (2002): 10 Stars, die uns verlassen haben – Wer lebt noch 2026?",
+     "canal": "Childhood Legacy",
+     "views": 5962,
+     "url": "https://youtu.be/4OXM3nnJ5f4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Entretenimento",
+    "vira_video": "talvez",
+    "motivo": "Série popular gera interesse em bastidores e análises",
+    "angulo": "Bastidores e curiosidades da série cult alemã",
+    "titulo": "Rosenheim Cops: Die Geheimnisse hinter Deutschlands Kultserie"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 49
+  },
+  {
+   "termo": "krankenversicherung",
+   "score": 28,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "Sparmaßnahmen der Krankenversicherung sollen auch Beamte treffen",
+     "url": "https://www.br.de/nachrichten/wirtschaft/sparmassnahmen-der-krankenversicherung-sollen-auch-beamte-treffen,VWhAOII",
+     "fonte": "BR"
+    },
+    {
+     "titulo": "Ungerecht? Millionen Kassenpatienten zahlen bald mehr – Beamte sollen verschont bleiben",
+     "url": "https://www.fr.de/verbraucher/fuer-beamte-krankenkassen-chef-fordert-hoehere-zuzahlungen-auch-94511966.html",
+     "fonte": "Frankfurter Rundschau"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 5,
+    "top_vph": 329,
+    "outlier": 50.8,
+    "melhor": {
+     "titulo": "Americans navigate the wild, wild West of health insurance without Obamacare",
+     "canal": "Reuters",
+     "views": 40095,
+     "url": "https://youtu.be/PgqFsXiv-sk"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Finanças Pessoais",
+    "vira_video": "sim",
+    "motivo": "Sistema de saúde alemão afeta milhões constantemente",
+    "angulo": "Guia completo sobre mudanças no sistema de saúde",
+    "titulo": "Krankenversicherung 2024: Was ändert sich für dich?"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 47
+  },
+  {
+   "termo": "pipeline",
+   "score": 27,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Pipelines sichern Transporte: Rohölexporte am Golf steigen auf Vorkriegsniveau",
+     "url": "https://www.n-tv.de/wirtschaft/Rohoelexporte-am-Golf-steigen-auf-Vorkriegsniveau-id31365736.html",
+     "fonte": "n-tv.de"
+    },
+    {
+     "titulo": "Krise vorbei? Plötzlich fließt das Öl aus Nahost wie geschmiert",
+     "url": "https://www.bild.de/politik/ausland-und-internationales/krise-vorbei-ploetzlich-fliesst-das-oel-aus-nahost-wie-geschmiert-6abbd17172f1dd17be2d3355",
+     "fonte": "BILD"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 10878,
+    "outlier": 450.6,
+    "melhor": {
+     "titulo": "It's DONE: Trump's Import Ban BACKFIRES as Canada Builds Oil Pipeline Cutting America OUT!",
+     "canal": "The Planet D",
+     "views": 296028,
+     "url": "https://youtu.be/mIOy5ADEC34"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Energia",
+    "vira_video": "sim",
+    "motivo": "Infraestrutura energética é tema evergreen e estratégico",
+    "angulo": "Como pipelines garantem segurança energética global",
+    "titulo": "Öl-Pipelines erklärt: So funktioniert die globale Energiesicherheit"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 46
+  },
+  {
+   "termo": "zschopau",
+   "score": 26,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Vintage-Trophy Zschopau: Das Wichtigste vor Ort um Überblick",
+     "url": "https://magazin.baboons.de/sport-reports/enduro-wm/vintage-trophy-zschopau-das-wichtigste-vor-ort-um-ueberblick",
+     "fonte": "Baboons"
+    },
+    {
+     "titulo": "„MC Simson“ fährt zur WM: Unter Denkmalschutz durchs Gelände",
+     "url": "https://www.insuedthueringen.de/inhalt.mc-simson-faehrt-zur-wm-unter-denkmalschutz-durchs-gelaende.d4130fc3-4698-47e1-a384-242e6c4df7d2.html",
+     "fonte": "inSüdthüringen"
+    }
+   ],
+   "yt": {
+    "videos_7d": 24,
+    "com_10k": 0,
+    "top_vph": 178,
+    "outlier": 13.0,
+    "melhor": {
+     "titulo": "Letzter Check vor Zschopau! BMW Six Days 1979 | Vintage Trophy 2026 | SWT-Sports",
+     "canal": "SWT-SPORTS",
+     "views": 4030,
+     "url": "https://youtu.be/PHpjVhoZxxA"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes Motorizados",
+    "vira_video": "talvez",
+    "motivo": "Evento vintage gera interesse em cultura motociclística clássica",
+    "angulo": "História e cultura das motos vintage Simson",
+    "titulo": "Vintage Trophy Zschopau: Die Faszination klassischer DDR-Motorräder"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 43
+  },
+  {
+   "termo": "mathias gidsel",
+   "score": 26,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "Hannings Fazit zur Klub-WM: „Die sollen ihren Job machen, für den sie bezahlt werden“",
+     "url": "https://sportbild.bild.de/sportmix/handball/hannings-fazit-zur-klub-wm-die-sollen-ihren-job-machen-fuer-den-sie-bezahlt-werden-6abce29de69c7c64bf6933dd",
+     "fonte": "Sport Bild"
+    },
+    {
+     "titulo": "Handball-Super Globe - Füchse Berlin verpassen bei Club-WM auch Spiel um Platz drei - Sport - SZ.de",
+     "url": "https://www.sueddeutsche.de/sport/handball-super-globe-fuechse-berlin-verpassen-bei-club-wm-auch-spiel-um-platz-drei-dpa.urn-newsml-dpa-com-20090101-260929-930-764338",
+     "fonte": "SZ.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 11,
+    "com_10k": 0,
+    "top_vph": 99,
+    "outlier": 1.2,
+    "melhor": {
+     "titulo": "Mathias Gidsel Berlin Strike | Handball Shorts",
+     "canal": "Handball World",
+     "views": 9985,
+     "url": "https://youtu.be/cENGmfCyYpE"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Estrela do handebol gera interesse em perfis e análises",
+    "angulo": "Perfil do talento dinamarquês do handebol alemão",
+    "titulo": "Mathias Gidsel: Der dänische Superstar im deutschen Handball"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 500,
+   "momentum": 0,
+   "score_medio": 43
+  },
+  {
+   "termo": "thw kiel",
+   "score": 25,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 10000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "Liveticker heute: THW Kiel vs. SC Magdeburg - Handball-Bundesliga",
+     "url": "https://www.kn-online.de/sport/regional/liveticker-heute-thw-kiel-vs-sc-magdeburg-handball-bundesliga-HWA5V5FUBA5ADH5SK5P7X766SQ.html",
+     "fonte": "Kieler Nachrichten"
+    },
+    {
+     "titulo": "SCM will Kiel endlich wieder bezwingen",
+     "url": "https://www.mdr.de/sport/sport-im-osten/scm-will-kiel-endlich-wieder-bezwingen,video-scm-kiel-100.html",
+     "fonte": "MDR.de"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 11,
+    "top_vph": 480,
+    "outlier": 5.0,
+    "melhor": {
+     "titulo": "Umstrittene Entscheidung – am Ende die richtige? 👀 | ZDFsportstudio | #shorts",
+     "canal": "sportstudio",
+     "views": 34832,
+     "url": "https://youtu.be/ilhdyiotvpw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Rivalidade clássica gera interesse recorrente em análises táticas",
+    "angulo": "Análise tática histórica THW Kiel vs Magdeburg",
+    "titulo": "THW Kiel vs SC Magdeburg: Die größte Rivalität im deutschen Handball"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 10000,
+   "momentum": 0,
+   "score_medio": 41
+  },
+  {
+   "termo": "salmonellen",
+   "score": 25,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Rückruf bei Edeka und Marktkauf: TK-Beeren können mit Salmonellen belastet sein",
+     "url": "https://www.ruhrnachrichten.de/service/rueckruf-edeka-tk-bio-wildheidelbeeren-marktkauf-salmonellen-warnung-w1240414-2002201444/",
+     "fonte": "Ruhr Nachrichten"
+    },
+    {
+     "titulo": "Edeka-Rückruf: Salmonellen in diesem Lebensmittel festgestellt",
+     "url": "https://cedarnews.net/german/1014568/edeka-ruckruf-salmonellen-diesem-lebensmittel-festgestellt/",
+     "fonte": "cedarnews.net"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 5,
+    "top_vph": 977,
+    "outlier": 10.1,
+    "melhor": {
+     "titulo": "Rotisserie chicken is being linked to Salmonella recalls… so check yours",
+     "canal": "FitLifeTV",
+     "views": 23203,
+     "url": "https://youtu.be/hZo1z7t1naA"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Saúde e Segurança Alimentar",
+    "vira_video": "talvez",
+    "motivo": "Recall específico mas tema educativo sobre segurança alimentar permanece relevante",
+    "angulo": "Guia sobre como evitar salmonela em alimentos congelados",
+    "titulo": "Salmonellen-Gefahr bei Edeka: So schützt du dich vor kontaminierten Lebensmitteln"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 42
+  },
+  {
+   "termo": "ronaldo",
+   "score": 25,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Nations League: Cristiano Ronaldo verlässt Portugal-Camp",
+     "url": "https://www.bild.de/sport/fussball/nations-league-cristiano-ronaldo-verlaesst-portugal-camp-6abd5a4b3874ab06420dfb7f",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "Cristiano Ronaldo reist ab und deutet Karriereende in der Nationalmannschaft an",
+     "url": "https://www.kicker.de/cristiano-ronaldo-reist-ab-und-deutet-karriereende-in-der-nationalmannschaft-an-1257312/artikel",
+     "fonte": "Kicker"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 269247,
+    "outlier": 2166.1,
+    "melhor": {
+     "titulo": "Lamine Yamal vs Ronaldo Dressing Challenge 😱🔥#viral",
+     "canal": "Muzam",
+     "views": 21065282,
+     "url": "https://youtu.be/PwYDlELz-f8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "sim",
+    "motivo": "Possível fim de carreira na seleção gera interesse duradouro",
+    "angulo": "Análise completa da carreira de Ronaldo em Portugal e legado",
+    "titulo": "Ronaldos Karriereende bei Portugal: Seine größten Momente für die Nationalmannschaft"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 42
+  },
+  {
+   "termo": "bündnis sahra wagenknecht – vernunft und gerechtigkeit",
+   "score": 24,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "BSW streicht Sahra Wagenknechts Namen aus dem Parteinamen",
+     "url": "https://www.stern.de/politik/deutschland/bsw-streicht-sahra-wagenknechts-namen-aus-dem-parteinamen-38331868.html",
+     "fonte": "STERN.de"
+    },
+    {
+     "titulo": "„BSW bleibt BSW“: So nennt sich die Partei ab Oktober – ohne Sahra Wagenknecht",
+     "url": "https://www.berliner-zeitung.de/article/bsw-neuer-name-ohne-sahra-wagenknecht-10446658",
+     "fonte": "Berliner Zeitung"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 20,
+    "top_vph": 4756,
+    "outlier": 250.6,
+    "melhor": {
+     "titulo": "AfD und BSW verhandeln: Neue Machtverteilung im Landtag! #deutschland",
+     "canal": "Faktenstand",
+     "views": 226294,
+     "url": "https://youtu.be/SuUe9nSbzHo"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Mudança de nome gera debate sobre identidade partidária",
+    "angulo": "O que significa retirar Wagenknecht do nome",
+    "titulo": "BSW ohne Wagenknecht im Namen: Was steckt dahinter?"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 39
+  },
+  {
+   "termo": "cristiano ronaldo",
+   "score": 24,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Cristiano Ronaldo: Portugal boss Jorge Jesus denies rift with captain",
+     "url": "https://www.bbc.com/sport/football/articles/cm9dw7ddwgzwo",
+     "fonte": "BBC"
+    },
+    {
+     "titulo": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
+     "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+     "fonte": "The Guardian"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 99572,
+    "outlier": 1836.8,
+    "melhor": {
+     "titulo": "Animals Try to Be Like Ronaldo...😍🔥",
+     "canal": "217aep",
+     "views": 10329063,
+     "url": "https://youtu.be/4KzlKdYfukw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "sim",
+    "motivo": "Conflito com treinador e futuro na seleção gera debate prolongado",
+    "angulo": "Análise do relacionamento Ronaldo com técnicos ao longo da carreira",
+    "titulo": "Ronaldo vs Trainer Jorge Jesus: Was wirklich hinter dem Konflikt steckt"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 40
+  },
+  {
+   "termo": "wetter morgen",
+   "score": 22,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 200000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Wetter in Deutschland: Morgen endlich Regen für den Westen",
+     "url": "https://www.wetteronline.de/wetterticker/wetter-in-deutschland-morgen-endlich-regen-fuer-den-westen--5509c734-7c9a-4f04-8fbe-fba30248e218",
+     "fonte": "WetterOnline"
+    },
+    {
+     "titulo": "Wetter morgen am Donnerstag: Kaltfront verlagert sich zum Oktoberstart",
+     "url": "https://www.wetter.com/news/wetterbericht-fuer-morgen-am-donnerstag-01-oktober-kaltfront-verlagert-sich-zum-oktoberstart_aid_6abcac30b4deacd9b0057896.html",
+     "fonte": "wetter.com"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 3,
+    "top_vph": 627,
+    "outlier": 2.5,
+    "melhor": {
+     "titulo": "GTA 6: DAS passiert MORGEN um 18 Uhr!",
+     "canal": "JULEX",
+     "views": 31178,
+     "url": "https://youtu.be/0hyYwIQBTtQ"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meteorologia",
+    "vira_video": "nao",
+    "motivo": "Previsão do tempo muda diariamente, conteúdo expira rápido",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 200000,
+   "momentum": 0,
+   "score_medio": 36
+  },
+  {
+   "termo": "siegen",
+   "score": 21,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "Siegen: Stockschläge auf Brust und Kopf – Angeklagter: „Das hat er selbst getan“",
+     "url": "https://www.wp.de/lokales/siegen-und-umland/article413297959/siegen-stockschlaege-auf-brust-und-kopf-angeklagter-das-hat-er-selbst-getan.html",
+     "fonte": "WP | Westfalenpost"
+    },
+    {
+     "titulo": "Comeback für altes Karstadt-Haus? Welche Mega-Pläne die Stadt gegen den Riesen-Leerstand hat",
+     "url": "https://www1.wdr.de/nrw/sauerland-siegerland/kreis-siegen-wittgenstein/karstadt-siegen-bibliothek-100.html",
+     "fonte": "WDR"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 8,
+    "top_vph": 646,
+    "outlier": 11.8,
+    "melhor": {
+     "titulo": "Proverbs Prevails - CXCII",
+     "canal": "Nate Da Silva",
+     "views": 74151,
+     "url": "https://youtu.be/p4K3UU39W_A"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias Locais",
+    "vira_video": "talvez",
+    "motivo": "Revitalização urbana interessa além do momento mas crime não",
+    "angulo": "Transformação de espaços abandonados em cidades alemãs",
+    "titulo": "Karstadt Comeback in Siegen: So will die Stadt die Innenstadt retten"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 500,
+   "momentum": 0,
+   "score_medio": 33
+  },
+  {
+   "termo": "zdf livestream",
+   "score": 20,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Ein bisschen Spaß muss sein!",
+     "url": "https://www.zdf.de/video/shows/bares-fuer-rares-104/bares-fuer-rares-vom-25-september-2026-100",
+     "fonte": "ZDF"
+    },
+    {
+     "titulo": "Bares für Rares XXL: ZDF bestätigt neuen Sendetermin",
+     "url": "https://www.stuttgarter-zeitung.de/unterhaltung/bares-fuer-rares-xxl-zdf-bestaetigt-neuen-sendetermin-79516129.html",
+     "fonte": "Stuttgarter Zeitung"
+    }
+   ],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Mídia e Entretenimento",
+    "vira_video": "talvez",
+    "motivo": "Busca por acesso ao streaming, tutorial pode ter duração",
+    "angulo": "Tutorial completo sobre como acessar ZDF livestream gratuitamente",
+    "titulo": "ZDF Livestream kostenlos schauen: Komplette Anleitung für alle Geräte 2024"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 31
+  },
+  {
+   "termo": "fifa-präsident",
+   "score": 19,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "„Können weitere Unterstützung nicht verantworten“ – Schweiz wendet sich von Infantino ab",
+     "url": "https://www.welt.de/sport/fussball/article6abd30f6eb10ca6ab006089d/fifa-koennen-weitere-unterstuetzung-nicht-verantworten-schweiz-wendet-sich-von-infantino-ab.html",
+     "fonte": "WELT"
+    },
+    {
+     "titulo": "Unterstützung für Infantino - Lettland Abweichler in Europa",
+     "url": "https://www.sportschau.de/fussball/unterstuetzung-fuer-infantino-lettland-abweichler-in-europa,lettland-infantino-100.html",
+     "fonte": "sportschau.de"
+    }
+   ],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes e Política",
+    "vira_video": "talvez",
+    "motivo": "Controvérsia política no futebol gera discussão além da notícia imediata",
+    "angulo": "Histórico das polêmicas envolvendo Infantino na FIFA",
+    "titulo": "Infantino unter Druck: Warum die Schweiz dem FIFA-Präsidenten den Rücken kehrt"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 500,
+   "momentum": 0,
+   "score_medio": 29
+  },
+  {
+   "termo": "meg ryan",
+   "score": 19,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 500,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Meg Ryan sells her Bridgehampton home for $15.25 million: Inside the American actress' former estate, whi",
+     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meg-ryan-sells-her-bridgehampton-home-for-15-25-million-inside-the-american-actress-former-estate-which-she-bought-for-13-49-million-in-2024/articleshow/134516194.cms",
+     "fonte": "The Times of India"
+    },
+    {
+     "titulo": "Inside Meg Ryan’s Minimalist Hamptons Escape, Which Just Sold for the Full Multimillion-Dollar Asking Price",
+     "url": "https://www.yahoo.com/lifestyle/articles/inside-meg-ryan-minimalist-hamptons-152611356.html",
+     "fonte": "Yahoo"
+    }
+   ],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Celebridades e Imóveis",
+    "vira_video": "talvez",
+    "motivo": "Venda de mansão permite tour virtual e análise de estilo",
+    "angulo": "Tour pela mansão minimalista vendida por Meg Ryan",
+    "titulo": "Meg Ryans 15 Millionen Dollar Haus: Exklusiver Rundgang durch die Luxusvilla"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 500,
+   "momentum": 0,
+   "score_medio": 29
+  },
+  {
+   "termo": "schule",
+   "score": 17,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Großbritannien: Harry und Meghan empört über Paparazzi vor Schule ihrer Kinder",
+     "url": "https://www.spiegel.de/panorama/leute/harry-und-meghan-empoert-ueber-paparazzi-vor-schule-ihrer-kinder-a-45cde5e4-2350-4a57-acff-54d0c237c839",
+     "fonte": "Spiegel"
+    },
+    {
+     "titulo": "„Inakzeptabler Eingriff“ – Harry und Meghan empört über Fotografen an der Schule ihrer Kinder",
+     "url": "https://www.welt.de/vermischtes/article6abcecb553ba19e8dfe574cf/grossbritannien-inakzeptabler-eingriff-harry-und-meghan-empoert-ueber-fotografen-an-der-schule-ihrer-kinder.html",
+     "fonte": "WELT"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 42644,
+    "outlier": 266.4,
+    "melhor": {
+     "titulo": "My Mom Went Back To School",
+     "canal": "MSA",
+     "views": 3965130,
+     "url": "https://youtu.be/XZXVZjXYGQY"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Sociedade",
+    "vira_video": "nao",
+    "motivo": "Notícia específica sobre celebridades sem valor duradouro",
+    "angulo": "",
+    "titulo": ""
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 26
+  },
+  {
+   "termo": "vremea de mâine",
+   "score": 17,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Septembrie își ia rămas-bun cu vreme frumoasă. Ce temperaturi avem miercuri",
+     "url": "https://ziar.md/septembrie-isi-ia-ramas-bun-cu-vreme-frumoasa-ce-temperaturi-avem-miercuri-2/",
+     "fonte": "ziar.md"
+    },
+    {
+     "titulo": "Super Neatza. Prognoza meteo cu Ramona Olaru: Cer senin cu înnorări temporare doar pe litoral",
+     "url": "https://a1.ro/neatza-cu-razvan-si-dani/meteo/super-neatza-prognoza-meteo-cu-ramona-olaru-cer-senin-cu-innorari-temporare-doar-pe-litoral-id1163275.html",
+     "fonte": "A1.RO"
+    }
+   ],
+   "yt": {
+    "videos_7d": 3,
+    "com_10k": 0,
+    "top_vph": 2,
+    "outlier": 1.3,
+    "melhor": {
+     "titulo": "Azi e soare, mâine nori ❤️ | Manele de Dragoste 2026 | Manele Românești",
+     "canal": "HitVibe",
+     "views": 129,
+     "url": "https://youtu.be/dEaz9BRLLe0"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meteorologia",
+    "vira_video": "nao",
+    "motivo": "Termo em romeno, fora do mercado alemão, previsão diária",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 26
+  },
+  {
+   "termo": "schwendau",
+   "score": 17,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Vater und Tochter (4) stürzen in Tirol mit Tandem-Gleitschirm ab",
+     "url": "https://www.allgaeuer-zeitung.de/oesterreich/gleitschirm-unfall-in-tirol-vater-und-tochter-stuerzen-mit-tandem-am-startplatz-penken-in-schwendau-ab-115403071",
+     "fonte": "Allgäuer Zeitung"
+    }
+   ],
+   "yt": {
+    "videos_7d": 1,
+    "com_10k": 0,
+    "top_vph": 0,
+    "outlier": 0.0,
+    "melhor": {
+     "titulo": "Hotel Sieghard, Schwendau, Austria | Travel With Siya",
+     "canal": "Travel With Siya",
+     "views": 3,
+     "url": "https://youtu.be/Dv4KsfAEuYw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias e Atualidades",
+    "vira_video": "nao",
+    "motivo": "Acidente específico, notícia pontual sem valor educativo duradouro",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 25
+  },
+  {
+   "termo": "deutschland serbien",
+   "score": 16,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "DFB-Team vs. Serbien: PK mit Klopp und Urbig im Liveticker - Torhüter-Entscheidung gefallen",
+     "url": "https://ran.joyn.de/sports/fussball/nations-league-a/dfb-team-vs-serbien-pressekonferenz-mit-juergen-klopp-und-jonas-urbig-jetzt-im-liveticker-torhueter-entscheidung-gefallen-194486",
+     "fonte": "Joyn"
+    },
+    {
+     "titulo": "Jonas Urbig spielt gegen Serbien! Sein ungewöhnliches DFB-Debüt",
+     "url": "https://www.bild.de/sport/fussball/jonas-urbig-spielt-gegen-serbien-sein-ungewoehnliches-dfb-debuet-6abcc5b80f65d43326f6995f",
+     "fonte": "BILD"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 16,
+    "top_vph": 21251,
+    "outlier": 38.9,
+    "melhor": {
+     "titulo": "Deutschland – Griechenland | UEFA Nations League, 2. Spieltag 2026/27 | ZDFsportstudio",
+     "canal": "sportstudio fußball",
+     "views": 1433037,
+     "url": "https://youtu.be/otBvjMTTEB8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico perde relevância após partida realizada",
+    "angulo": "",
+    "titulo": ""
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 24
+  },
+  {
+   "termo": "berlin",
+   "score": 16,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "Er war lange der mächtigste SPD-Mann Berlins Der nicht ganz freiwillige Abschied des Raed Saleh",
+     "url": "https://www.tagesspiegel.de/berlin/er-war-lange-der-machtigste-spd-mann-berlinsder-nicht-ganz-freiwillige-abschied-des-raed-saleh-16106396.html",
+     "fonte": "Tagesspiegel"
+    },
+    {
+     "titulo": "Berlin: Derya Çaglar und Steffen Krach sind die neuen Vorsitzenden der Berliner SPD-Fraktion",
+     "url": "https://www.spiegel.de/politik/deutschland/berlin-derya-caglar-und-steffen-krach-sind-die-neuen-vorsitzenden-der-berliner-spd-fraktion-a-31b0e84b-fc9c-4f35-a28e-8920756daa52",
+     "fonte": "Spiegel"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 44912,
+    "outlier": 46.7,
+    "melhor": {
+     "titulo": "Берлин - не Германия. Самый свободный город",
+     "canal": "Послезавтра",
+     "views": 432985,
+     "url": "https://youtu.be/WMwKbbvFwXY"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política Local",
+    "vira_video": "nao",
+    "motivo": "Mudança política interna específica com interesse passageiro",
+    "angulo": "Bastidores do poder SPD em Berlim",
+    "titulo": "Der Machtwechsel in der Berliner SPD: Was jetzt kommt"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 23
+  },
+  {
+   "termo": "vrijeme sutra",
+   "score": 14,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [],
+   "yt": null,
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meteorologia",
+    "vira_video": "nao",
+    "motivo": "Termo em croata, fora do mercado alemão, previsão diária",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 19
+  }
+ ]
+}

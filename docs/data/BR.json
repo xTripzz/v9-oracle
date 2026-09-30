@@ -1,0 +1,2282 @@
+{
+ "geo": "BR",
+ "nome": "Brasil",
+ "atualizado": "2026-09-30T19:44:40.720001Z",
+ "serie": [
+  {
+   "dia": "2026-09-30",
+   "termos": 17,
+   "pre_pico": 1,
+   "aquecendo": 8,
+   "media": 50
+  }
+ ],
+ "dias_de_historico": 1,
+ "hoje": [
+  {
+   "termo": "luciano huck vorcaro",
+   "score": 77,
+   "fase": "pre-pico",
+   "janela": "agora, 3 a 10 dias",
+   "trafego": 20000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "PF expõe elo de Luciano Huck com Daniel Vorcaro",
+     "url": "https://revistaoeste.com/politica/pf-expoe-elo-de-luciano-huck-com-daniel-vorcaro/",
+     "fonte": "Revista Oeste"
+    },
+    {
+     "titulo": "A versão de Luciano Huck para as mensagens trocadas com Daniel Vorcaro",
+     "url": "https://veja.abril.com.br/brasil/a-versao-de-luciano-huck-para-as-mensagens-trocadas-com-daniel-vorcaro/",
+     "fonte": "VEJA"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 0,
+    "top_vph": 8509,
+    "outlier": 0.1,
+    "melhor": {
+     "titulo": "BOMBA NA GLOBO: MENSAGENS EXPÕEM RELAÇÃO DE LUCIANO HUCK COM VORCARO",
+     "canal": "TV Afiada",
+     "views": 8542,
+     "url": "https://youtu.be/qghOyIRzNVI"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Celebridades e Polêmica",
+    "vira_video": "sim",
+    "motivo": "Mesmo tema com potencial de análise e repercussão duradoura",
+    "angulo": "Defesa do Huck versus provas da PF nas mensagens",
+    "titulo": "HUCK SE DEFENDE: Entenda as MENSAGENS com Daniel Vorcaro"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "huck vorcaro",
+   "score": 69,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 10000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Mensagens da PF revelam que Luciano Huck foi amigo e conselheiro de Daniel Vorcaro",
+     "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-que-luciano-huck-foi-amigo-e-conselheiro-de-daniel-vorcaro/",
+     "fonte": "VEJA"
+    },
+    {
+     "titulo": "PF expõe elo de Luciano Huck com Daniel Vorcaro",
+     "url": "https://revistaoeste.com/politica/pf-expoe-elo-de-luciano-huck-com-daniel-vorcaro/",
+     "fonte": "Revista Oeste"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 7736,
+    "outlier": 0.1,
+    "melhor": {
+     "titulo": "BOMBA NA GLOBO: MENSAGENS EXPÕEM RELAÇÃO DE LUCIANO HUCK COM VORCARO",
+     "canal": "TV Afiada",
+     "views": 7736,
+     "url": "https://youtu.be/qghOyIRzNVI"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Celebridades e Polêmica",
+    "vira_video": "sim",
+    "motivo": "Polêmica envolvendo celebridade gera discussão e análise prolongada",
+    "angulo": "Análise completa da amizade entre Huck e Vorcaro revelada pela PF",
+    "titulo": "LUCIANO HUCK e VORCARO: A AMIZADE que a PF REVELOU"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "naufrágio",
+   "score": 63,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Tempestade nos EUA remove areia de praia e desenterra navio que naufragou há mais de 140 anos",
+     "url": "https://g1.globo.com/mundo/noticia/2026/09/30/tempestade-nos-eua-remove-areia-de-praia-e-desenterra-navio-que-naufragou-ha-mais-de-140-anos.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Tempestade revela possível naufrágio de 1884 em ilha dos EUA",
+     "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/09/30/tempestade-revela-possivel-naufragio-de-1884-em-ilha-dos-eua.ghtm",
+     "fonte": "UOL Notícias"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 9,
+    "top_vph": 10276,
+    "outlier": 6.8,
+    "melhor": {
+     "titulo": "Você SOBREVIVERIA ao naufrágio do Titanic? #titanic #historia #curiosidades",
+     "canal": "Sabia Que",
+     "views": 451934,
+     "url": "https://youtu.be/nOs-gvkt2ak"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "História e Mistérios",
+    "vira_video": "sim",
+    "motivo": "Descoberta histórica permite conteúdo sobre naufrágios famosos e mistérios",
+    "angulo": "Naufrágios famosos que foram descobertos décadas depois",
+    "titulo": "NAVIO de 1884 RESSURGE: Os Naufrágios Mais Misteriosos Descobertos"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "doação",
+   "score": 61,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 10000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "De tatuagem a Ozempic: novas regras facilitam a doação de sangue no país",
+     "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2026/09/30/de-tatuagem-a-ozempic-novas-regras-facilitam-a-doacao-de-sangue.ghtm",
+     "fonte": "UOL Notícias"
+    },
+    {
+     "titulo": "Portaria libera doação de sangue de pessoas com mais de 70 anos",
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/portaria-libera-doacao-de-sangue-de-pessoas-com-mais-de-70-anos",
+     "fonte": "Agência Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 18,
+    "top_vph": 5754,
+    "outlier": 175.9,
+    "melhor": {
+     "titulo": "EL MARIANA le hace una DONACIÓN a Auron🤣 #humor #auronplay #elmariana #bethcast",
+     "canal": "CococutZ",
+     "views": 808987,
+     "url": "https://youtu.be/C1yQYGiKM7M"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Saúde e Sociedade",
+    "vira_video": "sim",
+    "motivo": "Mudança de regras permite tutorial e conscientização sobre doação",
+    "angulo": "Quem pode doar sangue agora com as novas regras",
+    "titulo": "NOVAS REGRAS para DOAÇÃO de SANGUE: Quem Pode Doar Agora"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "grand theft auto vi",
+   "score": 58,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 5000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "GTA 6: Rockstar divulga lista de atividades secundárias do novo jogo",
+     "url": "https://exame.com/pop/gta-6-rockstar-divulga-lista-de-atividades-secundarias-do-novo-jogo/",
+     "fonte": "Exame"
+    },
+    {
+     "titulo": "Onde ver a revista Game Informer de GTA 6 de graça? Veja preço e como assinar no Brasil",
+     "url": "https://www.estadao.com.br/em-alta/tecmundo/voxel/onde-ver-a-revista-game-informer-de-gta-6-veja-preco-e-como-assinar-no-brasil/",
+     "fonte": "Estadão"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 32915,
+    "outlier": 1488.2,
+    "melhor": {
+     "titulo": "can I play gta 6 on ts",
+     "canal": "Memes Supply",
+     "views": 3854400,
+     "url": "https://youtu.be/SG4pIGXiLfc"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Games",
+    "vira_video": "sim",
+    "motivo": "Lançamento de GTA 6 gera especulação e análise contínua",
+    "angulo": "Todas atividades secundárias confirmadas no GTA 6",
+    "titulo": "GTA 6: TODAS as ATIVIDADES SECUNDÁRIAS Reveladas pela Rockstar"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "avião",
+   "score": 58,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 5000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Ataque em avião: copiloto disse em depoimento que agiu sozinho, segundo Israel",
+     "url": "https://g1.globo.com/mundo/noticia/2026/09/30/ataque-em-aviao-copiloto-disse-em-depoimento-que-agiu-sozinho.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "\"Homem louco\" e \"muito sangue\": os relatos dos passageiros da Flydubai",
+     "url": "https://www.cnnbrasil.com.br/internacional/relatos-passageiros-flydubai/",
+     "fonte": "CNN Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 41292,
+    "outlier": 95.7,
+    "melhor": {
+     "titulo": "¿Qué Pasaría Si Se Abriera una Ventana en Pleno Vuelo? ✈️😳",
+     "canal": "FuyikDon",
+     "views": 1943997,
+     "url": "https://youtu.be/wGMId3dSH_k"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Segurança Aérea",
+    "vira_video": "sim",
+    "motivo": "Ataque em voo gera conteúdo educativo sobre segurança aérea",
+    "angulo": "Como funcionam protocolos de segurança após ataques em aviões",
+    "titulo": "ATAQUE em AVIÃO: Como a Segurança Aérea Funciona Nesses Casos"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "carlos jordy",
+   "score": 57,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 2000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Quaest para o Senado no RJ: Carlos Portinho, Benedita e Carlos Jordy têm 15% cada; Marcelo Crivella e Pedro Paulo, 7% cada; Monica Benicio, 6%",
+     "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/29/quaest-rj-senado-29-09ghtml.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Real Time Senado RJ: Jordy tem 18%; Benedita, 15%; Portinho, 14%",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-senado-rj-jordy-tem-18-benedita-15-portinho-14/",
+     "fonte": "CNN Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 470,
+    "outlier": 19.7,
+    "melhor": {
+     "titulo": "Quaest para o Senado no RJ: Carlos Portinho, Benedita e Carlos Jordy têm 15% cada",
+     "canal": "g1",
+     "views": 9617,
+     "url": "https://youtu.be/Mnj93JcrlW4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Eleição mantém relevância até o pleito mas decai depois",
+    "angulo": "Quem é Carlos Jordy e suas propostas para o Senado",
+    "titulo": "CARLOS JORDY: Quem É o Candidato que Lidera Pesquisas no RJ"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "ps plus outubro 2026",
+   "score": 52,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 5000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Jogos do PS Plus Essential de outubro são revelados pela Sony! Confira a lista completa",
+     "url": "https://www.estadao.com.br/tecmundo/voxel/jogos-do-ps-plus-essential-de-outubro-sao-revelados-pela-sony-confira-a-lista-completa/",
+     "fonte": "Estadão"
+    },
+    {
+     "titulo": "PlayStation Plus Essential: Sony revela os jogos grátis de outubro de 2026",
+     "url": "https://www.tudocelular.com/software/noticias/n264143/playstation-plus-jogos-mensais-gratis-outubro-2026.html",
+     "fonte": "TudoCelular.com"
+    }
+   ],
+   "yt": {
+    "videos_7d": 24,
+    "com_10k": 7,
+    "top_vph": 11185,
+    "outlier": 2.2,
+    "melhor": {
+     "titulo": "PlayStation Plus Essential - October 2026 (PS+)",
+     "canal": "PlayStationGrenade",
+     "views": 29485,
+     "url": "https://youtu.be/1T-nzjfVn24"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Games",
+    "vira_video": "talvez",
+    "motivo": "Relevante por 30 dias; útil com análise dos jogos grátis",
+    "angulo": "Review completo dos jogos grátis e quais valem seu tempo",
+    "titulo": "JOGOS GRÁTIS PS PLUS Outubro 2026: Vale a Pena Baixar?"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "aviação",
+   "score": 50,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 5000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Primeiro caso de passageiro suspenso na aviação do Brasil já ocorreu, apenas 4 dias após a Resolução 800 entrar em vigor",
+     "url": "https://aeroin.net/primeiro-caso-de-passageiro-suspenso-na-aviacao-do-brasil-ja-ocorreu-apenas-4-dias-apos-a-resolucao-800-entrar-em-vigor/",
+     "fonte": "AEROIN"
+    },
+    {
+     "titulo": "Passageiro que urinou em avião é o primeiro suspenso por ato gravíssimo sob nova regra da Anac",
+     "url": "https://autopapo.com.br/curta/passageiro-que-urinou-em-aviao-e-o-primeiro-suspenso-por-ato-gravissimo-sob-nova-regra-da-anac/",
+     "fonte": "AutoPapo"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 122327,
+    "outlier": 139.9,
+    "melhor": {
+     "titulo": "#septiembre",
+     "canal": "Only Kind",
+     "views": 2795682,
+     "url": "https://youtu.be/BgmARq1ZwyI"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Transporte e Regulamentação",
+    "vira_video": "sim",
+    "motivo": "Nova regra sobre comportamento em aviões vira conteúdo educativo",
+    "angulo": "Guia completo sobre o que pode te suspender de voar",
+    "titulo": "NOVA LEI da AVIAÇÃO: O que PODE TE BANIR de Voar no Brasil"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "água",
+   "score": 49,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Belo Horizonte registra novo recorde de calor",
+     "url": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/video/belo-horizonte-registra-novo-recorde-de-calor-15007002.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Calor extremo em Belo Horizonte antecede chuva forte no fim de semana",
+     "url": "https://www.cartacapital.com.br/cartalab/calor-extremo-em-belo-horizonte-antecede-chuva-forte-no-fim-de-semana/",
+     "fonte": "CartaCapital"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 48882,
+    "outlier": 136.4,
+    "melhor": {
+     "titulo": "Ranking Craziest Rock Thrown In Water",
+     "canal": "AuraShorts",
+     "views": 4422312,
+     "url": "https://youtu.be/5yzuar4RLX8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meio Ambiente",
+    "vira_video": "talvez",
+    "motivo": "Calor extremo em BH é pontual mas aquecimento é tema perene",
+    "angulo": "Por que o calor extremo está batendo recordes no Brasil",
+    "titulo": "CALOR EXTREMO em BH: Por Que as Temperaturas Estão RECORDES"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "renato aragão",
+   "score": 49,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "Entenda a ação na Justiça em que filha de Renato Aragão cobra R$ 1 milhão do pai",
+     "url": "https://oglobo.globo.com/cultura/noticia/2026/09/30/entenda-a-acao-na-justica-em-que-filha-de-renato-aragao-cobra-r-1-milhao-do-pai.ghtml",
+     "fonte": "O GLOBO"
+    },
+    {
+     "titulo": "Renato Aragão e filha terão audiência na Justiça por cobrança de R$ 872 mil",
+     "url": "https://f5.folha.uol.com.br/celebridades/2026/09/renato-aragao-e-filha-terao-audiencia-na-justica-por-cobranca-de-r-872-mil.shtml",
+     "fonte": "UOL"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 13,
+    "top_vph": 4407,
+    "outlier": 33.9,
+    "melhor": {
+     "titulo": "\"Guerra Por Herança!\": Filha Primogênita Processa Renato Aragão Por Dívida Milionária!",
+     "canal": "EXPONDO FAMOSOS",
+     "views": 70412,
+     "url": "https://youtu.be/J6zlFpgrf5Y"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Entretenimento e Celebridades",
+    "vira_video": "sim",
+    "motivo": "Polêmica familiar gera interesse em trajetória e fortuna do humorista",
+    "angulo": "A história completa da família Aragão e os bastidores dos Trapalhões",
+    "titulo": "A VERDADE sobre a FORTUNA de Renato Aragão e o PROCESSO da Filha"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "cristiano ronaldo",
+   "score": 46,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Cristiano Ronaldo deixa concentração de Portugal após atrito com Jorge Jesus: \"A seu tempo, direi a verdade\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/30/cristiano-ronaldo-faz-postagem-sobre-saida-da-selecao.ghtml",
+     "fonte": "ge"
+    },
+    {
+     "titulo": "CR7 e Jorge Jesus: presidente da Federação articula paz",
+     "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cr7-e-jorge-jesus-presidente-da-federacao-articula-paz/",
+     "fonte": "CNN Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 99572,
+    "outlier": 1836.8,
+    "melhor": {
+     "titulo": "Animals Try to Be Like Ronaldo...😍🔥",
+     "canal": "217aep",
+     "views": 10329019,
+     "url": "https://youtu.be/4KzlKdYfukw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "sim",
+    "motivo": "Polêmica com Jorge Jesus gera discussão sobre carreira e legado",
+    "angulo": "Análise do comportamento de CR7 e impacto na seleção portuguesa",
+    "titulo": "A VERDADE Sobre a Briga de Cristiano Ronaldo e Jorge Jesus"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "pesquisas eleitorais",
+   "score": 46,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 20000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Futura: Flávio tem 49% das intenções de voto no 2º turno; Lula, 43,5%",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/futura-flavio-tem-49-das-intencoes-de-voto-no-2o-turno-lula-435/",
+     "fonte": "CNN Brasil"
+    },
+    {
+     "titulo": "Pesquisa presidente 2026: veja o que dizem os levantamentos mais recentes",
+     "url": "https://noticias.uol.com.br/eleicoes/2026/09/30/pesquisa-presidente-2026-veja-o-que-dizem-os-levantamentos-mais-recentes.ghtm",
+     "fonte": "UOL Notícias"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 14473,
+    "outlier": 1336.7,
+    "melhor": {
+     "titulo": "ELEIÇÕES 2026: Flávio Bolsonaro tem 50% dos votos contra 43% de Lula, aponta pesquisa",
+     "canal": "Revista Oeste",
+     "views": 267651,
+     "url": "https://youtu.be/YiA_5Ab5el8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Útil se ensinar a interpretar pesquisas além dos números atuais",
+    "angulo": "Como entender de verdade as pesquisas eleitorais e não ser enganado",
+    "titulo": "Como LER PESQUISAS ELEITORAIS e Não Cair em Fake News"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "eritreia x áfrica do sul",
+   "score": 35,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Eritreia x África do Sul Palpite – Análise e notícias (30/09)",
+     "url": "https://www.lance.com.br/sites-de-apostas/palpites/eritreia-x-africa-do-sul-30-09-2026.html",
+     "fonte": "LANCE!"
+    },
+    {
+     "titulo": "Eritreia x África do Sul: onde assistir, horário e escalações",
+     "url": "https://www.365scores.com/pt-br/news/magazine/eritreia-x-africa-do-sul-onde-assistir-escalacoes/",
+     "fonte": "365Scores"
+    }
+   ],
+   "yt": {
+    "videos_7d": 18,
+    "com_10k": 1,
+    "top_vph": 646,
+    "outlier": 1.7,
+    "melhor": {
+     "titulo": "Eritrea vs South Africa 🔴⚫ | LIVE PES 2021 Gameplay | Football Simulation",
+     "canal": "Faster Yogesh",
+     "views": 1346,
+     "url": "https://youtu.be/fJX3XL7wSE4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo pontual sem relevância após a partida acabar",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "engavetamento",
+   "score": 32,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "VÍDEO: Engavetamento com cinco caminhões e um carro interdita faixa e provoca fila quilométrica na BR-101 em Itajaí",
+     "url": "https://ndmais.com.br/seguranca/video-engavetamento-com-cinco-caminhoes-e-um-carro-interdita-faixa-e-provoca-fila-quilometrica-na-br-101-em-itajai/",
+     "fonte": "ND Mais"
+    },
+    {
+     "titulo": "Acidente com seis veículos interditou faixa da BR 101 em Itajaí",
+     "url": "https://diarinho.net/materia/675706/Acidente-com-seis-veiculos-interdita-faixa-da-BR-101-em-Itajai",
+     "fonte": "DIARINHO"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 7,
+    "top_vph": 1574,
+    "outlier": 195.1,
+    "melhor": {
+     "titulo": "Band's tour manager dies days after multi-vehicle crash on I-264",
+     "canal": "WHAS11",
+     "views": 173323,
+     "url": "https://youtu.be/OiMiEYyrHB4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Trânsito",
+    "vira_video": "nao",
+    "motivo": "Acidente específico sem valor educativo prolongado relevante",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "última pesquisa presidente 2026",
+   "score": 26,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 10000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Quando saem as últimas pesquisas para presidente antes do primeiro turno?",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pesquisas-presidente-primeiro-turno-quaest-datafolha.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "A nova pesquisa Datafolha sobre Lula x Flávio Bolsonaro, a 3 dias da eleição",
+     "url": "https://www.cartacapital.com.br/cartaexpressa/a-nova-pesquisa-datafolha-sobre-lula-x-flavio-bolsonaro-a-3-dias-da-eleicao/",
+     "fonte": "CartaCapital"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 17356,
+    "outlier": 67.5,
+    "melhor": {
+     "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 42% e Lula 40% no 1º turno",
+     "canal": "Jovem Pan News",
+     "views": 550410,
+     "url": "https://youtu.be/XQ9gmdXC24Q"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "nao",
+    "motivo": "Busca temporária vinculada a evento específico de eleição 2026",
+    "angulo": "Análise histórica de acertos e erros das pesquisas eleitorais",
+    "titulo": "Pesquisas Presidente 2026: Quem Vai REALMENTE Vencer?"
+   },
+   "novo": true,
+   "variacao": null
+  },
+  {
+   "termo": "transporte",
+   "score": 22,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Faltam 5 dias: saiba como consultar o local de votação",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/faltam-5-dias-saiba-como-consultar-o-local-de-votacao",
+     "fonte": "Tribunal Superior Eleitoral"
+    },
+    {
+     "titulo": "Petrolina terá transporte coletivo gratuito durante as eleições",
+     "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/30/petrolina-tera-transporte-coletivo-gratuito-durante-as-eleicoes.ghtml",
+     "fonte": "G1"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 16302,
+    "outlier": 457.8,
+    "melhor": {
+     "titulo": "Nova fiscalização na altura da cabine ! #caminhao #caminhoneiro #estrada #transporte",
+     "canal": "GEOVANE MOZÃO",
+     "views": 2049119,
+     "url": "https://youtu.be/a0J9wfiSQVk"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Utilidade Pública",
+    "vira_video": "nao",
+    "motivo": "Termo genérico demais e notícias sobre eleições pontuais temporárias",
+    "angulo": "Guia de transporte gratuito disponível no Brasil",
+    "titulo": "Transporte Grátis nas Eleições: Saiba Como Usar"
+   },
+   "novo": true,
+   "variacao": null
+  }
+ ],
+ "semana": [
+  {
+   "termo": "luciano huck vorcaro",
+   "score": 50,
+   "fase": "aquecendo",
+   "janela": "1 a 3 semanas",
+   "trafego": 20000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "PF expõe elo de Luciano Huck com Daniel Vorcaro",
+     "url": "https://revistaoeste.com/politica/pf-expoe-elo-de-luciano-huck-com-daniel-vorcaro/",
+     "fonte": "Revista Oeste"
+    },
+    {
+     "titulo": "A versão de Luciano Huck para as mensagens trocadas com Daniel Vorcaro",
+     "url": "https://veja.abril.com.br/brasil/a-versao-de-luciano-huck-para-as-mensagens-trocadas-com-daniel-vorcaro/",
+     "fonte": "VEJA"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 0,
+    "top_vph": 8509,
+    "outlier": 0.1,
+    "melhor": {
+     "titulo": "BOMBA NA GLOBO: MENSAGENS EXPÕEM RELAÇÃO DE LUCIANO HUCK COM VORCARO",
+     "canal": "TV Afiada",
+     "views": 8542,
+     "url": "https://youtu.be/qghOyIRzNVI"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Celebridades e Polêmica",
+    "vira_video": "sim",
+    "motivo": "Mesmo tema com potencial de análise e repercussão duradoura",
+    "angulo": "Defesa do Huck versus provas da PF nas mensagens",
+    "titulo": "HUCK SE DEFENDE: Entenda as MENSAGENS com Daniel Vorcaro"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 20000,
+   "momentum": 0,
+   "score_medio": 77
+  },
+  {
+   "termo": "huck vorcaro",
+   "score": 45,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 10000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Mensagens da PF revelam que Luciano Huck foi amigo e conselheiro de Daniel Vorcaro",
+     "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-que-luciano-huck-foi-amigo-e-conselheiro-de-daniel-vorcaro/",
+     "fonte": "VEJA"
+    },
+    {
+     "titulo": "PF expõe elo de Luciano Huck com Daniel Vorcaro",
+     "url": "https://revistaoeste.com/politica/pf-expoe-elo-de-luciano-huck-com-daniel-vorcaro/",
+     "fonte": "Revista Oeste"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 7736,
+    "outlier": 0.1,
+    "melhor": {
+     "titulo": "BOMBA NA GLOBO: MENSAGENS EXPÕEM RELAÇÃO DE LUCIANO HUCK COM VORCARO",
+     "canal": "TV Afiada",
+     "views": 7736,
+     "url": "https://youtu.be/qghOyIRzNVI"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Celebridades e Polêmica",
+    "vira_video": "sim",
+    "motivo": "Polêmica envolvendo celebridade gera discussão e análise prolongada",
+    "angulo": "Análise completa da amizade entre Huck e Vorcaro revelada pela PF",
+    "titulo": "LUCIANO HUCK e VORCARO: A AMIZADE que a PF REVELOU"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 10000,
+   "momentum": 0,
+   "score_medio": 69
+  },
+  {
+   "termo": "naufrágio",
+   "score": 41,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Tempestade nos EUA remove areia de praia e desenterra navio que naufragou há mais de 140 anos",
+     "url": "https://g1.globo.com/mundo/noticia/2026/09/30/tempestade-nos-eua-remove-areia-de-praia-e-desenterra-navio-que-naufragou-ha-mais-de-140-anos.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Tempestade revela possível naufrágio de 1884 em ilha dos EUA",
+     "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/09/30/tempestade-revela-possivel-naufragio-de-1884-em-ilha-dos-eua.ghtm",
+     "fonte": "UOL Notícias"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 9,
+    "top_vph": 10276,
+    "outlier": 6.8,
+    "melhor": {
+     "titulo": "Você SOBREVIVERIA ao naufrágio do Titanic? #titanic #historia #curiosidades",
+     "canal": "Sabia Que",
+     "views": 451934,
+     "url": "https://youtu.be/nOs-gvkt2ak"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "História e Mistérios",
+    "vira_video": "sim",
+    "motivo": "Descoberta histórica permite conteúdo sobre naufrágios famosos e mistérios",
+    "angulo": "Naufrágios famosos que foram descobertos décadas depois",
+    "titulo": "NAVIO de 1884 RESSURGE: Os Naufrágios Mais Misteriosos Descobertos"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 63
+  },
+  {
+   "termo": "doação",
+   "score": 40,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 10000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "De tatuagem a Ozempic: novas regras facilitam a doação de sangue no país",
+     "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2026/09/30/de-tatuagem-a-ozempic-novas-regras-facilitam-a-doacao-de-sangue.ghtm",
+     "fonte": "UOL Notícias"
+    },
+    {
+     "titulo": "Portaria libera doação de sangue de pessoas com mais de 70 anos",
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/portaria-libera-doacao-de-sangue-de-pessoas-com-mais-de-70-anos",
+     "fonte": "Agência Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 18,
+    "top_vph": 5754,
+    "outlier": 175.9,
+    "melhor": {
+     "titulo": "EL MARIANA le hace una DONACIÓN a Auron🤣 #humor #auronplay #elmariana #bethcast",
+     "canal": "CococutZ",
+     "views": 808987,
+     "url": "https://youtu.be/C1yQYGiKM7M"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Saúde e Sociedade",
+    "vira_video": "sim",
+    "motivo": "Mudança de regras permite tutorial e conscientização sobre doação",
+    "angulo": "Quem pode doar sangue agora com as novas regras",
+    "titulo": "NOVAS REGRAS para DOAÇÃO de SANGUE: Quem Pode Doar Agora"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 10000,
+   "momentum": 0,
+   "score_medio": 61
+  },
+  {
+   "termo": "grand theft auto vi",
+   "score": 38,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "GTA 6: Rockstar divulga lista de atividades secundárias do novo jogo",
+     "url": "https://exame.com/pop/gta-6-rockstar-divulga-lista-de-atividades-secundarias-do-novo-jogo/",
+     "fonte": "Exame"
+    },
+    {
+     "titulo": "Onde ver a revista Game Informer de GTA 6 de graça? Veja preço e como assinar no Brasil",
+     "url": "https://www.estadao.com.br/em-alta/tecmundo/voxel/onde-ver-a-revista-game-informer-de-gta-6-veja-preco-e-como-assinar-no-brasil/",
+     "fonte": "Estadão"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 32915,
+    "outlier": 1488.2,
+    "melhor": {
+     "titulo": "can I play gta 6 on ts",
+     "canal": "Memes Supply",
+     "views": 3854400,
+     "url": "https://youtu.be/SG4pIGXiLfc"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Games",
+    "vira_video": "sim",
+    "motivo": "Lançamento de GTA 6 gera especulação e análise contínua",
+    "angulo": "Todas atividades secundárias confirmadas no GTA 6",
+    "titulo": "GTA 6: TODAS as ATIVIDADES SECUNDÁRIAS Reveladas pela Rockstar"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 58
+  },
+  {
+   "termo": "avião",
+   "score": 38,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Ataque em avião: copiloto disse em depoimento que agiu sozinho, segundo Israel",
+     "url": "https://g1.globo.com/mundo/noticia/2026/09/30/ataque-em-aviao-copiloto-disse-em-depoimento-que-agiu-sozinho.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "\"Homem louco\" e \"muito sangue\": os relatos dos passageiros da Flydubai",
+     "url": "https://www.cnnbrasil.com.br/internacional/relatos-passageiros-flydubai/",
+     "fonte": "CNN Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 41292,
+    "outlier": 95.7,
+    "melhor": {
+     "titulo": "¿Qué Pasaría Si Se Abriera una Ventana en Pleno Vuelo? ✈️😳",
+     "canal": "FuyikDon",
+     "views": 1943997,
+     "url": "https://youtu.be/wGMId3dSH_k"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Segurança Aérea",
+    "vira_video": "sim",
+    "motivo": "Ataque em voo gera conteúdo educativo sobre segurança aérea",
+    "angulo": "Como funcionam protocolos de segurança após ataques em aviões",
+    "titulo": "ATAQUE em AVIÃO: Como a Segurança Aérea Funciona Nesses Casos"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 58
+  },
+  {
+   "termo": "carlos jordy",
+   "score": 38,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Quaest para o Senado no RJ: Carlos Portinho, Benedita e Carlos Jordy têm 15% cada; Marcelo Crivella e Pedro Paulo, 7% cada; Monica Benicio, 6%",
+     "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/29/quaest-rj-senado-29-09ghtml.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Real Time Senado RJ: Jordy tem 18%; Benedita, 15%; Portinho, 14%",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-senado-rj-jordy-tem-18-benedita-15-portinho-14/",
+     "fonte": "CNN Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 470,
+    "outlier": 19.7,
+    "melhor": {
+     "titulo": "Quaest para o Senado no RJ: Carlos Portinho, Benedita e Carlos Jordy têm 15% cada",
+     "canal": "g1",
+     "views": 9617,
+     "url": "https://youtu.be/Mnj93JcrlW4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Eleição mantém relevância até o pleito mas decai depois",
+    "angulo": "Quem é Carlos Jordy e suas propostas para o Senado",
+    "titulo": "CARLOS JORDY: Quem É o Candidato que Lidera Pesquisas no RJ"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 57
+  },
+  {
+   "termo": "ps plus outubro 2026",
+   "score": 35,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Jogos do PS Plus Essential de outubro são revelados pela Sony! Confira a lista completa",
+     "url": "https://www.estadao.com.br/tecmundo/voxel/jogos-do-ps-plus-essential-de-outubro-sao-revelados-pela-sony-confira-a-lista-completa/",
+     "fonte": "Estadão"
+    },
+    {
+     "titulo": "PlayStation Plus Essential: Sony revela os jogos grátis de outubro de 2026",
+     "url": "https://www.tudocelular.com/software/noticias/n264143/playstation-plus-jogos-mensais-gratis-outubro-2026.html",
+     "fonte": "TudoCelular.com"
+    }
+   ],
+   "yt": {
+    "videos_7d": 24,
+    "com_10k": 7,
+    "top_vph": 11185,
+    "outlier": 2.2,
+    "melhor": {
+     "titulo": "PlayStation Plus Essential - October 2026 (PS+)",
+     "canal": "PlayStationGrenade",
+     "views": 29485,
+     "url": "https://youtu.be/1T-nzjfVn24"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Games",
+    "vira_video": "talvez",
+    "motivo": "Relevante por 30 dias; útil com análise dos jogos grátis",
+    "angulo": "Review completo dos jogos grátis e quais valem seu tempo",
+    "titulo": "JOGOS GRÁTIS PS PLUS Outubro 2026: Vale a Pena Baixar?"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 52
+  },
+  {
+   "termo": "aviação",
+   "score": 34,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Primeiro caso de passageiro suspenso na aviação do Brasil já ocorreu, apenas 4 dias após a Resolução 800 entrar em vigor",
+     "url": "https://aeroin.net/primeiro-caso-de-passageiro-suspenso-na-aviacao-do-brasil-ja-ocorreu-apenas-4-dias-apos-a-resolucao-800-entrar-em-vigor/",
+     "fonte": "AEROIN"
+    },
+    {
+     "titulo": "Passageiro que urinou em avião é o primeiro suspenso por ato gravíssimo sob nova regra da Anac",
+     "url": "https://autopapo.com.br/curta/passageiro-que-urinou-em-aviao-e-o-primeiro-suspenso-por-ato-gravissimo-sob-nova-regra-da-anac/",
+     "fonte": "AutoPapo"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 122327,
+    "outlier": 139.9,
+    "melhor": {
+     "titulo": "#septiembre",
+     "canal": "Only Kind",
+     "views": 2795682,
+     "url": "https://youtu.be/BgmARq1ZwyI"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Transporte e Regulamentação",
+    "vira_video": "sim",
+    "motivo": "Nova regra sobre comportamento em aviões vira conteúdo educativo",
+    "angulo": "Guia completo sobre o que pode te suspender de voar",
+    "titulo": "NOVA LEI da AVIAÇÃO: O que PODE TE BANIR de Voar no Brasil"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 50
+  },
+  {
+   "termo": "água",
+   "score": 33,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Belo Horizonte registra novo recorde de calor",
+     "url": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/video/belo-horizonte-registra-novo-recorde-de-calor-15007002.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Calor extremo em Belo Horizonte antecede chuva forte no fim de semana",
+     "url": "https://www.cartacapital.com.br/cartalab/calor-extremo-em-belo-horizonte-antecede-chuva-forte-no-fim-de-semana/",
+     "fonte": "CartaCapital"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 48882,
+    "outlier": 136.4,
+    "melhor": {
+     "titulo": "Ranking Craziest Rock Thrown In Water",
+     "canal": "AuraShorts",
+     "views": 4422312,
+     "url": "https://youtu.be/5yzuar4RLX8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meio Ambiente",
+    "vira_video": "talvez",
+    "motivo": "Calor extremo em BH é pontual mas aquecimento é tema perene",
+    "angulo": "Por que o calor extremo está batendo recordes no Brasil",
+    "titulo": "CALOR EXTREMO em BH: Por Que as Temperaturas Estão RECORDES"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 49
+  },
+  {
+   "termo": "renato aragão",
+   "score": 33,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "Entenda a ação na Justiça em que filha de Renato Aragão cobra R$ 1 milhão do pai",
+     "url": "https://oglobo.globo.com/cultura/noticia/2026/09/30/entenda-a-acao-na-justica-em-que-filha-de-renato-aragao-cobra-r-1-milhao-do-pai.ghtml",
+     "fonte": "O GLOBO"
+    },
+    {
+     "titulo": "Renato Aragão e filha terão audiência na Justiça por cobrança de R$ 872 mil",
+     "url": "https://f5.folha.uol.com.br/celebridades/2026/09/renato-aragao-e-filha-terao-audiencia-na-justica-por-cobranca-de-r-872-mil.shtml",
+     "fonte": "UOL"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 13,
+    "top_vph": 4407,
+    "outlier": 33.9,
+    "melhor": {
+     "titulo": "\"Guerra Por Herança!\": Filha Primogênita Processa Renato Aragão Por Dívida Milionária!",
+     "canal": "EXPONDO FAMOSOS",
+     "views": 70412,
+     "url": "https://youtu.be/J6zlFpgrf5Y"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Entretenimento e Celebridades",
+    "vira_video": "sim",
+    "motivo": "Polêmica familiar gera interesse em trajetória e fortuna do humorista",
+    "angulo": "A história completa da família Aragão e os bastidores dos Trapalhões",
+    "titulo": "A VERDADE sobre a FORTUNA de Renato Aragão e o PROCESSO da Filha"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 49
+  },
+  {
+   "termo": "cristiano ronaldo",
+   "score": 31,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Cristiano Ronaldo deixa concentração de Portugal após atrito com Jorge Jesus: \"A seu tempo, direi a verdade\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/30/cristiano-ronaldo-faz-postagem-sobre-saida-da-selecao.ghtml",
+     "fonte": "ge"
+    },
+    {
+     "titulo": "CR7 e Jorge Jesus: presidente da Federação articula paz",
+     "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cr7-e-jorge-jesus-presidente-da-federacao-articula-paz/",
+     "fonte": "CNN Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 99572,
+    "outlier": 1836.8,
+    "melhor": {
+     "titulo": "Animals Try to Be Like Ronaldo...😍🔥",
+     "canal": "217aep",
+     "views": 10329019,
+     "url": "https://youtu.be/4KzlKdYfukw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "sim",
+    "motivo": "Polêmica com Jorge Jesus gera discussão sobre carreira e legado",
+    "angulo": "Análise do comportamento de CR7 e impacto na seleção portuguesa",
+    "titulo": "A VERDADE Sobre a Briga de Cristiano Ronaldo e Jorge Jesus"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 46
+  },
+  {
+   "termo": "pesquisas eleitorais",
+   "score": 31,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 20000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Futura: Flávio tem 49% das intenções de voto no 2º turno; Lula, 43,5%",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/futura-flavio-tem-49-das-intencoes-de-voto-no-2o-turno-lula-435/",
+     "fonte": "CNN Brasil"
+    },
+    {
+     "titulo": "Pesquisa presidente 2026: veja o que dizem os levantamentos mais recentes",
+     "url": "https://noticias.uol.com.br/eleicoes/2026/09/30/pesquisa-presidente-2026-veja-o-que-dizem-os-levantamentos-mais-recentes.ghtm",
+     "fonte": "UOL Notícias"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 14473,
+    "outlier": 1336.7,
+    "melhor": {
+     "titulo": "ELEIÇÕES 2026: Flávio Bolsonaro tem 50% dos votos contra 43% de Lula, aponta pesquisa",
+     "canal": "Revista Oeste",
+     "views": 267651,
+     "url": "https://youtu.be/YiA_5Ab5el8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Útil se ensinar a interpretar pesquisas além dos números atuais",
+    "angulo": "Como entender de verdade as pesquisas eleitorais e não ser enganado",
+    "titulo": "Como LER PESQUISAS ELEITORAIS e Não Cair em Fake News"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 20000,
+   "momentum": 0,
+   "score_medio": 46
+  },
+  {
+   "termo": "eritreia x áfrica do sul",
+   "score": 25,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Eritreia x África do Sul Palpite – Análise e notícias (30/09)",
+     "url": "https://www.lance.com.br/sites-de-apostas/palpites/eritreia-x-africa-do-sul-30-09-2026.html",
+     "fonte": "LANCE!"
+    },
+    {
+     "titulo": "Eritreia x África do Sul: onde assistir, horário e escalações",
+     "url": "https://www.365scores.com/pt-br/news/magazine/eritreia-x-africa-do-sul-onde-assistir-escalacoes/",
+     "fonte": "365Scores"
+    }
+   ],
+   "yt": {
+    "videos_7d": 18,
+    "com_10k": 1,
+    "top_vph": 646,
+    "outlier": 1.7,
+    "melhor": {
+     "titulo": "Eritrea vs South Africa 🔴⚫ | LIVE PES 2021 Gameplay | Football Simulation",
+     "canal": "Faster Yogesh",
+     "views": 1346,
+     "url": "https://youtu.be/fJX3XL7wSE4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo pontual sem relevância após a partida acabar",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 35
+  },
+  {
+   "termo": "engavetamento",
+   "score": 23,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "VÍDEO: Engavetamento com cinco caminhões e um carro interdita faixa e provoca fila quilométrica na BR-101 em Itajaí",
+     "url": "https://ndmais.com.br/seguranca/video-engavetamento-com-cinco-caminhoes-e-um-carro-interdita-faixa-e-provoca-fila-quilometrica-na-br-101-em-itajai/",
+     "fonte": "ND Mais"
+    },
+    {
+     "titulo": "Acidente com seis veículos interditou faixa da BR 101 em Itajaí",
+     "url": "https://diarinho.net/materia/675706/Acidente-com-seis-veiculos-interdita-faixa-da-BR-101-em-Itajai",
+     "fonte": "DIARINHO"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 7,
+    "top_vph": 1574,
+    "outlier": 195.1,
+    "melhor": {
+     "titulo": "Band's tour manager dies days after multi-vehicle crash on I-264",
+     "canal": "WHAS11",
+     "views": 173323,
+     "url": "https://youtu.be/OiMiEYyrHB4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Trânsito",
+    "vira_video": "nao",
+    "motivo": "Acidente específico sem valor educativo prolongado relevante",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 32
+  },
+  {
+   "termo": "última pesquisa presidente 2026",
+   "score": 19,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 10000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Quando saem as últimas pesquisas para presidente antes do primeiro turno?",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pesquisas-presidente-primeiro-turno-quaest-datafolha.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "A nova pesquisa Datafolha sobre Lula x Flávio Bolsonaro, a 3 dias da eleição",
+     "url": "https://www.cartacapital.com.br/cartaexpressa/a-nova-pesquisa-datafolha-sobre-lula-x-flavio-bolsonaro-a-3-dias-da-eleicao/",
+     "fonte": "CartaCapital"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 17356,
+    "outlier": 67.5,
+    "melhor": {
+     "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 42% e Lula 40% no 1º turno",
+     "canal": "Jovem Pan News",
+     "views": 550410,
+     "url": "https://youtu.be/XQ9gmdXC24Q"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "nao",
+    "motivo": "Busca temporária vinculada a evento específico de eleição 2026",
+    "angulo": "Análise histórica de acertos e erros das pesquisas eleitorais",
+    "titulo": "Pesquisas Presidente 2026: Quem Vai REALMENTE Vencer?"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 10000,
+   "momentum": 0,
+   "score_medio": 26
+  },
+  {
+   "termo": "transporte",
+   "score": 17,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Faltam 5 dias: saiba como consultar o local de votação",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/faltam-5-dias-saiba-como-consultar-o-local-de-votacao",
+     "fonte": "Tribunal Superior Eleitoral"
+    },
+    {
+     "titulo": "Petrolina terá transporte coletivo gratuito durante as eleições",
+     "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/30/petrolina-tera-transporte-coletivo-gratuito-durante-as-eleicoes.ghtml",
+     "fonte": "G1"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 16302,
+    "outlier": 457.8,
+    "melhor": {
+     "titulo": "Nova fiscalização na altura da cabine ! #caminhao #caminhoneiro #estrada #transporte",
+     "canal": "GEOVANE MOZÃO",
+     "views": 2049119,
+     "url": "https://youtu.be/a0J9wfiSQVk"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Utilidade Pública",
+    "vira_video": "nao",
+    "motivo": "Termo genérico demais e notícias sobre eleições pontuais temporárias",
+    "angulo": "Guia de transporte gratuito disponível no Brasil",
+    "titulo": "Transporte Grátis nas Eleições: Saiba Como Usar"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 22
+  }
+ ],
+ "ano": [
+  {
+   "termo": "luciano huck vorcaro",
+   "score": 43,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 20000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "noticias": [
+    {
+     "titulo": "PF expõe elo de Luciano Huck com Daniel Vorcaro",
+     "url": "https://revistaoeste.com/politica/pf-expoe-elo-de-luciano-huck-com-daniel-vorcaro/",
+     "fonte": "Revista Oeste"
+    },
+    {
+     "titulo": "A versão de Luciano Huck para as mensagens trocadas com Daniel Vorcaro",
+     "url": "https://veja.abril.com.br/brasil/a-versao-de-luciano-huck-para-as-mensagens-trocadas-com-daniel-vorcaro/",
+     "fonte": "VEJA"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 0,
+    "top_vph": 8509,
+    "outlier": 0.1,
+    "melhor": {
+     "titulo": "BOMBA NA GLOBO: MENSAGENS EXPÕEM RELAÇÃO DE LUCIANO HUCK COM VORCARO",
+     "canal": "TV Afiada",
+     "views": 8542,
+     "url": "https://youtu.be/qghOyIRzNVI"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Celebridades e Polêmica",
+    "vira_video": "sim",
+    "motivo": "Mesmo tema com potencial de análise e repercussão duradoura",
+    "angulo": "Defesa do Huck versus provas da PF nas mensagens",
+    "titulo": "HUCK SE DEFENDE: Entenda as MENSAGENS com Daniel Vorcaro"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 20000,
+   "momentum": 0,
+   "score_medio": 77
+  },
+  {
+   "termo": "huck vorcaro",
+   "score": 39,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 10000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Mensagens da PF revelam que Luciano Huck foi amigo e conselheiro de Daniel Vorcaro",
+     "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-que-luciano-huck-foi-amigo-e-conselheiro-de-daniel-vorcaro/",
+     "fonte": "VEJA"
+    },
+    {
+     "titulo": "PF expõe elo de Luciano Huck com Daniel Vorcaro",
+     "url": "https://revistaoeste.com/politica/pf-expoe-elo-de-luciano-huck-com-daniel-vorcaro/",
+     "fonte": "Revista Oeste"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 7736,
+    "outlier": 0.1,
+    "melhor": {
+     "titulo": "BOMBA NA GLOBO: MENSAGENS EXPÕEM RELAÇÃO DE LUCIANO HUCK COM VORCARO",
+     "canal": "TV Afiada",
+     "views": 7736,
+     "url": "https://youtu.be/qghOyIRzNVI"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Celebridades e Polêmica",
+    "vira_video": "sim",
+    "motivo": "Polêmica envolvendo celebridade gera discussão e análise prolongada",
+    "angulo": "Análise completa da amizade entre Huck e Vorcaro revelada pela PF",
+    "titulo": "LUCIANO HUCK e VORCARO: A AMIZADE que a PF REVELOU"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 10000,
+   "momentum": 0,
+   "score_medio": 69
+  },
+  {
+   "termo": "naufrágio",
+   "score": 36,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Tempestade nos EUA remove areia de praia e desenterra navio que naufragou há mais de 140 anos",
+     "url": "https://g1.globo.com/mundo/noticia/2026/09/30/tempestade-nos-eua-remove-areia-de-praia-e-desenterra-navio-que-naufragou-ha-mais-de-140-anos.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Tempestade revela possível naufrágio de 1884 em ilha dos EUA",
+     "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/09/30/tempestade-revela-possivel-naufragio-de-1884-em-ilha-dos-eua.ghtm",
+     "fonte": "UOL Notícias"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 9,
+    "top_vph": 10276,
+    "outlier": 6.8,
+    "melhor": {
+     "titulo": "Você SOBREVIVERIA ao naufrágio do Titanic? #titanic #historia #curiosidades",
+     "canal": "Sabia Que",
+     "views": 451934,
+     "url": "https://youtu.be/nOs-gvkt2ak"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "História e Mistérios",
+    "vira_video": "sim",
+    "motivo": "Descoberta histórica permite conteúdo sobre naufrágios famosos e mistérios",
+    "angulo": "Naufrágios famosos que foram descobertos décadas depois",
+    "titulo": "NAVIO de 1884 RESSURGE: Os Naufrágios Mais Misteriosos Descobertos"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 63
+  },
+  {
+   "termo": "doação",
+   "score": 35,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 10000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "De tatuagem a Ozempic: novas regras facilitam a doação de sangue no país",
+     "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2026/09/30/de-tatuagem-a-ozempic-novas-regras-facilitam-a-doacao-de-sangue.ghtm",
+     "fonte": "UOL Notícias"
+    },
+    {
+     "titulo": "Portaria libera doação de sangue de pessoas com mais de 70 anos",
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/portaria-libera-doacao-de-sangue-de-pessoas-com-mais-de-70-anos",
+     "fonte": "Agência Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 18,
+    "top_vph": 5754,
+    "outlier": 175.9,
+    "melhor": {
+     "titulo": "EL MARIANA le hace una DONACIÓN a Auron🤣 #humor #auronplay #elmariana #bethcast",
+     "canal": "CococutZ",
+     "views": 808987,
+     "url": "https://youtu.be/C1yQYGiKM7M"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Saúde e Sociedade",
+    "vira_video": "sim",
+    "motivo": "Mudança de regras permite tutorial e conscientização sobre doação",
+    "angulo": "Quem pode doar sangue agora com as novas regras",
+    "titulo": "NOVAS REGRAS para DOAÇÃO de SANGUE: Quem Pode Doar Agora"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 10000,
+   "momentum": 0,
+   "score_medio": 61
+  },
+  {
+   "termo": "grand theft auto vi",
+   "score": 33,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "GTA 6: Rockstar divulga lista de atividades secundárias do novo jogo",
+     "url": "https://exame.com/pop/gta-6-rockstar-divulga-lista-de-atividades-secundarias-do-novo-jogo/",
+     "fonte": "Exame"
+    },
+    {
+     "titulo": "Onde ver a revista Game Informer de GTA 6 de graça? Veja preço e como assinar no Brasil",
+     "url": "https://www.estadao.com.br/em-alta/tecmundo/voxel/onde-ver-a-revista-game-informer-de-gta-6-veja-preco-e-como-assinar-no-brasil/",
+     "fonte": "Estadão"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 32915,
+    "outlier": 1488.2,
+    "melhor": {
+     "titulo": "can I play gta 6 on ts",
+     "canal": "Memes Supply",
+     "views": 3854400,
+     "url": "https://youtu.be/SG4pIGXiLfc"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Games",
+    "vira_video": "sim",
+    "motivo": "Lançamento de GTA 6 gera especulação e análise contínua",
+    "angulo": "Todas atividades secundárias confirmadas no GTA 6",
+    "titulo": "GTA 6: TODAS as ATIVIDADES SECUNDÁRIAS Reveladas pela Rockstar"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 58
+  },
+  {
+   "termo": "avião",
+   "score": 33,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Ataque em avião: copiloto disse em depoimento que agiu sozinho, segundo Israel",
+     "url": "https://g1.globo.com/mundo/noticia/2026/09/30/ataque-em-aviao-copiloto-disse-em-depoimento-que-agiu-sozinho.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "\"Homem louco\" e \"muito sangue\": os relatos dos passageiros da Flydubai",
+     "url": "https://www.cnnbrasil.com.br/internacional/relatos-passageiros-flydubai/",
+     "fonte": "CNN Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 41292,
+    "outlier": 95.7,
+    "melhor": {
+     "titulo": "¿Qué Pasaría Si Se Abriera una Ventana en Pleno Vuelo? ✈️😳",
+     "canal": "FuyikDon",
+     "views": 1943997,
+     "url": "https://youtu.be/wGMId3dSH_k"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Segurança Aérea",
+    "vira_video": "sim",
+    "motivo": "Ataque em voo gera conteúdo educativo sobre segurança aérea",
+    "angulo": "Como funcionam protocolos de segurança após ataques em aviões",
+    "titulo": "ATAQUE em AVIÃO: Como a Segurança Aérea Funciona Nesses Casos"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 58
+  },
+  {
+   "termo": "carlos jordy",
+   "score": 33,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 4,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Quaest para o Senado no RJ: Carlos Portinho, Benedita e Carlos Jordy têm 15% cada; Marcelo Crivella e Pedro Paulo, 7% cada; Monica Benicio, 6%",
+     "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/29/quaest-rj-senado-29-09ghtml.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Real Time Senado RJ: Jordy tem 18%; Benedita, 15%; Portinho, 14%",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-senado-rj-jordy-tem-18-benedita-15-portinho-14/",
+     "fonte": "CNN Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 470,
+    "outlier": 19.7,
+    "melhor": {
+     "titulo": "Quaest para o Senado no RJ: Carlos Portinho, Benedita e Carlos Jordy têm 15% cada",
+     "canal": "g1",
+     "views": 9617,
+     "url": "https://youtu.be/Mnj93JcrlW4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Eleição mantém relevância até o pleito mas decai depois",
+    "angulo": "Quem é Carlos Jordy e suas propostas para o Senado",
+    "titulo": "CARLOS JORDY: Quem É o Candidato que Lidera Pesquisas no RJ"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 57
+  },
+  {
+   "termo": "ps plus outubro 2026",
+   "score": 30,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Jogos do PS Plus Essential de outubro são revelados pela Sony! Confira a lista completa",
+     "url": "https://www.estadao.com.br/tecmundo/voxel/jogos-do-ps-plus-essential-de-outubro-sao-revelados-pela-sony-confira-a-lista-completa/",
+     "fonte": "Estadão"
+    },
+    {
+     "titulo": "PlayStation Plus Essential: Sony revela os jogos grátis de outubro de 2026",
+     "url": "https://www.tudocelular.com/software/noticias/n264143/playstation-plus-jogos-mensais-gratis-outubro-2026.html",
+     "fonte": "TudoCelular.com"
+    }
+   ],
+   "yt": {
+    "videos_7d": 24,
+    "com_10k": 7,
+    "top_vph": 11185,
+    "outlier": 2.2,
+    "melhor": {
+     "titulo": "PlayStation Plus Essential - October 2026 (PS+)",
+     "canal": "PlayStationGrenade",
+     "views": 29485,
+     "url": "https://youtu.be/1T-nzjfVn24"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Games",
+    "vira_video": "talvez",
+    "motivo": "Relevante por 30 dias; útil com análise dos jogos grátis",
+    "angulo": "Review completo dos jogos grátis e quais valem seu tempo",
+    "titulo": "JOGOS GRÁTIS PS PLUS Outubro 2026: Vale a Pena Baixar?"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 52
+  },
+  {
+   "termo": "água",
+   "score": 29,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Belo Horizonte registra novo recorde de calor",
+     "url": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/video/belo-horizonte-registra-novo-recorde-de-calor-15007002.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Calor extremo em Belo Horizonte antecede chuva forte no fim de semana",
+     "url": "https://www.cartacapital.com.br/cartalab/calor-extremo-em-belo-horizonte-antecede-chuva-forte-no-fim-de-semana/",
+     "fonte": "CartaCapital"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 48882,
+    "outlier": 136.4,
+    "melhor": {
+     "titulo": "Ranking Craziest Rock Thrown In Water",
+     "canal": "AuraShorts",
+     "views": 4422312,
+     "url": "https://youtu.be/5yzuar4RLX8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meio Ambiente",
+    "vira_video": "talvez",
+    "motivo": "Calor extremo em BH é pontual mas aquecimento é tema perene",
+    "angulo": "Por que o calor extremo está batendo recordes no Brasil",
+    "titulo": "CALOR EXTREMO em BH: Por Que as Temperaturas Estão RECORDES"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 49
+  },
+  {
+   "termo": "aviação",
+   "score": 29,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Primeiro caso de passageiro suspenso na aviação do Brasil já ocorreu, apenas 4 dias após a Resolução 800 entrar em vigor",
+     "url": "https://aeroin.net/primeiro-caso-de-passageiro-suspenso-na-aviacao-do-brasil-ja-ocorreu-apenas-4-dias-apos-a-resolucao-800-entrar-em-vigor/",
+     "fonte": "AEROIN"
+    },
+    {
+     "titulo": "Passageiro que urinou em avião é o primeiro suspenso por ato gravíssimo sob nova regra da Anac",
+     "url": "https://autopapo.com.br/curta/passageiro-que-urinou-em-aviao-e-o-primeiro-suspenso-por-ato-gravissimo-sob-nova-regra-da-anac/",
+     "fonte": "AutoPapo"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 122327,
+    "outlier": 139.9,
+    "melhor": {
+     "titulo": "#septiembre",
+     "canal": "Only Kind",
+     "views": 2795682,
+     "url": "https://youtu.be/BgmARq1ZwyI"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Transporte e Regulamentação",
+    "vira_video": "sim",
+    "motivo": "Nova regra sobre comportamento em aviões vira conteúdo educativo",
+    "angulo": "Guia completo sobre o que pode te suspender de voar",
+    "titulo": "NOVA LEI da AVIAÇÃO: O que PODE TE BANIR de Voar no Brasil"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 50
+  },
+  {
+   "termo": "renato aragão",
+   "score": 29,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 2,
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "noticias": [
+    {
+     "titulo": "Entenda a ação na Justiça em que filha de Renato Aragão cobra R$ 1 milhão do pai",
+     "url": "https://oglobo.globo.com/cultura/noticia/2026/09/30/entenda-a-acao-na-justica-em-que-filha-de-renato-aragao-cobra-r-1-milhao-do-pai.ghtml",
+     "fonte": "O GLOBO"
+    },
+    {
+     "titulo": "Renato Aragão e filha terão audiência na Justiça por cobrança de R$ 872 mil",
+     "url": "https://f5.folha.uol.com.br/celebridades/2026/09/renato-aragao-e-filha-terao-audiencia-na-justica-por-cobranca-de-r-872-mil.shtml",
+     "fonte": "UOL"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 13,
+    "top_vph": 4407,
+    "outlier": 33.9,
+    "melhor": {
+     "titulo": "\"Guerra Por Herança!\": Filha Primogênita Processa Renato Aragão Por Dívida Milionária!",
+     "canal": "EXPONDO FAMOSOS",
+     "views": 70412,
+     "url": "https://youtu.be/J6zlFpgrf5Y"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Entretenimento e Celebridades",
+    "vira_video": "sim",
+    "motivo": "Polêmica familiar gera interesse em trajetória e fortuna do humorista",
+    "angulo": "A história completa da família Aragão e os bastidores dos Trapalhões",
+    "titulo": "A VERDADE sobre a FORTUNA de Renato Aragão e o PROCESSO da Filha"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 49
+  },
+  {
+   "termo": "cristiano ronaldo",
+   "score": 27,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Cristiano Ronaldo deixa concentração de Portugal após atrito com Jorge Jesus: \"A seu tempo, direi a verdade\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/30/cristiano-ronaldo-faz-postagem-sobre-saida-da-selecao.ghtml",
+     "fonte": "ge"
+    },
+    {
+     "titulo": "CR7 e Jorge Jesus: presidente da Federação articula paz",
+     "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/cr7-e-jorge-jesus-presidente-da-federacao-articula-paz/",
+     "fonte": "CNN Brasil"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 99572,
+    "outlier": 1836.8,
+    "melhor": {
+     "titulo": "Animals Try to Be Like Ronaldo...😍🔥",
+     "canal": "217aep",
+     "views": 10329019,
+     "url": "https://youtu.be/4KzlKdYfukw"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "sim",
+    "motivo": "Polêmica com Jorge Jesus gera discussão sobre carreira e legado",
+    "angulo": "Análise do comportamento de CR7 e impacto na seleção portuguesa",
+    "titulo": "A VERDADE Sobre a Briga de Cristiano Ronaldo e Jorge Jesus"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 46
+  },
+  {
+   "termo": "pesquisas eleitorais",
+   "score": 27,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 20000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Futura: Flávio tem 49% das intenções de voto no 2º turno; Lula, 43,5%",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/futura-flavio-tem-49-das-intencoes-de-voto-no-2o-turno-lula-435/",
+     "fonte": "CNN Brasil"
+    },
+    {
+     "titulo": "Pesquisa presidente 2026: veja o que dizem os levantamentos mais recentes",
+     "url": "https://noticias.uol.com.br/eleicoes/2026/09/30/pesquisa-presidente-2026-veja-o-que-dizem-os-levantamentos-mais-recentes.ghtm",
+     "fonte": "UOL Notícias"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 14473,
+    "outlier": 1336.7,
+    "melhor": {
+     "titulo": "ELEIÇÕES 2026: Flávio Bolsonaro tem 50% dos votos contra 43% de Lula, aponta pesquisa",
+     "canal": "Revista Oeste",
+     "views": 267651,
+     "url": "https://youtu.be/YiA_5Ab5el8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Útil se ensinar a interpretar pesquisas além dos números atuais",
+    "angulo": "Como entender de verdade as pesquisas eleitorais e não ser enganado",
+    "titulo": "Como LER PESQUISAS ELEITORAIS e Não Cair em Fake News"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 20000,
+   "momentum": 0,
+   "score_medio": 46
+  },
+  {
+   "termo": "eritreia x áfrica do sul",
+   "score": 22,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 5000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "Eritreia x África do Sul Palpite – Análise e notícias (30/09)",
+     "url": "https://www.lance.com.br/sites-de-apostas/palpites/eritreia-x-africa-do-sul-30-09-2026.html",
+     "fonte": "LANCE!"
+    },
+    {
+     "titulo": "Eritreia x África do Sul: onde assistir, horário e escalações",
+     "url": "https://www.365scores.com/pt-br/news/magazine/eritreia-x-africa-do-sul-onde-assistir-escalacoes/",
+     "fonte": "365Scores"
+    }
+   ],
+   "yt": {
+    "videos_7d": 18,
+    "com_10k": 1,
+    "top_vph": 646,
+    "outlier": 1.7,
+    "melhor": {
+     "titulo": "Eritrea vs South Africa 🔴⚫ | LIVE PES 2021 Gameplay | Football Simulation",
+     "canal": "Faster Yogesh",
+     "views": 1346,
+     "url": "https://youtu.be/fJX3XL7wSE4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo pontual sem relevância após a partida acabar",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 5000,
+   "momentum": 0,
+   "score_medio": 35
+  },
+  {
+   "termo": "engavetamento",
+   "score": 20,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 2000,
+   "aparicoes": 3,
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "noticias": [
+    {
+     "titulo": "VÍDEO: Engavetamento com cinco caminhões e um carro interdita faixa e provoca fila quilométrica na BR-101 em Itajaí",
+     "url": "https://ndmais.com.br/seguranca/video-engavetamento-com-cinco-caminhoes-e-um-carro-interdita-faixa-e-provoca-fila-quilometrica-na-br-101-em-itajai/",
+     "fonte": "ND Mais"
+    },
+    {
+     "titulo": "Acidente com seis veículos interditou faixa da BR 101 em Itajaí",
+     "url": "https://diarinho.net/materia/675706/Acidente-com-seis-veiculos-interdita-faixa-da-BR-101-em-Itajai",
+     "fonte": "DIARINHO"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 7,
+    "top_vph": 1574,
+    "outlier": 195.1,
+    "melhor": {
+     "titulo": "Band's tour manager dies days after multi-vehicle crash on I-264",
+     "canal": "WHAS11",
+     "views": 173323,
+     "url": "https://youtu.be/OiMiEYyrHB4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Trânsito",
+    "vira_video": "nao",
+    "motivo": "Acidente específico sem valor educativo prolongado relevante",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 2000,
+   "momentum": 0,
+   "score_medio": 32
+  },
+  {
+   "termo": "última pesquisa presidente 2026",
+   "score": 17,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 10000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Quando saem as últimas pesquisas para presidente antes do primeiro turno?",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pesquisas-presidente-primeiro-turno-quaest-datafolha.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "A nova pesquisa Datafolha sobre Lula x Flávio Bolsonaro, a 3 dias da eleição",
+     "url": "https://www.cartacapital.com.br/cartaexpressa/a-nova-pesquisa-datafolha-sobre-lula-x-flavio-bolsonaro-a-3-dias-da-eleicao/",
+     "fonte": "CartaCapital"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 17356,
+    "outlier": 67.5,
+    "melhor": {
+     "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 42% e Lula 40% no 1º turno",
+     "canal": "Jovem Pan News",
+     "views": 550410,
+     "url": "https://youtu.be/XQ9gmdXC24Q"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "nao",
+    "motivo": "Busca temporária vinculada a evento específico de eleição 2026",
+    "angulo": "Análise histórica de acertos e erros das pesquisas eleitorais",
+    "titulo": "Pesquisas Presidente 2026: Quem Vai REALMENTE Vencer?"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 10000,
+   "momentum": 0,
+   "score_medio": 26
+  },
+  {
+   "termo": "transporte",
+   "score": 15,
+   "fase": "frio",
+   "janela": "monitorar",
+   "trafego": 1000,
+   "aparicoes": 1,
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "noticias": [
+    {
+     "titulo": "Faltam 5 dias: saiba como consultar o local de votação",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/faltam-5-dias-saiba-como-consultar-o-local-de-votacao",
+     "fonte": "Tribunal Superior Eleitoral"
+    },
+    {
+     "titulo": "Petrolina terá transporte coletivo gratuito durante as eleições",
+     "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/30/petrolina-tera-transporte-coletivo-gratuito-durante-as-eleicoes.ghtml",
+     "fonte": "G1"
+    }
+   ],
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 16302,
+    "outlier": 457.8,
+    "melhor": {
+     "titulo": "Nova fiscalização na altura da cabine ! #caminhao #caminhoneiro #estrada #transporte",
+     "canal": "GEOVANE MOZÃO",
+     "views": 2049119,
+     "url": "https://youtu.be/a0J9wfiSQVk"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Utilidade Pública",
+    "vira_video": "nao",
+    "motivo": "Termo genérico demais e notícias sobre eleições pontuais temporárias",
+    "angulo": "Guia de transporte gratuito disponível no Brasil",
+    "titulo": "Transporte Grátis nas Eleições: Saiba Como Usar"
+   },
+   "dias_em_alta": 1,
+   "pico_trafego": 1000,
+   "momentum": 0,
+   "score_medio": 22
+  }
+ ]
+}

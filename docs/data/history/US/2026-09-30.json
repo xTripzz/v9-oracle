@@ -1,0 +1,991 @@
+{
+ "data": "2026-09-30",
+ "rodadas": 4,
+ "termos": {
+  "paris fc vs arsenal": {
+   "termo": "paris fc vs arsenal",
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "aparicoes": 3,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Women's Champions League: Paris v Arsenal & Lyon v Chelsea",
+     "url": "https://www.bbc.com/sport/football/live/cm93e28k75z7t",
+     "fonte": "BBC"
+    },
+    {
+     "titulo": "Every word of Renée’s pre-Paris FC press conference",
+     "url": "https://www.arsenal.com/news/every-word-of-renees-pre-paris-fc-press-conference-axtmd8J9MWwZ",
+     "fonte": "Arsenal.com"
+    },
+    {
+     "titulo": "Paris FC v Arsenal Preview",
+     "url": "https://arseblog.news/2026/09/paris-fc-v-arsenal-preview/",
+     "fonte": "Arseblog News"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:38:37.542284Z",
+   "rd": null,
+   "score": 34,
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 5,
+    "top_vph": 2838,
+    "outlier": 12.1,
+    "melhor": {
+     "titulo": "WATCH LIVE | Paris FC vs Arsenal | UEFA Women’s Champions League Clash",
+     "canal": "The Daily Guardian",
+     "views": 2838,
+     "url": "https://youtu.be/Dm0HBMAkPek"
+    }
+   },
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico sem vida útil além do evento",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   }
+  },
+  "roma vs barcelona": {
+   "termo": "roma vs barcelona",
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "aparicoes": 3,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "UWCL PREVIEW | AS Roma v FC Barcelona",
+     "url": "https://www.fcbarcelona.com/en/football/womens-football/news/4583725/uwcl-preview-as-roma-v-fc-barcelona",
+     "fonte": "FC Barcelona Website"
+    },
+    {
+     "titulo": "Licensable picture: UEFA Women's Champions League - AS Roma v FC Barcelona",
+     "url": "https://www.reutersconnect.com/item/uefa-womens-champions-league-as-roma-v-fc-barcelona/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOVUxOFFHOVk",
+     "fonte": "Reuters Connect"
+    },
+    {
+     "titulo": "Roma W vs Barcelona W – Prediction, Where to Watch, Kick-off Time and Lineups 30-09",
+     "url": "https://oddsscanner.com/predictions/football/roma-w-x-barcelona-w-30-09-2026",
+     "fonte": "Odds Scanner"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:38:37.542284Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 6,
+    "top_vph": 2849,
+    "outlier": 74.1,
+    "melhor": {
+     "titulo": "✅ ROMA vs BARCELONA [EN VIVO] 🔴 CHAMPIONS LEAGUE FEMENINA - FECHA 2 🏆",
+     "canal": "Fuera de Juego",
+     "views": 5017,
+     "url": "https://youtu.be/NPe9QCJqya8"
+    }
+   },
+   "rd": null,
+   "score": 35,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Partida específica com interesse apenas no dia do jogo",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   }
+  },
+  "pete hegseth": {
+   "termo": "pete hegseth",
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "aparicoes": 3,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "Hegseth to announce a 20% cut to generals and admirals",
+     "url": "https://www.cbsnews.com/news/hegseth-20-cut-generals-and-admirals-military-pentagon/",
+     "fonte": "CBS News"
+    },
+    {
+     "titulo": "Why is Hegseth cutting 20 percent of US general and admiral positions?",
+     "url": "https://www.aljazeera.com/news/2026/9/30/why-is-hegseth-cutting-20-percent-of-us-general-and-admiral-positions",
+     "fonte": "Al Jazeera"
+    },
+    {
+     "titulo": "Pentagon to cut 20% of general and admiral positions by Jan. 1",
+     "url": "https://federalnewsnetwork.com/defense-main/2026/09/pentagon-to-cut-20-of-general-and-admiral-positions-by-jan-1/",
+     "fonte": "Federal News Network"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:38:37.542284Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 17662,
+    "outlier": 426.8,
+    "melhor": {
+     "titulo": "Pete Hegseth Is Purging Military Leadership",
+     "canal": "DeFranco News Clips",
+     "views": 328188,
+     "url": "https://youtu.be/vP4VwUvz7UA"
+    }
+   },
+   "rd": null,
+   "score": 49,
+   "ia": {
+    "categoria": "Política/Defesa",
+    "vira_video": "talvez",
+    "motivo": "Decisão política com impacto duradouro nas forças armadas",
+    "angulo": "Consequências reais do corte de generais nos EUA",
+    "titulo": "Pete Hegseth's Military Cuts: What It Really Means For America"
+   }
+  },
+  "shubman gill": {
+   "termo": "shubman gill",
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "aparicoes": 2,
+   "trafego": 20000,
+   "noticias": [
+    {
+     "titulo": "IND vs WI 2026, 2nd ODI: Shubman Gill Six",
+     "url": "https://www.bcci.tv/videos/s-ind-vs-wi-2026-2nd-odi-shubman-gill-six-yh3e6",
+     "fonte": "BCCI"
+    },
+    {
+     "titulo": "200 for Shubman Gill: India captain becomes only second batter after Rohit Sharma with multiple ODI doubl",
+     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/200-for-shubman-gill-india-captain-becomes-only-second-batter-after-rohit-sharma-with-multiple-odi-double-centuries/articleshow/134598114.cms",
+     "fonte": "The Times of India"
+    },
+    {
+     "titulo": "Shubman Gill smashes his fastest hundred in ODI cricket | Gill smashed his 2nd consecutive ODI ton | Inshorts",
+     "url": "https://inshorts.com/en/news/shubman-gill-smashes-his-fastest-hundred-in-odi-cricket-1790779841065",
+     "fonte": "Inshorts"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:13:40.991052Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 83389,
+    "outlier": 868.6,
+    "melhor": {
+     "titulo": "IND vs WI 1st ODI Highlights 2026🔥 India vs West Indies 2026 Virat Kohli & Shubman Gill century hlts",
+     "canal": "Arunesh",
+     "views": 6218886,
+     "url": "https://youtu.be/MlJv6kU0VsI"
+    }
+   },
+   "rd": null,
+   "score": 50,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Jogador em ascensão, análise de carreira tem potencial duradouro",
+    "angulo": "Por que Shubman Gill está dominando o cricket mundial",
+    "titulo": "Shubman Gill's 200: Why He's India's Next Superstar"
+   }
+  },
+  "jorge kahwagi": {
+   "termo": "jorge kahwagi",
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "aparicoes": 3,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Muere Jorge Kahwagi, boxeador y ex de famosas como Marlene Favela y Ana Bárbara",
+     "url": "https://www.univision.com/famosos/muere-jorge-kahwagi-macari",
+     "fonte": "Univision"
+    },
+    {
+     "titulo": "Muere Jorge Kahwagi Macari: boxeador, político y estrella de Big Brother",
+     "url": "https://www.infobae.com/mexico/2026/09/30/muere-jorge-kahwagi-macari-exboxeador-politico-y-estrella-de-big-brother/",
+     "fonte": "Infobae"
+    },
+    {
+     "titulo": "Jorge Kahwagi estuvo en ‘Big Brother VIP’: así fue su polemico paso por el reality",
+     "url": "https://www.facebook.com/MilenioDiario/posts/jorge-kahwagi-estuvo-en-big-brother-vip-as%C3%AD-fue-su-polemico-paso-por-el-reality/1624989842991814/",
+     "fonte": "Facebook"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:38:37.542284Z",
+   "rd": null,
+   "score": 40,
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 0,
+    "top_vph": 5935,
+    "outlier": 0.8,
+    "melhor": {
+     "titulo": "MUERE JORGE KAHWAGI - ultima hora",
+     "canal": "arguendetv",
+     "views": 6069,
+     "url": "https://youtu.be/Dzq4F8rdqPU"
+    }
+   },
+   "ia": {
+    "categoria": "Celebridades",
+    "vira_video": "nao",
+    "motivo": "Notícia de falecimento sem apelo duradouro para público EUA",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   }
+  },
+  "eritrea vs south africa": {
+   "termo": "eritrea vs south africa",
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "aparicoes": 3,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "Eritrea vs South Africa: Africa Cup of Nations Qualification stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c9x2zzg2ldrdt",
+     "fonte": "BBC"
+    },
+    {
+     "titulo": "Five interesting facts about the Red Sea Camels",
+     "url": "https://www.sowetan.co.za/sport/2026-09-29-five-interesting-facts-about-the-red-sea-camels/",
+     "fonte": "Sowetan"
+    },
+    {
+     "titulo": "Bafana Bafana’s ever-improving away record in AFCON qualifiers to be tested",
+     "url": "https://www.flashscore.com/news/soccer-africa-cup-of-nations-bafana-bafana-s-ever-improving-away-record-in-afcon-qualifiers-to-be-tested/U7vnXzXr/",
+     "fonte": "Flashscore.com"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:38:37.542284Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 10,
+    "top_vph": 4223,
+    "outlier": 115.0,
+    "melhor": {
+     "titulo": "Today Football Eritrea Vs South Africa",
+     "canal": "HB.Entertainment",
+     "views": 4223,
+     "url": "https://youtu.be/wLLyBsia2lA"
+    }
+   },
+   "rd": null,
+   "score": 33,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico sem apelo além do resultado imediato",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   }
+  },
+  "california flooding": {
+   "termo": "california flooding",
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "aparicoes": 3,
+   "trafego": 10000,
+   "noticias": [
+    {
+     "titulo": "Texas in bull's-eye of dangerous, tropically enhanced 1,500-mile flood threat covering 11 states",
+     "url": "https://www.foxweather.com/weather-news/over-150m-face-week-long-flood-threat-across-30-states-fueled-powerful-pacific-tropical-systems",
+     "fonte": "FOX Weather"
+    },
+    {
+     "titulo": "Another Day of Pounding Rain Raises Flooding Fears in Texas",
+     "url": "https://www.nytimes.com/2026/09/30/weather/texas-flood-rain-forecast.html",
+     "fonte": "The New York Times"
+    },
+    {
+     "titulo": "Hurricane Polo's remnants bringing more rain to flood-struck U.S. Southwest",
+     "url": "https://www.npr.org/2026/09/30/g-s1-145590/hurricane-polo-us-southwest",
+     "fonte": "NPR"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:38:37.542284Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 18450,
+    "outlier": 54.8,
+    "melhor": {
+     "titulo": "Hurricanes Polo, Odalys to send powerful waves to already battered Southern California coast",
+     "canal": "KTLA 5",
+     "views": 1537004,
+     "url": "https://youtu.be/fUt9GTu_Mjk"
+    }
+   },
+   "rd": null,
+   "score": 31,
+   "ia": {
+    "categoria": "Notícias/Clima",
+    "vira_video": "nao",
+    "motivo": "Notícia temporal sem vida útil além do evento",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   }
+  },
+  "manassas shooting": {
+   "termo": "manassas shooting",
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "aparicoes": 3,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Manhunt underway for suspect who shot 3 coworkers in Manassas, police say",
+     "url": "https://www.nbcwashington.com/news/local/northern-virginia/manhunt-underway-for-suspect-who-shot-3-coworkers-in-manassas-police-say/4161246/",
+     "fonte": "NBC4 Washington"
+    },
+    {
+     "titulo": "3 critically hurt in workplace shooting; suspect at large, Manassas police say",
+     "url": "https://www.washingtonpost.com/dc-md-va/2026/09/30/3-critically-hurt-workplace-shooting-suspect-large-manassas-police-say/",
+     "fonte": "The Washington Post"
+    },
+    {
+     "titulo": "3 workers shot at United Rentals in Virginia; Accused gunman on the run",
+     "url": "https://wjla.com/news/local/active-shooter-manassas-shooting-marvin-grant-virginia-prince-william-school-lockdown-suspect-vehicle-wellington-road",
+     "fonte": "WJLA"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:38:37.542284Z",
+   "score": 36,
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 12928,
+    "outlier": 0.1,
+    "melhor": {
+     "titulo": "🔴 BREAKING: ACTIVE SHOOTER Manhunt in Virginia, Suspect Still at Large",
+     "canal": "iCkEdMeL",
+     "views": 27604,
+     "url": "https://youtu.be/eatdHaSXc3c"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias/Crime",
+    "vira_video": "nao",
+    "motivo": "Notícia criminal local sem vida útil duradoura",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   }
+  },
+  "jason priestley": {
+   "termo": "jason priestley",
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "aparicoes": 2,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Forget High Potential, Hulu Is Officially Adding 5-Part Detective Series Adaptation At The Perfect Time",
+     "url": "https://www.imdb.com/news/ni66035170/?ref_=ttnw_art_perm",
+     "fonte": "IMDb"
+    },
+    {
+     "titulo": "Private Eyes comes to Hulu on October 6: streaming debut for the five-season series",
+     "url": "https://en.softonic.com/articles/private-eyes-comes-to-hulu-on-october-6-streaming-debut-for-the-five-season-series",
+     "fonte": "Softonic"
+    },
+    {
+     "titulo": "Forget High Potential, Hulu Is Officially Adding 5-Part Detective Series Adaptation At The Perfect Time",
+     "url": "https://screenrant.com/private-eyes-high-potential-replacement-hulu-streaming-release-date-september-2026/",
+     "fonte": "ScreenRant"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:13:40.991052Z",
+   "score": 46,
+   "yt": {
+    "videos_7d": 22,
+    "com_10k": 2,
+    "top_vph": 462,
+    "outlier": 5.0,
+    "melhor": {
+     "titulo": "Jason Priestley on ‘Private Eyes West Coast,’ Family and ‘90210’",
+     "canal": "TODAY with Jenna & Sheinelle",
+     "views": 1107,
+     "url": "https://youtu.be/WIfM-HgnWq8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Entretenimento",
+    "vira_video": "talvez",
+    "motivo": "Nostalgia de Beverly Hills 90210 tem apelo duradouro",
+    "angulo": "O que Jason Priestley fez desde Beverly Hills 90210",
+    "titulo": "Jason Priestley: Where Is He Now After Beverly Hills 90210?"
+   }
+  },
+  "strait of hormuz news": {
+   "termo": "strait of hormuz news",
+   "primeira_vez": "2026-09-30T17:05:09.937456Z",
+   "aparicoes": 1,
+   "trafego": 10000,
+   "noticias": [
+    {
+     "titulo": "Iran has lost considerable leverage in the Strait of Hormuz. It can’t go on like this forever",
+     "url": "https://edition.cnn.com/2026/09/29/economy/oil-strait-of-hormuz-iran",
+     "fonte": "CNN"
+    },
+    {
+     "titulo": "How the U.S. got oil shipments moving and what it would take to bring prices down",
+     "url": "https://www.washingtonpost.com/business/2026/09/30/why-rebound-oil-shipments-isnt-bringing-big-drop-prices/",
+     "fonte": "The Washington Post"
+    },
+    {
+     "titulo": "Mideast Crude Oil Flows Hit 98% of Pre-War Level, JPMorgan Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-30/mideast-crude-oil-flows-hit-98-of-pre-war-level-jpmorgan-says",
+     "fonte": "Bloomberg.com"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:05:09.937456Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 21844,
+    "outlier": 0.7,
+    "melhor": {
+     "titulo": "Hormuz oil traffic surges, sanctions relief & more: Iran latest",
+     "canal": "CNN",
+     "views": 391235,
+     "url": "https://youtu.be/vXt3h6BTBtM"
+    }
+   },
+   "rd": null,
+   "score": 48,
+   "ia": {
+    "categoria": "Geopolítica",
+    "vira_video": "sim",
+    "motivo": "Tema geopolítico recorrente com implicações duradouras no petróleo",
+    "angulo": "Como o Estreito de Hormuz controla a economia global",
+    "titulo": "Strait of Hormuz: Why This Waterway Controls Global Oil Prices"
+   }
+  },
+  "ken paxton": {
+   "termo": "ken paxton",
+   "primeira_vez": "2026-09-30T17:13:40.991052Z",
+   "aparicoes": 2,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Ken Paxton, G.O.P. Nominee in Texas, Privately Said Trump’s Convention Hurt Him",
+     "url": "https://www.nytimes.com/2026/09/30/us/politics/ken-paxton-trump-midterm-convention.html",
+     "fonte": "The New York Times"
+    },
+    {
+     "titulo": "Paxton: Trump GOP midterm convention ‘dropped our numbers’",
+     "url": "https://thehill.com/homenews/campaign/6119925-paxton-claims-gop-convention-hurt/",
+     "fonte": "The Hill"
+    },
+    {
+     "titulo": "Texas US Senate candidate Paxton said Trump hurt Republicans, New York Times says",
+     "url": "https://www.reuters.com/world/us/texas-us-senate-candidate-paxton-said-trump-hurt-republicans-new-york-times-says-2026-09-30/",
+     "fonte": "Reuters"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:38:37.542284Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 28462,
+    "outlier": 2.0,
+    "melhor": {
+     "titulo": "Fox News issues CRUSHING announcement for Ken Paxton",
+     "canal": "Brian Tyler Cohen",
+     "views": 447415,
+     "url": "https://youtu.be/3Bj5lZXDjRo"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "nao",
+    "motivo": "Notícia política temporal sem vida útil significativa",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 25
+  },
+  "sophia bush": {
+   "termo": "sophia bush",
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Exclusive: Sophia Bush and Ashlyn Harris Are Married! The Romantic Story Behind Their Special Day",
+     "url": "https://www.vogue.com/article/sophia-bush-and-ashlyn-harris-wedding-excerpt",
+     "fonte": "Vogue"
+    },
+    {
+     "titulo": "Sophia Bush Reveals She and Ashlyn Harris Secretly Married: ‘You’re My Wife’",
+     "url": "https://people.com/sophia-bush-ashlyn-harris-married-memoir-excerpt-12147323",
+     "fonte": "People.com"
+    },
+    {
+     "titulo": "Sophia Bush reveals she and Ashlyn Harris have been secretly married for more than a year",
+     "url": "https://pagesix.com/2026/09/30/celebrity-news/sophia-bush-ashlyn-harris-have-been-secretly-married-for-more-than-a-year/",
+     "fonte": "Page Six"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:38:37.542284Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 5,
+    "top_vph": 2840,
+    "outlier": 21.0,
+    "melhor": {
+     "titulo": "Ashlyn Harris and Sophia Bush have a family outing at the \"A Sense Of Home\" New York City Gala. ❤️",
+     "canal": "E! News",
+     "views": 458116,
+     "url": "https://youtu.be/PXqszRJm-Uc"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Celebridades e Entretenimento",
+    "vira_video": "talvez",
+    "motivo": "Casamento secreto gera interesse temporário, mas público LGBTQ+ sustenta",
+    "angulo": "Timeline completo do relacionamento secreto até o casamento surpresa",
+    "titulo": "Sophia Bush's Secret Wedding to Ashlyn Harris: Complete Timeline Revealed"
+   },
+   "score": 50
+  },
+  "playstation plus free games october 2026": {
+   "termo": "playstation plus free games october 2026",
+   "primeira_vez": "2026-09-30T17:38:37.542284Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "PlayStation Plus Monthly Games for October: F1 25, Hunt: Showdown 1896, Earth Defense Force: World Brothers 2",
+     "url": "https://blog.playstation.com/2026/09/30/playstation-plus-monthly-games-for-october-f1-25-hunt-showdown-1896-earth-defense-force-world-brothers-2/",
+     "fonte": "PlayStation.Blog"
+    },
+    {
+     "titulo": "PlayStation’s Free PS Plus Games For October Aren’t Really Scary At All",
+     "url": "https://kotaku.com/playstations-free-ps-plus-games-for-october-arent-really-scary-at-all-2000738654",
+     "fonte": "Kotaku"
+    },
+    {
+     "titulo": "PlayStation Plus Monthly Games for October 2026 Announced",
+     "url": "https://www.ign.com/articles/playstation-plus-monthly-games-for-october-2026-announced",
+     "fonte": "IGN"
+    }
+   ],
+   "ultima_vez": "2026-09-30T17:38:37.542284Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 5,
+    "top_vph": 7521,
+    "outlier": 15.2,
+    "melhor": {
+     "titulo": "PlayStation Plus Essential - October 2026 (PS+)",
+     "canal": "PlayStationGrenade",
+     "views": 7521,
+     "url": "https://youtu.be/1T-nzjfVn24"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Games",
+    "vira_video": "sim",
+    "motivo": "Conteúdo mensal recorrente com audiência fiel buscando análises e gameplay",
+    "angulo": "Review honesta dos jogos grátis e quais realmente valem baixar",
+    "titulo": "PS Plus October 2026 FREE Games - Are They Worth It?"
+   },
+   "score": 55
+  },
+  "australia vs south africa": {
+   "termo": "australia vs south africa",
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "South Africa v Australia: third men’s one-day international – live",
+     "url": "https://www.theguardian.com/sport/live/2026/sep/30/south-africa-v-australia-third-mens-odi-live",
+     "fonte": "The Guardian"
+    },
+    {
+     "titulo": "Carey, Marsh hit fifties as Australia post 322",
+     "url": "https://www.cricinfo.com/series/australia-in-south-africa-2026-27-1525634/south-africa-vs-australia-3rd-odi-1525657/match-report",
+     "fonte": "Cricinfo"
+    },
+    {
+     "titulo": "RSA vs AUS, 3rd ODI, Australia tour of South Africa, 2026 - Commentary",
+     "url": "https://m.cricbuzz.com/live-cricket-scores/147909/aus-vs-rsa-3rd-odi-australia-tour-of-south-africa-2026",
+     "fonte": "Cricbuzz"
+    }
+   ],
+   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 50588,
+    "outlier": 224.3,
+    "melhor": {
+     "titulo": "HIGHLIGHTS | Proteas vs Australia | 2nd ODI (Pink Day)",
+     "canal": "Cricket South Africa",
+     "views": 2994598,
+     "url": "https://youtu.be/VKcSfV1t_CE"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Partida específica de cricket, interesse expira após o jogo",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 23
+  },
+  "winter storm": {
+   "termo": "winter storm",
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Arctic air to bring 1st freeze to Anchorage as chance of snow lies ahead",
+     "url": "https://www.alaskasnewssource.com/2026/09/29/arctic-air-continues-drop-temperatures-chance-snow-lies-ahead/",
+     "fonte": "Alaska's News Source"
+    },
+    {
+     "titulo": "Winter Storm Warning: Up to 11 Inches of Snow by Thursday Night",
+     "url": "https://www.autoblog.com/news/winter-storm-warning-up-to-11-inches-of-snow-by-thursday-night",
+     "fonte": "Autoblog"
+    },
+    {
+     "titulo": "Brief dry break, with remnants of Typhoon Dujuan to impact Alaska later this week",
+     "url": "https://www.alaskasnewssource.com/2026/09/22/brief-dry-break-with-remnants-typhoon-dujuan-impact-alaska-later-this-week/",
+     "fonte": "Alaska's News Source"
+    }
+   ],
+   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 64653,
+    "outlier": 29.8,
+    "melhor": {
+     "titulo": "Here's When You'll See Snow This Year...",
+     "canal": "Ryan Hall, Y'all",
+     "views": 2923623,
+     "url": "https://youtu.be/o2_UlhG1mwo"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Natureza",
+    "vira_video": "sim",
+    "motivo": "Tempestade sazonal permite conteúdo de preparação e sobrevivência",
+    "angulo": "Guia de preparação para primeira nevasca da temporada",
+    "titulo": "Winter Storm Warning: How to Prepare for 11 Inches of Snow"
+   },
+   "score": 40
+  },
+  "oakbrook mall": {
+   "termo": "oakbrook mall",
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Oak Brook police investigating 'isolated shooting' at Oakbrook Center: officials",
+     "url": "https://abc7chicago.com/post/oak-brook-police-investigating-isolated-shooting-oakbrook-center-officials/19892564/",
+     "fonte": "ABC7 Chicago"
+    },
+    {
+     "titulo": "Shooting at Oakbrook Center mall prompts heavy police presence",
+     "url": "https://wgntv.com/western-suburbs/shooting-at-oakbrook-center-prompts-heavy-police-presence/",
+     "fonte": "WGN-TV"
+    },
+    {
+     "titulo": "‘Isolated' shooting at Oakbrook Center Mall prompts heavy police response",
+     "url": "https://www.nbcchicago.com/news/local/large-police-response-oakbrook-center-mall-chicago-suburb/3995830/",
+     "fonte": "NBC 5 Chicago"
+    }
+   ],
+   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias Locais",
+    "vira_video": "nao",
+    "motivo": "Incidente isolado local, interesse cai rapidamente após cobertura inicial",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 19
+  },
+  "matt olson": {
+   "termo": "matt olson",
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Walt Weiss “leans on personal history” for lineup choices in Game 2 of Wild Card Series",
+     "url": "https://www.batterypower.com/atlanta-braves-news/140554/walt-weiss-leans-on-personal-history-for-lineup-choices-in-game-2-of-wild-card-series",
+     "fonte": "Battery Power"
+    },
+    {
+     "titulo": "Atlanta Braves Announce Austin Riley Change During Phillies Series",
+     "url": "https://sports.yahoo.com/articles/atlanta-braves-announce-austin-riley-173034884.html",
+     "fonte": "Yahoo Sports"
+    },
+    {
+     "titulo": "Atlanta Braves Announce Ronald Acuna Jr. Move Before Game 2 vs. Phillies",
+     "url": "https://heavy.com/sports/mlb/atlanta-braves/atlanta-braves-announce-ronald-acuna-jr-move-before-game-2-vs-phillies/",
+     "fonte": "Heavy.com"
+    }
+   ],
+   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Notícia específica de lineup, relevância limitada ao jogo atual",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 19
+  },
+  "senate vote on lawmaker stock restrictions": {
+   "termo": "senate vote on lawmaker stock restrictions",
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Schumer tanks popular insider trading ban in Dem effort to derail Republican's agenda ahead of midterms",
+     "url": "https://www.foxnews.com/politics/schumer-tanks-popular-insider-trading-ban-dem-effort-derail-gops-voter-id-push",
+     "fonte": "Fox News"
+    },
+    {
+     "titulo": "Democrats Block Stock-Trading Bill, Denying the G.O.P. a Pre-Midterm Win",
+     "url": "https://www.nytimes.com/2026/09/30/us/politics/democrats-block-stock-trading-bill.html",
+     "fonte": "The New York Times"
+    },
+    {
+     "titulo": "Senate fails to advance data center and lawmaker stock trading bills before campaign break",
+     "url": "https://finance.yahoo.com/markets/article/senate-fails-to-advance-data-center-and-lawmaker-stock-trading-bills-before-campaign-break-181734520.html",
+     "fonte": "Yahoo Finance"
+    }
+   ],
+   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "sim",
+    "motivo": "Tema recorrente sobre corrupção congressista, sempre gera indignação",
+    "angulo": "Por que Congresso continua bloqueando ban de trading interno",
+    "titulo": "Congress Just Blocked Their Own Stock Trading Ban Again"
+   },
+   "score": 34
+  },
+  "phillies score": {
+   "termo": "phillies score",
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "aparicoes": 1,
+   "trafego": 100000,
+   "noticias": [
+    {
+     "titulo": "2026 MLB wild-card series Day 2: Live updates, lineups, analysis",
+     "url": "https://www.espn.com/mlb/story/_/id/50045993/mlb-playoffs-2026-wild-card-game-2-live-updates-analysis-takeaways",
+     "fonte": "ESPN"
+    },
+    {
+     "titulo": "If MLB streams it, baseball fans won’t watch",
+     "url": "https://sports.yahoo.com/articles/mlb-streams-baseball-fans-won-190000062.html",
+     "fonte": "Yahoo Sports"
+    },
+    {
+     "titulo": "Top storyline for each Wild Card Series Game 2",
+     "url": "https://www.mlb.com/news/top-storyline-for-each-mlb-wild-card-series-game-2-2026",
+     "fonte": "MLB.com"
+    }
+   ],
+   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 8,
+    "top_vph": 34035,
+    "outlier": 16.6,
+    "melhor": {
+     "titulo": "PHILLIES vs. BRAVES: Wild Card Game 1 Full Game Highlights (September 29) | 2026 MLB Season",
+     "canal": "MLB",
+     "views": 757975,
+     "url": "https://youtu.be/ukY1sdEsNKA"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Busca por resultado ao vivo, sem valor após jogo acabar",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 36
+  },
+  "graziers raw milk cheese recall": {
+   "termo": "graziers raw milk cheese recall",
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "Nationwide cheese recall: 13 sickened in E. coli outbreak",
+     "url": "https://fox8.com/news/nationwide-cheese-recall-13-sickened-in-e-coli-outbreak/",
+     "fonte": "FOX 8 News"
+    },
+    {
+     "titulo": "FDA Announces Nationwide Cheese Recall—Products Linked to Multistate E. Coli Outbreak",
+     "url": "https://www.health.com/raw-milk-cheese-recall-september-2026-12145668",
+     "fonte": "Health.com"
+    },
+    {
+     "titulo": "September food recalls include products carried by Fox Cities stores",
+     "url": "https://www.postcrescent.com/story/grocery/2026/09/30/recalled-pasta-cheese-ice-cream-brands-sold-in-appleton-area-chains/92003980007/",
+     "fonte": "The Post-Crescent"
+    }
+   ],
+   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "yt": {
+    "videos_7d": 14,
+    "com_10k": 0,
+    "top_vph": 16,
+    "outlier": 1.4,
+    "melhor": {
+     "titulo": "Multistate E. coli outbreak tied to raw milk cheese sickens at least 13, including in Oregon",
+     "canal": "KGW News",
+     "views": 1416,
+     "url": "https://youtu.be/vmeKQUQgigs"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Saúde e Segurança",
+    "vira_video": "sim",
+    "motivo": "Recall nacional com impacto duradouro, educacional sobre E. coli",
+    "angulo": "Guia sobre segurança de queijos artesanais e recalls",
+    "titulo": "Graziers Cheese Recall: How to Check If Yours Is Safe"
+   },
+   "score": 51
+  },
+  "lyon vs chelsea": {
+   "termo": "lyon vs chelsea",
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Confirmed Chelsea Women line up vs Lyon | News | Official Site",
+     "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-lyon",
+     "fonte": "Chelsea"
+    },
+    {
+     "titulo": "OL Lyonnes vs. Chelsea, Women’s Champions League: Confirmed lineups; how to watch",
+     "url": "https://sports.yahoo.com/articles/ol-lyonnes-vs-chelsea-women-180343367.html",
+     "fonte": "Yahoo Sports"
+    },
+    {
+     "titulo": "Sonia Bompastor on facing former club: ´It will be full of emotion´",
+     "url": "https://www.playmakerstats.com/news/sonia-bompastor-on-facing-former-club-it-will-be-full-of-emotion-/1217571",
+     "fonte": "Playmakerstats"
+    }
+   ],
+   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico de futebol feminino, interesse expira após partida",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 19
+  },
+  "ronaldo": {
+   "termo": "ronaldo",
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "Cristiano Ronaldo leaves Portugal camp after coach says he'd be benched again",
+     "url": "https://www.espn.com/soccer/story/_/id/50069045/cristiano-ronaldo-portugal-coach-jorge-jesus-bench-denmark",
+     "fonte": "ESPN"
+    },
+    {
+     "titulo": "Cristiano Ronaldo: Portugal boss Jorge Jesus denies rift with captain",
+     "url": "https://www.bbc.com/sport/football/articles/cm9dw7ddwgzwo",
+     "fonte": "BBC"
+    },
+    {
+     "titulo": "Ronaldo misses Portugal training after Jesus denies rift",
+     "url": "https://www.reuters.com/sports/soccer/ronaldo-misses-portugal-training-after-jesus-denies-rift-2026-09-30/",
+     "fonte": "Reuters"
+    }
+   ],
+   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 269235,
+    "outlier": 2165.1,
+    "melhor": {
+     "titulo": "Lamine Yamal vs Ronaldo Dressing Challenge 😱🔥#viral",
+     "canal": "Muzam",
+     "views": 21064344,
+     "url": "https://youtu.be/PwYDlELz-f8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "sim",
+    "motivo": "Conflito com técnico de Portugal gera discussão sobre carreira",
+    "angulo": "Análise do declínio e ego de Ronaldo no final da carreira",
+    "titulo": "Cristiano Ronaldo BENCHED: Is His Portugal Career Over?"
+   },
+   "score": 46
+  },
+  "phillies": {
+   "termo": "phillies",
+   "primeira_vez": "2026-09-30T19:44:40.720001Z",
+   "aparicoes": 1,
+   "trafego": 50000,
+   "noticias": [
+    {
+     "titulo": "LIVE: Phillies-Braves NL Wild Card Series Game 2 on NBC/Peacock",
+     "url": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
+     "fonte": "MLB.com"
+    },
+    {
+     "titulo": "Even Duran can't stop Phillies' familiar Game 1 bullpen collapse",
+     "url": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/even-duran-cant-stop-phillies-familiar-game-1-bullpen-collapse/754829/",
+     "fonte": "NBC Sports Philadelphia"
+    },
+    {
+     "titulo": "Tyler Mahle Reacts Before Braves Try to Close Out Phillies",
+     "url": "https://sports.yahoo.com/articles/tyler-mahle-reacts-braves-try-172513752.html",
+     "fonte": "Yahoo Sports"
+    }
+   ],
+   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "yt": {
+    "videos_7d": 6,
+    "com_10k": 3,
+    "top_vph": 106462,
+    "outlier": 2926.0,
+    "melhor": {
+     "titulo": "Phillies land All-Star closer Jhoan Duran ahead of MLB trade deadline 👀🔥 #JhoanDuran",
+     "canal": "Chaou Perez",
+     "views": 6113408,
+     "url": "https://youtu.be/VdGtryiHvSg"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Série playoff gera interesse mas é temporal durante jogos",
+    "angulo": "Análise histórica do colapso do bullpen dos Phillies",
+    "titulo": "Why the Phillies Bullpen ALWAYS Collapses in October"
+   },
+   "score": 65
+  }
+ }
+}
