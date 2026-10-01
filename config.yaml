@@ -1,6 +1,6 @@
 # V9 ORACLE v3: começa pelo Google Trends de cada país.
 # Não tem nicho nem semente. Ele descobre o que o país tá buscando e decide o que vira vídeo.
-
+nicho: animal
 paises:
   - {geo: BR, nome: Brasil,   idioma: pt, bandeira: "🇧🇷"}
   - {geo: US, nome: EUA,      idioma: en, bandeira: "🇺🇸"}
