@@ -1,0 +1,34 @@
+name: V9 ORACLE
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # a cada 4 horas
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: oracle
+  cancel-in-progress: false
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: pip install -r requirements-optional.txt || echo "pytrends indisponivel, seguindo so com RSS"
+      - run: python collector/run.py
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+      - run: |
+          git config user.name "oracle-bot"
+          git config user.email "oracle-bot@users.noreply.github.com"
+          git add docs/data state
+          git commit -m "oracle $(date +%F-%H%M)" || exit 0
+          git pull --rebase
+          git push
