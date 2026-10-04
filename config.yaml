@@ -1,5 +1,8 @@
 paises:
-  - {geo: US, nome: EUA, idioma: en, bandeira: "🇺🇸"}
+  - {geo: BR, nome: Brasil,   idioma: pt, bandeira: "🇧🇷"}
+  - {geo: US, nome: EUA,      idioma: en, bandeira: "🇺🇸"}
+  - {geo: MX, nome: México,   idioma: es, bandeira: "🇲🇽"}
+  - {geo: DE, nome: Alemanha, idioma: de, bandeira: "🇩🇪"}
 
 encaixe_aceitos: ["sim"]
 
