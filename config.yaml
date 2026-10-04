@@ -2,23 +2,16 @@
 # Google Trends descobre os temas de cada país. YouTube, Reddit e buscas validam. O core decide.
 
 paises:
-# - {geo: BR, nome: Brasil,   idioma: pt, bandeira: "🇧🇷"}
+  # - {geo: BR, nome: Brasil,   idioma: pt, bandeira: "🇧🇷"}
   - {geo: US, nome: EUA,      idioma: en, bandeira: "🇺🇸"}
-# - {geo: MX, nome: México,   idioma: es, bandeira: "🇲🇽"}
-# - {geo: DE, nome: Alemanha, idioma: de, bandeira: "🇩🇪"}
+  # - {geo: MX, nome: México,   idioma: es, bandeira: "🇲🇽"}
+  # - {geo: DE, nome: Alemanha, idioma: de, bandeira: "🇩🇪"}
 
 # Filtro dark: o Google Trends diário é cheio de notícia, esporte e celebridade.
 # A IA decide o que serve pra canal dark antes de gastar quota. Precisa de ANTHROPIC_API_KEY.
 encaixe_aceitos: [sim]   # sim = tema perene de canal dark. Inclua talvez pra aceitar tema nascido de notícia com ângulo documental
-nichos_dark:             # 100 nichos. É isso que a IA usa pra decidir. Apague ou comente (#) o que não quiser. (!) = risco de monetização
 
-subreddits:
-  - "natureismetal"
-  - "HardcoreNature"
-  - "wildlife"
-  - "zoology"
-
-nichos_dark:
+nichos_dark:             # Aqui estão apenas os seus 10 nichos de animais em inglês
   - "dangerous animals"
   - "predators and food chain"
   - "marine animals and sharks"
