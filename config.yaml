@@ -1,24 +1,14 @@
 paises:
   - {geo: US, nome: EUA, idioma: en, bandeira: "🇺🇸"}
 
-encaixe_aceitos: [sim]
+encaixe_aceitos: ["sim"]
 
-nichos_dark:
-  - "dangerous animals"
-  - "predators and food chain"
-  - "marine animals and sharks"
-  - "snakes and spiders"
-  - "wild animal attacks"
-  - "extinct animals"
-  - "insects and strange creatures"
-  - "dogs and cats behavior and breeds"
-  - "biomes amazon savanna poles"
-  - "wilderness survival"
+nichos_dark: ["dangerous animals", "predators and food chain", "marine animals and sharks", "snakes and spiders", "wild animal attacks", "extinct animals", "insects and strange creatures", "dogs and cats behavior and breeds", "biomes amazon savanna poles", "wilderness survival"]
 
 topicos_por_pais: 10
 yt_dias: 90
 yt_min_minutos: 8
-yt_duracoes: [medium, long]
+yt_duracoes: ["medium", "long"]
 yt_ttl_horas: 14
 quota_diaria: 9800
 yt_novas_por_rodada: 2
