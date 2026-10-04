@@ -4,7 +4,7 @@ paises:
 encaixe_aceitos: ["sim"]
 
 nichos_dark: 
-   - {"dangerous animals", "predators and food chain", "marine animals and sharks", "snakes and spiders", "wild animal attacks", "extinct animals", "insects and strange creatures", "dogs and cats behavior and breeds", "biomes amazon savanna poles", "wilderness survival"}
+ - ["dangerous animals", "predators and food chain", "marine animals and sharks", "snakes and spiders", "wild animal attacks", "extinct animals", "insects and strange creatures", "dogs and cats behavior and breeds", "biomes amazon savanna poles", "wilderness survival"]
 
 topicos_por_pais: 10
 yt_dias: 90
