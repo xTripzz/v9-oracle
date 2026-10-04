@@ -1,6 +1,6 @@
 {
  "data": "2026-09-30",
- "rodadas": 4,
+ "rodadas": 6,
  "termos": {
   "doação": {
    "termo": "doação",
@@ -766,6 +766,507 @@
     "titulo": "Transporte Grátis nas Eleições: Saiba Como Usar"
    },
    "score": 22
+  },
+  "argentina x bolívia": {
+   "termo": "argentina x bolívia",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 200000,
+   "noticias": [
+    {
+     "titulo": "Ao vivo: Argentina x Bolívia | Amistosos Data Fifa | Amistosos",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/jogo/30-09-2026/argentina-bolivia.ghtml",
+     "fonte": "ge"
+    },
+    {
+     "titulo": "Argentina terá nome do Palmeiras como titular em amistoso contra a Bolívia; veja o time",
+     "url": "https://www.espn.com.br/futebol/artigo/_/id/17321229/argentina-tera-nome-palmeiras-titular-amistoso-contra-bolivia-veja-time",
+     "fonte": "ESPN Brasil"
+    },
+    {
+     "titulo": "Onde vai passar Argentina x Bolívia por amistoso internacional? Como assistir ao vivo",
+     "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/09/30/onde-vai-passar-argentina-x-bolivia-pelos-amistosos-internacionais-como-assistir-ao-vivo.ghtm",
+     "fonte": "UOL"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 12621,
+    "outlier": 82.3,
+    "melhor": {
+     "titulo": "▶️ ARGENTINA vs BOLIVIA EN VIVO AMISTOSO INTERNACIONAL",
+     "canal": "Secta Deportiva",
+     "views": 57319,
+     "url": "https://youtu.be/bquOVkhBns0"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Amistoso pontual, interesse expira após o jogo acabar",
+    "angulo": "Análise tática do amistoso com palmeirense titular",
+    "titulo": "Jogador do Palmeiras Titular na Argentina: Análise Tática Completa"
+   },
+   "score": 34
+  },
+  "debate presidencial 2026": {
+   "termo": "debate presidencial 2026",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 20000,
+   "noticias": [
+    {
+     "titulo": "Lula informa que não vai participar do debate da Globo, nesta quinta-feira (1º)",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/lula-informa-que-nao-vai-participar-do-debate-da-globo.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Brasília Hoje: Lula repete estratégia e confirma entrevista a podcast Flow em horário de debate na TV",
+     "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-repete-estrategia-e-confirma-entrevista-a-podcast-flow-em-horario-de-debate-na-tv.shtml",
+     "fonte": "Folha de S.Paulo"
+    },
+    {
+     "titulo": "Qual o cálculo de candidatos ao decidir não ir a debates na TV",
+     "url": "https://www.nexojornal.com.br/expresso/2026/09/30/globo-debate-presidencial-presidentes-2026",
+     "fonte": "Nexo Jornal"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 29070,
+    "outlier": 1.1,
+    "melhor": {
+     "titulo": "Debate da Globo em SP: Veja 1º bloco do debate entre candidatos ao governo de SP (1º turno)",
+     "canal": "g1",
+     "views": 600289,
+     "url": "https://youtu.be/rBwUbEMbBfg"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "sim",
+    "motivo": "Tema recorrente até eleições, gera análises e conteúdo evergreen",
+    "angulo": "Estratégias políticas: por que candidatos fogem de debates tradicionais",
+    "titulo": "Por Que Lula Fugiu do Debate da Globo? Entenda a Nova Estratégia"
+   },
+   "score": 55
+  },
+  "glicemia": {
+   "termo": "glicemia",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Controle a glicemia antes do café da manhã: 3 hábitos simples para inserir na rotina",
+     "url": "https://gauchazh.clicrbs.com.br/viral/noticia/2026/09/controle-a-glicemia-antes-do-cafe-da-manha-3-habitos-simples-para-inserir-na-rotina-cmuoj5f7p019i013bg0w1snfg.html",
+     "fonte": "GZH"
+    },
+    {
+     "titulo": "Controle a glicemia antes do café da manhã: 3 hábitos simples para inserir na rotina",
+     "url": "https://www.terra.com.br/vida-e-estilo/saude/controle-a-glicemia-antes-do-cafe-da-manha-3-habitos-simples-para-inserir-na-rotina,d17de9d788872fe9f0c992bdb4213f20al7hkasu.html",
+     "fonte": "Terra"
+    },
+    {
+     "titulo": "Canetas emagrecedoras: estudo com retatrutida mostra até 23,4% de redução de peso dos participantes",
+     "url": "https://oglobo.globo.com/saude/noticia/2026/09/29/canetas-emagrecedoras-estudo-com-retatrutida-mostra-ate-234percent-de-reducao-de-peso-dos-participantes.ghtml",
+     "fonte": "O GLOBO"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Saúde e Bem Estar",
+    "vira_video": "sim",
+    "motivo": "Tema evergreen sobre saúde com interesse contínuo e buscas recorrentes",
+    "angulo": "Protocolo matinal para controlar glicemia naturalmente",
+    "titulo": "3 Hábitos Matinais Para Controlar a Glicemia Antes do Café"
+   },
+   "score": 41
+  },
+  "torque x peñarol": {
+   "termo": "torque x peñarol",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Atletico Torque x Penarol – Análise, Escalações, Hora do Jogo e Onde Assistir Hoje 30/09",
+     "url": "https://oddsscanner.com/br/palpites/futebol/atletico-torque-x-penarol-30-09-2026",
+     "fonte": "Odds Scanner"
+    },
+    {
+     "titulo": "Montevideo City Torque x Peñarol: líder pode sofrer golpe no topo do Clausura em duelo explosivo",
+     "url": "https://www.portaldecamaqua.com.br/noticias/109527/montevideo-city-torque-x-penarol-lider-pode-sofrer-golpe-no-topo-do-clausura-em-duelo-explosivo.html",
+     "fonte": "Portal de Camaquã"
+    },
+    {
+     "titulo": "Clausura: City Torque-Peñarol hoy por puntos clave. Hora, por dónde verlo y alineaciones",
+     "url": "https://www.montevideo.com.uy/Deportes/Clausura-City-Torque-Penarol-hoy-por-puntos-clave-Hora-por-donde-verlo-y-alineaciones-uc977077",
+     "fonte": "Montevideo Portal"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico de campeonato uruguaio com baixo interesse brasileiro",
+    "angulo": "Clássicos uruguaios e rivalidades sul americanas",
+    "titulo": "Os Maiores Clássicos do Futebol Uruguaio Que Você Precisa Conhecer"
+   },
+   "score": 22,
+   "rd": null
+  },
+  "aeroporto": {
+   "termo": "aeroporto",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "VÍDEO: taxistas trocam socos e chutes em confusão no Aeroporto do Galeão",
+     "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/30/video-taxistas-briga-aeroporto-do-galeao.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Disputa por ponto de táxi termina em pancadaria no Aeroporto do Galeão no Rio",
+     "url": "https://www.redetv.uol.com.br/jornalismo/da-para-acreditar/disputa-por-ponto-de-taxi-termina-em-pancadaria-no-aeroporto-do-galeao-no-r",
+     "fonte": "RedeTV!"
+    },
+    {
+     "titulo": "Quebra-pau em aeroporto no RJ: disputa por ponto de táxi acaba em porrada",
+     "url": "https://www.metropoles.com/distrito-federal/na-mira/quebra-pau-em-aeroporto-disputa-por-ponto-de-taxi-termina-em-pancadaria",
+     "fonte": "Metrópoles"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 24,
+    "top_vph": 29973,
+    "outlier": 205.8,
+    "melhor": {
+     "titulo": "Cheapest Airport Food Challenge ✈️",
+     "canal": "Amith Sai D",
+     "views": 1219261,
+     "url": "https://youtu.be/2L6lVfgjcm4"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias e Atualidades",
+    "vira_video": "nao",
+    "motivo": "Incidente isolado sem relevância além do factual imediato",
+    "angulo": "Problemas estruturais nos aeroportos brasileiros",
+    "titulo": "Os Piores Aeroportos do Brasil: Ranking e Problemas Reais"
+   },
+   "score": 27
+  },
+  "jogo": {
+   "termo": "jogo",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "Vasco goleia o Noroeste em jogo-treino em preparação durante a Data Fifa",
+     "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/09/30/vasco-goleia-o-noroeste-em-jogo-treino-em-preparacao-durante-a-data-fifa.ghtml",
+     "fonte": "ge"
+    },
+    {
+     "titulo": "Lucas Piton, Puma, Rojas e Paulo Henrique marcaram os gols do jogo-treino; Lescano foi o destaque",
+     "url": "https://www.netvasco.com.br/n/393544/lucas-piton-puma-rojas-e-paulo-henrique-marcaram-os-gols-do-jogo-treino-lescano-foi-o-destaque",
+     "fonte": "NETVASCO"
+    },
+    {
+     "titulo": "Corinthians volta a treinar após folga com foco no Internacional",
+     "url": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-volta-a-treinar-apos-folga-com-foco-no-internacional/",
+     "fonte": "Gazeta Esportiva"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 347123,
+    "outlier": 17.4,
+    "melhor": {
+     "titulo": "JOGO COMPLETO: AUSTRÁLIA X BRASIL | AMISTOSO DA SELEÇÃO | ge tv",
+     "canal": "ge tv",
+     "views": 11774529,
+     "url": "https://youtu.be/fEI_DJ6UcVs"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Termo genérico sobre jogo treino específico sem relevância duradoura",
+    "angulo": "Bastidores dos jogos treino durante Data Fifa",
+    "titulo": "O Que Acontece nos Jogos Treino Durante a Data Fifa"
+   },
+   "score": 27
+  },
+  "alexandre silveira": {
+   "termo": "alexandre silveira",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "No celular de Vorcaro, conversa com Nunes Marques no WhatsApp está vazia",
+     "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/no-celular-de-vorcaro-conversa-com-nunes-marques-no-whatsapp-esta-vazia.ghtml",
+     "fonte": "O GLOBO"
+    },
+    {
+     "titulo": "Natália Portinari: Kassio via 'boi na linha' em caso de usinas, segundo diálogo com Vorcaro",
+     "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/09/29/kassio-via-boi-na-linha-em-caso-de-usinas-segundo-mensagens-de-vorcaro.htm",
+     "fonte": "UOL Notícias"
+    },
+    {
+     "titulo": "Vorcaro encontrou Toffoli 12 vezes durante processo sobre usinas",
+     "url": "https://revistaoeste.com/politica/vorcaro-encontrou-toffoli-12-vezes-durante-processo-sobre-usinas/",
+     "fonte": "Revista Oeste"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Escândalo político pode desdobrar em investigações e conteúdo analítico",
+    "angulo": "Bastidores da relação entre políticos e ministros do STF",
+    "titulo": "O Escândalo das Mensagens: Entenda o Caso Alexandre Silveira Completo"
+   },
+   "score": 40,
+   "rd": null
+  },
+  "subway": {
+   "termo": "subway",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Man Killed After Bag Gets Stuck in Subway Doors, Police Say",
+     "url": "https://www.nytimes.com/2026/09/29/nyregion/subway-backpack-dragging-death.html",
+     "fonte": "The New York Times"
+    },
+    {
+     "titulo": "NYC subway boss says man dragged to death by train was 'unsteady' and used a cane",
+     "url": "https://gothamist.com/news/nyc-subway-boss-says-man-dragged-to-death-by-train-was-unsteady-and-used-a-cane",
+     "fonte": "Gothamist"
+    },
+    {
+     "titulo": "Man dies after backpack caught in subway door in Brooklyn",
+     "url": "https://www.nbcnewyork.com/brooklyn/brooklyn-subway-backpack-door-death/6553289/",
+     "fonte": "NBC 4 New York"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias Internacionais",
+    "vira_video": "nao",
+    "motivo": "Acidente pontual em NYC sem relevância para público brasileiro",
+    "angulo": "Segurança em metrôs pelo mundo",
+    "titulo": "Metrôs Mais Perigosos do Mundo: Ranking Completo"
+   },
+   "score": 20
+  },
+  "nikolas ferreira": {
+   "termo": "nikolas ferreira",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "TSE manda Nikolas Ferreira apagar publicação que associa fala de Lula a crimes contra crianças",
+     "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/30/tse-manda-nikolas-ferreira-apagar-publicacao-que-associa-fala-de-lula-a-crimes-contra-criancas.ghtml",
+     "fonte": "O GLOBO"
+    },
+    {
+     "titulo": "Sakamoto: Post de Nikolas sobre Lula é retrato de campanha suja",
+     "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/sakamoto-post-de-nikolas-sobre-lula-e-retrato-de-campanha-suja.ghtm",
+     "fonte": "UOL Notícias"
+    },
+    {
+     "titulo": "Ministra do TSE diz que Nikolas distorceu fala de Lula sobre ‘toque’ em mulheres e manda remover vídeo",
+     "url": "https://veja.abril.com.br/brasil/ministra-do-tse-diz-que-nikolas-distorceu-fala-de-lula-sobre-toque-em-mulheres-e-manda-remover-video/",
+     "fonte": "VEJA"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 20515,
+    "outlier": 32.6,
+    "melhor": {
+     "titulo": "MINHA RESPOSTA A LULA E JANJA",
+     "canal": "Nikolas Ferreira",
+     "views": 441155,
+     "url": "https://youtu.be/hTrouXpT5jA"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Polêmicas recorrentes do deputado geram conteúdo de análise política",
+    "angulo": "Anatomia da desinformação política nas redes sociais brasileiras",
+    "titulo": "Como Funciona a Máquina de Fake News na Política Brasileira"
+   },
+   "score": 41
+  },
+  "outubro": {
+   "termo": "outubro",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "Outubro começa com frente fria, chuva forte e ciclone; veja a previsão",
+     "url": "https://www.canalrural.com.br/previsao-do-tempo/outubro-comeca-com-frente-fria-chuva-forte-e-ciclone-veja-a-previsao/",
+     "fonte": "Canal Rural"
+    },
+    {
+     "titulo": "Como será o tempo em outubro no Brasil? Veja onde deve chover mais e onde o calor ficará acima da média",
+     "url": "https://g1.globo.com/meio-ambiente/noticia/2026/09/29/clima-em-outubro-no-brasil-previsao-do-tempo.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Clima no Brasil em outubro de 2026",
+     "url": "https://www.climatempo.com.br/noticia/primavera/clima-no-brasil-em-outubro-de-2026",
+     "fonte": "Climatempo"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 9080,
+    "outlier": 346.7,
+    "melhor": {
+     "titulo": "DIAS 2,3 E 4 DE OUTUBRO! #chalinegrazik #previsões",
+     "canal": "A mensageira",
+     "views": 273113,
+     "url": "https://youtu.be/rxBoHIMH8I8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meteorologia",
+    "vira_video": "sim",
+    "motivo": "Previsão mensal serve todo outubro, utilidade prática para audiência",
+    "angulo": "Guia completo do clima em outubro no Brasil",
+    "titulo": "Previsão Outubro 2024: Onde Vai Chover Mais e Regiões de Calor Extremo"
+   },
+   "score": 46
+  },
+  "antonio tabet": {
+   "termo": "antonio tabet",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Mendonça muda voto e libera post de Tabet sobre Nossa Senhora",
+     "url": "https://noticias.uol.com.br/eleicoes/2026/09/30/mendonca-muda-voto-e-libera-post-de-tabet-sobre-nossa-senhora.ghtm",
+     "fonte": "UOL Notícias"
+    },
+    {
+     "titulo": "Análise: Mendonça recua sobre post de Tabet para evitar derrota no TSE",
+     "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/analise-mendonca-recua-sobre-post-de-tabet-para-evitar-derrota-no-tse/",
+     "fonte": "CNN Brasil"
+    },
+    {
+     "titulo": "Flávio Bolsonaro pede, e TRE-DF proíbe que coordenador da Secom do Planalto faça posts sobre eleições",
+     "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/30/tre-nega-prisao-mas-proibe-que-coordenador-da-secom-do-planalto-faca-posts-sobre-politica-e-eleicoes.ghtml",
+     "fonte": "G1"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Política e Sociedade",
+    "vira_video": "sim",
+    "motivo": "Debate sobre liberdade de expressão e limites do humor permanece relevante",
+    "angulo": "Análise jurídica sobre humor, religião e censura no Brasil",
+    "titulo": "CASO TABET: Onde Termina o Humor e Começa a Censura?"
+   },
+   "score": 34
+  },
+  "argentina vs bolivia": {
+   "termo": "argentina vs bolivia",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "\"A different look\": will Scaloni change Argentina's \"identity\" after Messi?",
+     "url": "https://www.goal.com/en/news/a-different-look-will-scaloni-change-argentina-s-identity-after-messi/blt12be863e906491f0",
+     "fonte": "Goal.com"
+    },
+    {
+     "titulo": "With ‘Dibu’ as vice-captain and two doubts: Scaloni’s XI v Bolivia",
+     "url": "https://onefootball.com/en/news/with-dibu-as-vice-captain-and-two-doubts-scalonis-xi-v-bolivia-43541414",
+     "fonte": "OneFootball"
+    },
+    {
+     "titulo": "Five Candidates to Wear Messi’s No. 10 Shirt for Argentina",
+     "url": "https://forzafootball.com/news/five-candidates-to-wear-messis-no-10-shirt-for-argentina-159457642",
+     "fonte": "Forza Football"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico de amistoso com baixo interesse duradouro",
+    "angulo": "Escalação surpresa e mudanças táticas para futuras competições",
+    "titulo": "ESCALAÇÃO BOMBÁSTICA: As Surpresas de Scaloni Contra a Bolívia"
+   },
+   "score": 20
+  },
+  "argentina": {
+   "termo": "argentina",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 10000,
+   "noticias": [
+    {
+     "titulo": "Argentina - Bolivia, en directo: amistosos internacionales, hoy en vivo",
+     "url": "https://as.com/futbol/internacional/argentina-bolivia-en-directo-amistosos-internacionales-hoy-en-vivo-f202610-d/",
+     "fonte": "Diario AS"
+    },
+    {
+     "titulo": "Con dos sorpresas, el 11 de la Selección para enfrentar a Bolivia",
+     "url": "https://www.ole.com.ar/seleccion/11-seleccion-enfrentar-bolivia-sorpresa_0_koLBcPSfop.html",
+     "fonte": "Olé"
+    },
+    {
+     "titulo": "El video de la AFA sobre la despedida de Lionel Messi de la Selección Argentina que emocionó a todos los hinchas",
+     "url": "https://radiomitre.cienradios.com/deportes/el-video-de-la-afa-sobre-la-despedida-de-lionel-messi-de-la-seleccion-argentina-que-emociono-a-todos-los-hinchas/",
+     "fonte": "Radio Mitre"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Amistoso gera interesse momentâneo, mas análises táticas rendem conteúdo",
+    "angulo": "Análise tática da Argentina pós-Messi: o futuro da seleção",
+    "titulo": "ARGENTINA SEM MESSI: Como Scaloni Está Reconstruindo a Seleção?"
+   },
+   "score": 39
   }
  }
 }

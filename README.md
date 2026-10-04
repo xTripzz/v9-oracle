@@ -1,39 +1,32 @@
-# V9 ORACLE
+# V9 ORACLE MAXX
 
-O oráculo do ecossistema Tieepo. Prevê o viral antes dele virar viral.
+by Algoritmo Secreto · @tieepo
 
-Todo dia às 7h (Brasília) ele varre YouTube, Google Trends e Reddit, pontua cada tema de 0 a 100 e publica o ranking diário e semanal num painel.
+O Google Trends de cada país (BR, EUA, México, Alemanha) descobre os temas. YouTube, Reddit e buscas validam.
+O core (`collector/oracle_core_maxx.py`) decide veredito, janela, temperatura e score, sem IA na decisão.
+A IA (opcional) só lê o resultado e escreve formato, ângulo e título.
 
-Na esteira: ORACLE detecta o tema, MINA valida a demanda, ESCADA ajusta o título, V9 COPY escreve.
+Roda sozinho a cada 4 horas no GitHub Actions e publica o painel no GitHub Pages.
 
-## Setup (10 minutos, custo zero)
-
-1. **Crie um repositório no GitHub** e suba esta pasta inteira.
-2. **Chave do YouTube**: console.cloud.google.com → novo projeto → ative "YouTube Data API v3" → Credenciais → Criar chave de API.
-3. **Chave da Anthropic (opcional)**: console.anthropic.com. Com ela, cada tema ganha ângulo e título prontos.
-4. No repositório: **Settings → Secrets and variables → Actions → New repository secret**
-   - `YOUTUBE_API_KEY`
-   - `ANTHROPIC_API_KEY` (opcional)
-5. **Settings → Pages** → Source: "Deploy from a branch" → branch `main`, pasta `/docs`.
-6. **Actions → V9 ORACLE → Run workflow** pra rodar a primeira vez agora.
-
-Painel fica em `https://SEU-USUARIO.github.io/NOME-DO-REPO/`.
-
-## Ajustar nichos
-Edite `config.yaml`: nome, idioma, região, palavras-semente e subreddits.
-
-## Como o score funciona (0 a 100)
-| Sinal | Peso | Teto |
+## Secrets (Settings, Secrets and variables, Actions)
+| Nome | Obrigatório | Pra quê |
 |---|---|---|
-| Velocidade (views/hora do melhor vídeo) | 30 | 2.000 v/h |
-| Outlier (views ÷ inscritos, média top 3) | 25 | 10x |
-| Alta no Google Trends (7 dias vs 7 anteriores) | 20 | +300% |
-| Reddit (upvotes/hora em rising) | 10 | 200/h |
-| Baixa saturação (poucos vídeos concorrentes) | 15 | 0 vídeos |
+| `YOUTUBE_API_KEY` | sim | oferta, outliers e novatos |
+| `ANTHROPIC_API_KEY` | não | formato, ângulo e título por tema |
+| `SERPAPI_API_KEY` | não | série do Google Trends quando o pytrends é bloqueado (só Trends, nunca Reddit). Free: 250 buscas/mês |
+| `REDDIT_CLIENT_ID` e `REDDIT_CLIENT_SECRET` | não | só se o Reddit aprovar o acesso (ver abaixo). Sem eles o Reddit fica desligado |
 
-75+ = pré-pico (publicar em até 10 dias) · 50 a 74 = aquecendo · abaixo = monitorar.
+Reddit: a Responsible Builder Policy exige aprovação antes de qualquer acesso à API, e uso comercial exige aprovação por escrito. Sem credenciais aprovadas o Reddit fica desligado e o core trata como fonte não verificada, sem penalizar o tema.
 
-**Semanal**: média dos últimos 7 dias + momentum (quanto subiu) + consistência (dias no radar). Tema que aparece todo dia subindo vai pro topo.
+## Arquivos
+- `collector/oracle_core_maxx.py`: o motor, sem alteração
+- `collector/run.py`: adapters (Google, YouTube, Reddit, buscas) + orquestração + rankings
+- `config.yaml`: países e limites
+- `state/`: histórico por tema (momentum e aceleração dependem disso)
+- `docs/`: painel
 
-## Quota
-Cada palavra-semente custa ~100 unidades do YouTube. Limite grátis: 10.000/dia, ou seja, até ~90 sementes. A config padrão usa ~11.
+## Como ler
+- Hoje: tudo que foi analisado no dia
+- Esquentando: temperatura quente do core, salto de score ou salto de busca no Google desde a leitura anterior
+- Semana e Ano: score agregado por persistência e momentum (o ano enche com o tempo)
+- Clique no tema: briefing completo

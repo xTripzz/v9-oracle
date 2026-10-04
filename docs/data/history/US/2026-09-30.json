@@ -1,6 +1,6 @@
 {
  "data": "2026-09-30",
- "rodadas": 4,
+ "rodadas": 6,
  "termos": {
   "paris fc vs arsenal": {
    "termo": "paris fc vs arsenal",
@@ -773,7 +773,8 @@
     "angulo": "Por que Congresso continua bloqueando ban de trading interno",
     "titulo": "Congress Just Blocked Their Own Stock Trading Ban Again"
    },
-   "score": 34
+   "score": 34,
+   "rd": null
   },
   "phillies score": {
    "termo": "phillies score",
@@ -895,7 +896,8 @@
     "angulo": "N/A",
     "titulo": "N/A"
    },
-   "score": 19
+   "score": 19,
+   "rd": null
   },
   "ronaldo": {
    "termo": "ronaldo",
@@ -986,6 +988,708 @@
     "titulo": "Why the Phillies Bullpen ALWAYS Collapses in October"
    },
    "score": 65
+  },
+  "sonia citron": {
+   "termo": "sonia citron",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Sonia Citron never thought she’d play in the WNBA. Now she’s the Mystics’ go-to scorer",
+     "url": "https://www.nytimes.com/athletic/7644510/2026/09/30/sonia-citron-washington-mystics-wnba/",
+     "fonte": "The New York Times"
+    },
+    {
+     "titulo": "Sonia Citron nails the trey",
+     "url": "https://www.espn.com/video/clip/_/id/50024118/sonia-citron-nails-trey",
+     "fonte": "ESPN"
+    },
+    {
+     "titulo": "Dream 92-77 Mystics (Sep 27, 2026) Final Score",
+     "url": "https://www.espn.com/wnba/game/_/gameId/401918013/mystics-dream",
+     "fonte": "ESPN"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "História inspiradora WNBA, mas nicho limitado de audiência",
+    "angulo": "Underdog journey from college rejection to WNBA scorer",
+    "titulo": "Sonia Citron: From Never Expecting WNBA to Mystics Leading Scorer"
+   },
+   "score": 31
+  },
+  "yordan alvarez": {
+   "termo": "yordan alvarez",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Can MVP favorite Alvarez carry Astros to another World Series? Their last MVP did",
+     "url": "https://www.mlb.com/news/yordan-alvarez-hoping-to-put-astros-on-his-back-in-playoffs",
+     "fonte": "MLB.com"
+    },
+    {
+     "titulo": "Yordan Alvarez Explains How He Stayed Healthy During Astros Season",
+     "url": "https://sports.yahoo.com/articles/yordan-alvarez-explains-stayed-healthy-144000768.html",
+     "fonte": "Yahoo Sports"
+    },
+    {
+     "titulo": "How Baseball’s Best Hitter Rescued the Worst Playoff Team in History",
+     "url": "https://www.wsj.com/sports/baseball/yordan-alvarez-astros-4282c24c",
+     "fonte": "WSJ"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "MVP candidato com dicas fitness, apelo além do jogo",
+    "angulo": "How MVP candidate stays injury free and dominates baseball",
+    "titulo": "Yordan Alvarez Reveals His Secret to Staying Healthy All Season"
+   },
+   "score": 29
+  },
+  "sony interactive entertainment": {
+   "termo": "sony interactive entertainment",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Amid PlayStation 5 Pro Shortages, Sony Implements Lottery System Based on Playtime",
+     "url": "https://www.techpowerup.com/353194/amid-playstation-5-pro-shortages-sony-implements-lottery-system-based-on-playtime",
+     "fonte": "TechPowerUp"
+    },
+    {
+     "titulo": "PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6",
+     "url": "https://kotaku.com/ps5-pro-shortage-hits-japan-as-sony-limits-console-purchases-to-active-playstation-users-ahead-of-gta-6-2000737444",
+     "fonte": "Kotaku"
+    },
+    {
+     "titulo": "Sony implements a 'gamers only' lottery system for buying a PlayStation 5 in Japan",
+     "url": "https://www.tweaktown.com/news/113816/sony-implements-a-gamers-only-lottery-system-for-buying-a-playstation-5-in-japan/index.html",
+     "fonte": "TweakTown"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 12,
+    "top_vph": 3130,
+    "outlier": 313.2,
+    "melhor": {
+     "titulo": "Wolverine is a Financial Disaster & Sony is Panicking",
+     "canal": "ENDYMIONtv",
+     "views": 474521,
+     "url": "https://youtu.be/uECkFZMMu08"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Gaming/Tecnologia",
+    "vira_video": "sim",
+    "motivo": "PS5 Pro shortage é tendência duradoura, gera discussão contínua",
+    "angulo": "Sony's lottery system reveals gaming industry supply crisis",
+    "titulo": "PS5 Pro Lottery System: Sony's Desperate Solution to Console Shortage"
+   },
+   "score": 47
+  },
+  "record burmese python big cypress preserve": {
+   "termo": "record burmese python big cypress preserve",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "One Hunter Caught 96 Pythons in the Everglades and Walked Away With the Top Prize",
+     "url": "https://www.yahoo.com/news/science/articles/one-hunter-caught-96-pythons-230000138.html",
+     "fonte": "Yahoo"
+    },
+    {
+     "titulo": "This python Florida hunters caught in 2023 keeps us up at night",
+     "url": "https://www.naplesnews.com/story/news/local/2026/09/30/whats-the-longest-python-ever-caught-in-florida-everglades-invasive-snakes-fwc-hunters-big-cypress/92000480007/",
+     "fonte": "Naples Daily News"
+    },
+    {
+     "titulo": "SWFL python hunters say look up — snakes are climbing trees",
+     "url": "https://www.winknews.com/news/swfl-python-hunters-say-look-up-snakes-are-climbing-trees/article_7d3dba77-1288-41e2-8db4-7e3e2b51204d.html",
+     "fonte": "WINK News"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "ia": {
+    "categoria": "Natureza/Curiosidades",
+    "vira_video": "sim",
+    "motivo": "Animais gigantes fascinam, conteúdo educacional atemporal sobre invasoras",
+    "angulo": "Invasive species crisis through record breaking python catches",
+    "titulo": "96 Pythons in One Season: Inside Florida's Massive Snake Problem"
+   },
+   "score": 32
+  },
+  "penguins vs flyers": {
+   "termo": "penguins vs flyers",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 10000,
+   "noticias": [
+    {
+     "titulo": "Projected lineups, starting goalies for today",
+     "url": "https://www.nhl.com/news/nhl-lineup-projections-2026-27-season",
+     "fonte": "NHL.com"
+    },
+    {
+     "titulo": "Penguins vs. Flyers Score, Live Updates, Highlights From NHL Season Opener",
+     "url": "https://sports.yahoo.com/articles/penguins-vs-flyers-score-live-223002509.html",
+     "fonte": "Yahoo Sports"
+    },
+    {
+     "titulo": "NHL tonight: What to watch, key stats, betting intel for Wednesday",
+     "url": "https://www.espn.com/nhl/story/_/id/50059344/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting",
+     "fonte": "ESPN"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 4,
+    "top_vph": 647,
+    "outlier": 2.6,
+    "melhor": {
+     "titulo": "Andy’s NHL Sniffs | Islanders-Leafs, Flyers-Pens, COL-LA",
+     "canal": "Andy Francess",
+     "views": 3682,
+     "url": "https://youtu.be/ENpDR4_3Il8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico NHL, interesse morre após partida terminar",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 29
+  },
+  "24 jump street": {
+   "termo": "24 jump street",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "’24 Jump Street,’ Hugh Jackman’s ‘Treasure Island’ Remake Get Holiday 2027 Release Dates",
+     "url": "https://variety.com/2026/film/news/24-jump-street-hugh-jackman-treasure-island-release-dates-1236893958/",
+     "fonte": "Variety"
+    },
+    {
+     "titulo": "’24 Jump Street’ and Ridley Scott’s ‘Treasure Island’ Get 2027 Release Dates From Sony",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/24-jump-street-ridley-reasure-island-helldivers-release-1236717471/",
+     "fonte": "The Hollywood Reporter"
+    },
+    {
+     "titulo": "’24 Jump Street,’ Ridley Scott’s ‘Treasure Island’ Get 2027 Release Dates at Sony",
+     "url": "https://www.thewrap.com/creative-content/movies/24-jump-street-release-date-treasure-island-2027/",
+     "fonte": "TheWrap"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "ia": {
+    "categoria": "Cinema/Entertainment",
+    "vira_video": "sim",
+    "motivo": "Sequência aguardada de franquia popular, especulação duradoura até 2027",
+    "angulo": "Will the third Jump Street movie live up to originals",
+    "titulo": "24 Jump Street Finally Confirmed: Everything We Know About 2027 Release"
+   },
+   "score": 32
+  },
+  "kai cenat": {
+   "termo": "kai cenat",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Twitch streamer Reggie Travers accuses brother of sexual abuse in tearful video",
+     "url": "https://www.yahoo.com/entertainment/celebrity/articles/twitch-streamer-reggie-travers-accuses-183728568.html",
+     "fonte": "Yahoo"
+    },
+    {
+     "titulo": "RaKai denies Reggie’s childhood abuse allegations and breaks silence on the viral controversy",
+     "url": "https://timesofindia.indiatimes.com/world/us-streamers/rakai-denies-reggies-childhood-abuse-allegations-and-breaks-silence-on-the-viral-controversy/articleshow/134561193.cms",
+     "fonte": "The Times of India"
+    },
+    {
+     "titulo": "\"Trying To Manipulate My Cameraman\": Reggie Crashes Out On A Call With Raud Over Kai Cenat",
+     "url": "https://sports.ndtv.com/us/us-streamers/trying-to-manipulate-my-cameraman-reggie-crashes-out-on-a-call-with-raud-over-kai-cenat-12109338",
+     "fonte": "NDTV Sports"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 60110,
+    "outlier": 2104.9,
+    "melhor": {
+     "titulo": "Bru Does not Want To Believe It 😂 #kaicenat #shorts",
+     "canal": "KAIWIRED",
+     "views": 8882630,
+     "url": "https://youtu.be/r2EmGhJZwcY"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Cultura Digital/Drama",
+    "vira_video": "sim",
+    "motivo": "Drama entre streamers gera análises, reações e conteúdo derivado",
+    "angulo": "Psychology behind streamer drama and public allegations impact",
+    "titulo": "The Kai Cenat Drama: What Really Happened With Reggie and RaKai"
+   },
+   "score": 42
+  },
+  "cam smith": {
+   "termo": "cam smith",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Former Seminoles Star Should Shine in the MLB Playoffs",
+     "url": "https://roundtable.io/sports/ncaa/fsu/players/former-seminoles-star-should-shine-in-the-mlb-playoffs",
+     "fonte": "roundtable.io"
+    },
+    {
+     "titulo": "Cam Smith Advances with Houston Astros in MLB Playoffs",
+     "url": "https://suaragarut.id/en/cam-smith-advances-astros-playoffs",
+     "fonte": "SuaraGarut.ID"
+    },
+    {
+     "titulo": "White Sox 6-3 Astros (Sep 29, 2026) Final Score",
+     "url": "https://www.espn.com/mlb/game/_/gameId/401907896/white-sox-astros",
+     "fonte": "ESPN"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Notícia específica playoffs MLB, interesse temporário apenas",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 19
+  },
+  "hailey bieber": {
+   "termo": "hailey bieber",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Hailey Bieber Steps Out in the Slip Dress Carolyn Bessette Kennedy Wore for Her 1996 Wedding Rehearsal Dinner",
+     "url": "https://people.com/hailey-bieber-wears-carolyn-bessette-kennedys-1996-rehearsal-dinner-dress-12147566",
+     "fonte": "People.com"
+    },
+    {
+     "titulo": "Hailey Bieber Wore the 1997 Dress That Carolyn Bessette-Kennedy Made Famous",
+     "url": "https://www.vogue.com/article/hailey-bieber-carolyn-bessette-kennedy-rehearsal-dinner-dress-narciso-rodriguez",
+     "fonte": "Vogue"
+    },
+    {
+     "titulo": "Hailey Bieber takes iconic Carolyn Bessette-Kennedy dress for a spin",
+     "url": "https://www.usatoday.com/story/entertainment/style/2026/09/30/hailey-bieber-carolyn-bessette-kennedys-wedding-rehearsal-dress/92023073007/",
+     "fonte": "USA Today"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "ia": {
+    "categoria": "Moda/Celebridades",
+    "vira_video": "sim",
+    "motivo": "Moda vintage e comparações icônicas geram conteúdo evergreen",
+    "angulo": "Fashion history revival and celebrity style recreation trend",
+    "titulo": "Hailey Bieber Recreates Carolyn Bessette Kennedy's Iconic 1996 Wedding Look"
+   },
+   "score": 34,
+   "rd": null
+  },
+  "dream vs mystics": {
+   "termo": "dream vs mystics",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 20000,
+   "noticias": [
+    {
+     "titulo": "Dream 92-77 Mystics (Sep 27, 2026) Final Score",
+     "url": "https://www.espn.com/wnba/game/_/gameId/401918013/mystics-dream",
+     "fonte": "ESPN"
+    },
+    {
+     "titulo": "Preview: Mystics host Dream in Game 2 of playoff series",
+     "url": "https://www.bulletsforever.com/mystics/73122/mystics-vs-dream-game-2-preview-washington-looks-to-stay-alive-on-wednesday",
+     "fonte": "Bullets Forever"
+    },
+    {
+     "titulo": "Dream vs. Mystics Prediction, Odds, Best Prop Bet WNBA Playoffs Game 2",
+     "url": "https://www.si.com/betting/dream-vs-mystics-prediction-odds-best-prop-bet-wnba-playoffs-game-2-2026",
+     "fonte": "Sports Illustrated"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 22,
+    "top_vph": 2631,
+    "outlier": 36.1,
+    "melhor": {
+     "titulo": "Atlanta Dream vs Washington Mystics LIVE | WNBA Playoffs Game 2 | WNBA LIVE Today | 4K UHD",
+     "canal": "GR News 🇧🇪",
+     "views": 6379,
+     "url": "https://youtu.be/luhkh4DwVbo"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Resultado específico de jogo playoff WNBA, relevância expira rápido",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 28
+  },
+  "the social reckoning": {
+   "termo": "the social reckoning",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Why Aaron Sorkin left Trump out of ‘The Social Reckoning’",
+     "url": "https://www.politico.com/news/2026/09/29/why-sorkin-left-trump-out-of-the-social-reckoning-01097791",
+     "fonte": "Politico"
+    },
+    {
+     "titulo": "Aaron Sorkin on ‘The Social Reckoning,’ Mark Zuckerberg, and Trump",
+     "url": "https://www.vanityfair.com/story/aaron-sorkin-social-reckoning-trump",
+     "fonte": "Vanity Fair"
+    },
+    {
+     "titulo": "Aaron Sorkin Says 'Social Reckoning' Reshoots Had Nothing to Do With Trailer",
+     "url": "https://variety.com/2026/film/news/aaron-sorkin-social-reckoning-reshoots-trailer-backlash-trump-1236879892/",
+     "fonte": "Variety"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Cinema e Entretenimento",
+    "vira_video": "sim",
+    "motivo": "Novo filme de Aaron Sorkin gera discussões culturais prolongadas",
+    "angulo": "Análise cinematográfica e comparação com The Social Network",
+    "titulo": "The Social Reckoning Explained: Aaron Sorkin's Zuckerberg Sequel Without Trump"
+   },
+   "score": 34
+  },
+  "mlb playoff standings": {
+   "termo": "mlb playoff standings",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 10000,
+   "noticias": [
+    {
+     "titulo": "Avocado toast in the morning, grand slams at night: Routine key for Rice",
+     "url": "https://www.mlb.com/news/ben-rice-hits-grand-slam-game-1-al-wild-card-series",
+     "fonte": "MLB.com"
+    },
+    {
+     "titulo": "Yankees 9-0 Red Sox (Sep 29, 2026) Game Recap",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401907924",
+     "fonte": "ESPN"
+    },
+    {
+     "titulo": "Yankees bullpen catcher head butts Ben Rice's grand slam on the fly in hilarious moment against Red Sox",
+     "url": "https://www.foxnews.com/outkick-sports/yankees-bullpen-catcher-head-butts-ben-rices-grand-slam-fly-hilarious-moment-red-sox",
+     "fonte": "Fox News"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Informação que muda diariamente, sem valor duradouro",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 23
+  },
+  "jason benetti": {
+   "termo": "jason benetti",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Kate Upton after Verlander retirement: 'Never watching baseball again'",
+     "url": "https://www.detroitnews.com/story/entertainment/television/2026/09/30/justin-verlander-appears-on-today-good-morning-america-fallon/92019104007/",
+     "fonte": "The Detroit News"
+    },
+    {
+     "titulo": "SI Swimsuit gave Justin Verlander a proper retirement send off with look back at Kate Upton cover shoot",
+     "url": "https://www.foxnews.com/outkick-sports/si-swimsuit-gave-justin-verlander-proper-retirement-send-off-look-back-kate-upton-cover-shoot",
+     "fonte": "Fox News"
+    },
+    {
+     "titulo": "How Hinch, Tigers 'totally blindsided' Verlander with a perfect sendoff",
+     "url": "https://www.mlb.com/news/justin-verlander-s-daughter-surprises-him-as-he-leaves-final-mlb-start",
+     "fonte": "MLB.com"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Notícias relacionadas são sobre Verlander, não Benetti especificamente",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 17
+  },
+  "saved by the bell residual checks": {
+   "termo": "saved by the bell residual checks",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Tiffani Thiessen says she ‘got nothing’ for Saved by the Bell , didn’t make ‘real money’ until 90210",
+     "url": "https://ew.com/tiffani-thiessen-says-she-got-nothing-for-saved-by-the-bell-12139367",
+     "fonte": "Entertainment Weekly"
+    },
+    {
+     "titulo": "'Saved by the Bell' star Tiffani Thiessen reveals surprising residual check",
+     "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/09/28/tiffani-amber-thiessen-saved-by-the-bell-residual/91985852007/",
+     "fonte": "USA Today"
+    },
+    {
+     "titulo": "Tiffani Thiessen gets real about Hollywood work and pay since ‘Saved by the Bell’",
+     "url": "https://pagesix.com/video/tiffani-thiessen-gets-real-about-hollywood-work-and-pay-since-saved-by-the-bell/",
+     "fonte": "Page Six"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Entretenimento e Negócios",
+    "vira_video": "sim",
+    "motivo": "Revelação chocante sobre indústria gera curiosidade sobre residuais",
+    "angulo": "Como funcionam residuais de TV e por que atores não recebem",
+    "titulo": "Why Saved by the Bell Stars Get NOTHING: TV Residuals Explained"
+   },
+   "score": 34
+  },
+  "allisha gray": {
+   "termo": "allisha gray",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Close bond between Allisha Gray and Rhyne Howard underscores Atlanta Dream's success and their own",
+     "url": "https://andscape.com/features/allisha-gray-rhyne-howard-atlanta-dream-wnba-postseason-2026/",
+     "fonte": "Andscape"
+    },
+    {
+     "titulo": "Dream 92-77 Mystics (Sep 27, 2026) Final Score",
+     "url": "https://www.espn.com/wnba/game/_/gameId/401918013/mystics-dream",
+     "fonte": "ESPN"
+    },
+    {
+     "titulo": "WNBA playoffs live updates, Dream-Mystics score: Postseason continues with Game 2 from Washington",
+     "url": "https://sports.yahoo.com/wnba/live/wnba-playoffs-live-updates-dream-mystics-score-postseason-continues-with-game-2-from-washington-220000442.html",
+     "fonte": "Yahoo Sports"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "História de amizade pode gerar interesse em perfis inspiracionais",
+    "angulo": "Perfil sobre dupla dinâmica que elevou o Atlanta Dream",
+    "titulo": "Allisha Gray & Rhyne Howard: The Friendship That Changed Atlanta Dream"
+   },
+   "score": 29
+  },
+  "valkyries vs wings": {
+   "termo": "valkyries vs wings",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Valkyries run away from Wings with franchise-record scoring, 3s",
+     "url": "https://www.espn.com/wnba/story/_/id/50050140/valkyries-run-away-wings-franchise-record-scoring-3s",
+     "fonte": "ESPN"
+    },
+    {
+     "titulo": "Dallas Wings vs Golden State Valkyries Sep 27, 2026 Game Summary",
+     "url": "https://www.wnba.com/game/dal-vs-gsv-1042600111",
+     "fonte": "WNBA"
+    },
+    {
+     "titulo": "Golden State Valkyries look ready to contend after Game 1 blowout of Wings",
+     "url": "https://www.nytimes.com/athletic/7639182/2026/09/28/golden-state-valkyries-game-1-wings-contenders/",
+     "fonte": "The New York Times"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico já aconteceu, interesse passageiro",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 20
+  },
+  "twitch": {
+   "termo": "twitch",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "ANNOUNCING OUR TOURNAMENT CREATORS, TWITCH DROPS, AND YEAR TWO",
+     "url": "https://www.sega.com/news/announcing-our-tournament-creators-twitch-drops-and-year-two",
+     "fonte": "SEGA"
+    },
+    {
+     "titulo": "Snickers ‘Feeds the Trolls’ with finals-season push tackling hangry sports fans",
+     "url": "https://www.mi-3.com.au/29-09-2026/snickers-feeds-trolls-finals-season-push-tackling-hangry-sports-fans",
+     "fonte": "Mi-3.com.au."
+    },
+    {
+     "titulo": "Snickers Keeps Reinventing the Same Joke. That’s the Lesson for Small Businesses",
+     "url": "https://www.inc.com/robin-landa/snickers-keeps-reinventing-the-same-joke-thats-the-lesson-for-small-businesses/91411588",
+     "fonte": "Inc.com"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Tecnologia e Streaming",
+    "vira_video": "talvez",
+    "motivo": "Termo muito genérico, depende do ângulo específico escolhido",
+    "angulo": "Como maximizar ganhos com Twitch Drops em torneios 2026",
+    "titulo": "How to Get Every Twitch Drop in 2026 Tournament Season"
+   },
+   "score": 36
+  },
+  "trump iran news": {
+   "termo": "trump iran news",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Trump says Iran decision coming ‘very soon’ as US probes possible Fairford terror links",
+     "url": "https://www.foxnews.com/live-news/iran-war-news-trump-oil-september-30",
+     "fonte": "Fox News"
+    },
+    {
+     "titulo": "Trump Rejects Iran's Ceasefire, UK Foiled Plot Near US Base, Trump Press Corps Fight",
+     "url": "https://www.npr.org/2026/09/28/nx-s1-5983296/trump-rejects-irans-ceasefire-uk-foiled-plot-on-us-base-trump-press-corps-fight",
+     "fonte": "NPR"
+    },
+    {
+     "titulo": "U.S. is 'studying' role Iran may have played in air base incident in U.K., Trump says",
+     "url": "https://www.yahoo.com/news/videos/u-studying-role-iran-may-224818184.html",
+     "fonte": "Yahoo"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "ia": {
+    "categoria": "Política Internacional",
+    "vira_video": "nao",
+    "motivo": "Notícia política em desenvolvimento, perde relevância rapidamente",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 19
+  },
+  "mlb brackets": {
+   "termo": "mlb brackets",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "2026 MLB playoffs: Our predictions for every round",
+     "url": "https://www.espn.com/mlb/story/_/id/50052185/mlb-playoffs-2026-predictions-every-round-wild-card-world-series",
+     "fonte": "ESPN"
+    },
+    {
+     "titulo": "2026 MLB playoff bracket: Scores, schedule, where to watch as Phillies hold off elimination, White Sox advance",
+     "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
+     "fonte": "CBS Sports"
+    },
+    {
+     "titulo": "MLB playoffs 2026: Final bracket, seeding and postseason schedule after Astros win AL West, Phillies hang on for wild card",
+     "url": "https://sports.yahoo.com/mlb/article/mlb-playoffs-2026-final-bracket-seeding-and-postseason-schedule-after-astros-win-al-west-phillies-hang-on-for-wild-card-130331560.html",
+     "fonte": "Yahoo Sports"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Conteúdo efêmero que expira após os playoffs acabarem",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 22
+  },
+  "sierra nevada cheese e coli recall": {
+   "termo": "sierra nevada cheese e coli recall",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 20000,
+   "noticias": [
+    {
+     "titulo": "Nationwide cheese recall: 13 sickened in E. coli outbreak",
+     "url": "https://fox8.com/news/nationwide-cheese-recall-13-sickened-in-e-coli-outbreak/",
+     "fonte": "FOX 8 News"
+    },
+    {
+     "titulo": "FDA Announces Nationwide Cheese Recall—Products Linked to Multistate E. Coli Outbreak",
+     "url": "https://www.health.com/raw-milk-cheese-recall-september-2026-12145668",
+     "fonte": "Health.com"
+    },
+    {
+     "titulo": "Cheese recalled nationwide amid E. coli outbreak",
+     "url": "https://www.ksnt.com/news/kansas/cheese-recalled-nationwide-amid-e-coli-outbreak/",
+     "fonte": "KSNT 27 News"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Saúde e Segurança Alimentar",
+    "vira_video": "sim",
+    "motivo": "Recall nacional gera interesse prolongado sobre segurança alimentar",
+    "angulo": "Como identificar produtos contaminados e prevenir E. coli em casa",
+    "titulo": "Sierra Nevada Cheese Recall: How to Check Your Fridge & Stay Safe from E. Coli"
+   },
+   "score": 45
   }
  }
 }

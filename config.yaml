@@ -1,14 +1,140 @@
-# V9 ORACLE v3: começa pelo Google Trends de cada país.
-# Não tem nicho nem semente. Ele descobre o que o país tá buscando e decide o que vira vídeo.
-nicho: animal
+# V9 ORACLE MAXX
+# Google Trends descobre os temas de cada país. YouTube, Reddit e buscas validam. O core decide.
+
 paises:
   - {geo: BR, nome: Brasil,   idioma: pt, bandeira: "🇧🇷"}
   - {geo: US, nome: EUA,      idioma: en, bandeira: "🇺🇸"}
   - {geo: MX, nome: México,   idioma: es, bandeira: "🇲🇽"}
   - {geo: DE, nome: Alemanha, idioma: de, bandeira: "🇩🇪"}
 
-top: 30               # quantos temas aparecem em cada ranking
-yt_por_rodada: 6      # quantos temas por país são checados no YouTube a cada rodada
-quota_diaria: 9000    # limite grátis do YouTube é 10.000 por dia, deixa folga
-reddit_por_rodada: 8
-ia_por_rodada: 15     # só usa se tiver ANTHROPIC_API_KEY
+# Filtro dark: o Google Trends diário é cheio de notícia, esporte e celebridade.
+# A IA decide o que serve pra canal dark antes de gastar quota. Precisa de ANTHROPIC_API_KEY.
+encaixe_aceitos: [sim]   # sim = tema perene de canal dark. Inclua talvez pra aceitar tema nascido de notícia com ângulo documental
+nichos_dark:             # 100 nichos. É isso que a IA usa pra decidir. Apague ou comente (#) o que não quiser. (!) = risco de monetização
+  # Finanças e negócios
+  - "falências e quedas de empresas"
+  - "histórias de bilionários e impérios"
+  - "fraudes e golpes financeiros famosos"
+  - "crises econômicas (1929, 2008, hiperinflação)"
+  - "como funcionam bancos, juros e inflação"
+  - "história do dinheiro e das moedas"
+  - "história por trás de marcas famosas"
+  - "investimentos para iniciantes (educativo)"   # (!) risco de monetização
+  - "cripto explicado e golpes do setor"   # (!) risco de monetização
+  - "mercado imobiliário explicado"
+  - "impostos e direitos explicados"   # (!) risco de monetização
+  - "casos de startups e empreendedores"
+  # Tecnologia e IA
+  - "ferramentas de IA (tutoriais)"
+  - "como a IA funciona"
+  - "cibersegurança e golpes digitais"
+  - "hackers e grandes vazamentos"
+  - "automação e no-code"
+  - "história da tecnologia"
+  - "tutoriais de Excel, Windows e produtividade"
+  - "comparativos de gadgets"
+  - "tecnologias que fracassaram"
+  - "futuro da tecnologia e robótica"
+  # Renda, carreira e produtividade
+  - "renda extra e negócios online"   # (!) risco de monetização
+  - "marketing digital e vendas"
+  - "carreira e entrevistas"
+  - "produtividade e hábitos"
+  - "resumos de livros de negócios"
+  - "psicologia da persuasão"
+  # História
+  - "Roma Antiga"
+  - "Egito Antigo"
+  - "Grécia e Mesopotâmia"
+  - "Idade Média e cruzadas"
+  - "Segunda Guerra Mundial"
+  - "Guerra Fria e espionagem"
+  - "impérios e civilizações perdidas"
+  - "grandes batalhas"
+  - "piratas e grandes navegações"
+  - "revoluções e quedas de regimes"
+  - "história do próprio país"
+  - "biografias de líderes históricos"
+  # Crimes e mistérios
+  - "casos reais documentados (true crime)"   # (!) risco de monetização
+  - "casos não resolvidos"
+  - "desaparecimentos misteriosos"
+  - "golpistas e impostores famosos"
+  - "máfia e crime organizado"   # (!) risco de monetização
+  - "grandes roubos e assaltos"
+  - "julgamentos famosos"
+  - "seitas e cultos"   # (!) risco de monetização
+  - "conspirações e teorias"   # (!) risco de monetização
+  - "espiões e agentes duplos"
+  - "prisões e fugas famosas"
+  - "erros judiciais"
+  # Terror e sobrenatural
+  - "histórias de terror narradas"
+  - "relatos de testemunhas (zona cinza)"
+  - "creepypasta"
+  - "lendas urbanas"
+  - "folclore regional e criaturas"
+  - "casos paranormais e assombrações"
+  - "lugares abandonados e proibidos"
+  - "mitologia grega, nórdica e egípcia"
+  - "OVNIs e fenômenos inexplicados"
+  - "ocultismo e demonologia"   # (!) risco de monetização
+  # Ciência e curiosidades
+  - "espaço e astronomia"
+  - "física e buracos negros"
+  - "corpo humano"
+  - "oceano profundo"
+  - "dinossauros e pré-história"
+  - "vulcões, terremotos e geologia"
+  - "neurociência e cérebro"
+  - "psicologia do comportamento"
+  - "invenções e inventores"
+  - "fatos curiosos e rankings"   # (!) risco de monetização
+  - "experimentos científicos que deram errado"
+  - "pandemias e doenças da história"
+  # Natureza e animais
+  - "animais perigosos"
+  - "predadores e cadeia alimentar"
+  - "animais marinhos e tubarões"
+  - "cobras e aranhas"
+  - "ataques de animais selvagens"   # (!) risco de monetização
+  - "animais extintos"
+  - "insetos e seres estranhos"
+  - "cães e gatos (comportamento e raças)"
+  - "biomas (Amazônia, savana, polos)"
+  - "sobrevivência na natureza"
+  # Desastres, engenharia e transporte
+  - "desastres naturais"
+  - "acidentes aéreos e investigações"
+  - "naufrágios"
+  - "desastres industriais e nucleares"
+  - "engenharia e megaconstruções"
+  - "aviação e aviões"
+  - "história automotiva"
+  - "ferrovias e metrôs"
+  - "tecnologia militar e armas"   # (!) risco de monetização
+  - "expedições e exploração"
+  # Religião, saúde e vida
+  - "histórias bíblicas e personagens"
+  - "teologia e crise de fé"
+  - "filosofia (estoicismo e grandes pensadores)"
+  - "saúde e longevidade (educativo)"   # (!) risco de monetização
+  - "relaxamento e sono"
+  - "idiomas e aprendizado"
+
+topicos_por_pais: 10     # quantos temas do Google entram na análise a cada rodada
+yt_dias: 90              # janela de vídeos do YouTube que o core avalia
+yt_min_minutos: 8        # só vídeos longos: tudo abaixo disso (Shorts incluídos) fica fora
+yt_duracoes: [medium, long]   # faixas buscadas: medium = 4 a 20 min, long = mais de 20. Só [medium] gasta metade da quota
+yt_ttl_horas: 14         # quanto tempo reaproveita a busca do YouTube (economiza quota)
+quota_diaria: 9800       # limite grátis do YouTube é 10.000 por dia, dividido entre os países
+yt_novas_por_rodada: 2   # temas novos no YouTube por país a cada rodada (cada um gasta ~200 de quota; o resto entra na próxima)
+trends_por_rodada: 5     # séries horárias do Google Trends por país (se não bloquear)
+serpapi_limite_mensal: 250   # plano da SerpApi: Free 250, Starter 1000, Developer 5000. Só entra quando o pytrends falha
+serpapi_por_rodada: 4        # teto de buscas SerpApi por rodada (o ritmo diário também limita)
+serpapi_por_pais: 1          # no máximo 1 por país a cada rodada
+ia_por_rodada: 12        # temas que a IA orienta por rodada
+ia_provedor: auto        # auto = Gemini se tiver GEMINI_API_KEY, senão Claude (ANTHROPIC_API_KEY). Ou escreva gemini / claude
+modelo_gemini: gemini-3.5-flash-lite   # se o nome não existir, o Oracle tenta gemini-3.6-flash e gemini-2.5-flash-lite
+modelo_ia: claude-sonnet-5-5           # usado só quando o provedor é Claude
+top: 30

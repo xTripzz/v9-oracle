@@ -1,0 +1,346 @@
+{
+ "data": "2026-10-01",
+ "rodadas": 1,
+ "termos": {
+  "padres - cubs": {
+   "termo": "padres - cubs",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Cubs-Padres NL Wild Card Series Game 2: LIVE on Peacock/NBCSN",
+     "url": "https://www.mlb.com/news/cubs-vs-padres-nl-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
+     "fonte": "MLB.com"
+    },
+    {
+     "titulo": "Padres’ Michael King loses no-hit bid in 7th inning of playoff opener against the Cubs",
+     "url": "https://apnews.com/article/cubs-padres-michael-king-d1e011b4edc036b944f1ece5f2fc868a",
+     "fonte": "AP News"
+    },
+    {
+     "titulo": "Padres pummel Cubs behind Tatis' leadoff blast, King's gem in Game 1",
+     "url": "https://www.espn.com/mlb/story/_/id/50064499/padres-pummel-cubs-tatis-leadoff-blast-king-gem-game-1",
+     "fonte": "ESPN"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico de wild card com duração curta",
+    "angulo": "Performance histórica de Michael King nos playoffs",
+    "titulo": "Padres vs Cubs: Michael King CASI logra NO-HITTER"
+   },
+   "score": 19
+  },
+  "américa vs cruz azul": {
+   "termo": "américa vs cruz azul",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Corregir y rotar, prioridades de Cruz Azul en Fecha FIFA",
+     "url": "https://es-us.noticias.yahoo.com/corregir-rotar-prioridades-cruz-azul-221438969.html",
+     "fonte": "Yahoo"
+    },
+    {
+     "titulo": "¿Santiago Ramos Mingo y Santiago Bueno tendrán que esperar más para debutar con América?",
+     "url": "https://www.record.com.mx/historia/santiago-ramos-mingo-y-santiago-bueno-debut-2026093021413751401",
+     "fonte": "Récord"
+    },
+    {
+     "titulo": "Cruz Azul va por el honor ante América y Galaxy; para Joel Huiqui no existen los amistosos",
+     "url": "https://www.eluniversal.com.mx/deportes/cruz-azul-va-por-el-honor-ante-america-y-galaxy-para-joel-huiqui-no-existen-los-amistosos/",
+     "fonte": "El Universal"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Clássico recorrente com interesse em análises e prévias",
+    "angulo": "Reforços de Santiago aguardam oportunidade no América",
+    "titulo": "América vs Cruz Azul: ¿Por qué los SANTIAGOS no DEBUTAN?"
+   },
+   "score": 34
+  },
+  "meteored": {
+   "termo": "meteored",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Mañana jueves 1 de octubre, se pronostican lluvias intensas superiores a 75 mm en al menos 8 estados de México",
+     "url": "https://www.meteored.mx/noticias/prediccion/manana-jueves-1-de-octubre-mexico-con-lluvias-intensas-en-al-menos-8-estados-mas-de-75-mm.html",
+     "fonte": "Meteored México"
+    },
+    {
+     "titulo": "Tras septiembre seco, inicia octubre lluvioso",
+     "url": "https://www.elnorte.com/tras-septiembre-seco-inicia-octubre-lluvioso/ar3284507",
+     "fonte": "El Norte"
+    },
+    {
+     "titulo": "¿Cuáles son las 8 entidades que se verán afectadas por el temporal de lluvias hoy?",
+     "url": "https://voxpopulinoticias.com.mx/2026/09/cuales-son-las-8-entidades-que-se-veran-afectadas-por-el-temporal-de-lluvias-hoy/",
+     "fonte": "Vox Populi"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Clima e Meio Ambiente",
+    "vira_video": "nao",
+    "motivo": "Previsão temporal específica de outubro sem vida longa",
+    "angulo": "Como interpretar pronósticos de Meteored para México",
+    "titulo": "Meteored México: Cómo ENTENDER el pronóstico del clima"
+   },
+   "score": 20
+  },
+  "yankees": {
+   "termo": "yankees",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Why Isn’t Cody Bellinger Playing Today? Yankees Star Rides Bench for Rays Game",
+     "url": "https://sports.yahoo.com/articles/why-isn-t-cody-bellinger-230244948.html",
+     "fonte": "Yahoo Sports"
+    },
+    {
+     "titulo": "When do the Yankees Play Next? Here is the Yankees-Rays ALDS Schedule, TV Channel",
+     "url": "https://heavy.com/sports/mlb/new-york-yankees/tampa-bay-rays-alds-schedule-revealed/",
+     "fonte": "Heavy.com"
+    },
+    {
+     "titulo": "Yankees vs Rays ALDS Odds, Picks, Schedule & Probable Starters",
+     "url": "https://www.sportsbettingdime.com/news/mlb/yankees-vs-rays-alds-odds-picks-schedule-probable-starters/",
+     "fonte": "Sports Betting Dime"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Notícia sobre lineup específico de um jogo pontual",
+    "angulo": "Decisões polêmicas de escalação nos Yankees",
+    "titulo": "¿Por qué Bellinger NO JUEGA? Decisiones Yankees en Playoffs"
+   },
+   "score": 20
+  },
+  "jovenes construyendo el futuro": {
+   "termo": "jovenes construyendo el futuro",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "¿Habrá pago de Jóvenes Escribiendo el Futuro en octubre 2026? Cuándo esperar el próximo depósito",
+     "url": "https://www.marca.com/mx/actualidad/dinero/2026/09/30/habra-pago-jovenes-escribiendo-futuro-octubre-2026-esperar-proximo-deposito.html",
+     "fonte": "MARCA"
+    },
+    {
+     "titulo": "Sheinbaum reabre registro para depositarle 9 mil 500 pesos al mes y otorgarle seguro del IMSS a hombres y mujeres mayores de edad; requisitos y cómo inscribirse",
+     "url": "https://vanguardia.com.mx/informacion/sheinbaum-reabre-registro-para-depositarle-9-mil-500-pesos-al-mes-y-otorgarle-seguro-del-imss-a-hombres-y-mujeres-mayores-de-edad-requisitos-y-como-i-DP23790131",
+     "fonte": "vanguardia.com.mx"
+    },
+    {
+     "titulo": "¿Cuándo abren la nueva convocatoria de Jóvenes Construyendo el Futuro Quintana Roo 2026?",
+     "url": "https://quintanaroo.heraldodemexico.com.mx/local/2026/9/28/cuando-abren-la-nueva-convocatoria-de-jovenes-construyendo-el-futuro-quintana-roo-2026-17043.html",
+     "fonte": "El Heraldo de México"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Educação e Economia",
+    "vira_video": "sim",
+    "motivo": "Programa permanente com buscas recorrentes sobre inscrições e requisitos",
+    "angulo": "Guia completo para conseguir os 9500 pesos mensais",
+    "titulo": "Jóvenes Construyendo el Futuro 2026: Cómo INSCRIBIRTE y RECIBIR $9,500"
+   },
+   "score": 40
+  },
+  "yankees - red sox": {
+   "termo": "yankees - red sox",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "Red Sox-Yankees AL Wild Card Series Game 2: LIVE on NBC, Peacock",
+     "url": "https://www.mlb.com/news/red-sox-vs-yankees-al-wild-card-series-game-2-starting-lineups-pitching-matchup-2026",
+     "fonte": "MLB.com"
+    },
+    {
+     "titulo": "Who are pitching for the NY Yankees and Red Sox today in Game 2 of 2026 MLB Wild Card?",
+     "url": "https://bolavip.com/en/mlb/who-are-pitching-for-the-ny-yankees-and-red-sox-today-in-game-2-of-2026-mlb-wild-card",
+     "fonte": "Bolavip US"
+    },
+    {
+     "titulo": "New York Yankees vs Boston Red Sox LIVE Score Updates in MLB Postseason Game",
+     "url": "https://www.vavel.com/en-us/mlb/2026/09/30/1273387-yankees-vs-red-sox-live-score-mlb-postseason-game-2.html",
+     "fonte": "VAVEL.com"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico de playoff com interesse temporal limitado",
+    "angulo": "Análise da rivalidade histórica nos playoffs",
+    "titulo": "Yankees vs Red Sox Wild Card: ANÁLISIS del clásico"
+   },
+   "score": 18
+  },
+  "argentina - bolivia": {
+   "termo": "argentina - bolivia",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 200000,
+   "noticias": [
+    {
+     "titulo": "Cuti Romero: debut como capitán y gol para Argentina en Córdoba",
+     "url": "https://www.espn.com.mx/futbol/mundial/nota/_/id/17322758/video-gol-cuti-romero-capitan-cordoba-argentina-bolivia",
+     "fonte": "ESPN México"
+    },
+    {
+     "titulo": "Gran asistencia de Palacios y brillante definición de Nico Paz",
+     "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17322673/video-gran-asistencia-palacios-brillante-definicion-nico-paz-argentina-2-0-bolivia",
+     "fonte": "ESPN Deportes"
+    },
+    {
+     "titulo": "¿Por qué no juega Messi contra Bolivia HOY? Esta es la razón de su ausencia",
+     "url": "https://www.mediotiempo.com/futbol/messi-por-que-no-juega-contra-bolivia-esta-es-la-razon-de-su-ausencia",
+     "fonte": "Mediotiempo"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 1274453,
+    "outlier": 16.4,
+    "melhor": {
+     "titulo": "Argentina vs. Bolivia EN VIVO 🔴 | Amistoso Internacional 🇦🇷⚽🇧🇴 | TyC Sports",
+     "canal": "TyC Sports",
+     "views": 1274453,
+     "url": "https://youtu.be/5ezHiaP0BlE"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Análise tática e melhores momentos têm vida útil média",
+    "angulo": "Evolução de Nico Paz: nova estrela argentina revelada",
+    "titulo": "Nico Paz BRILLÓ con Argentina: ¿El NUEVO CRACK albiceleste?"
+   },
+   "score": 47
+  },
+  "zoé robledo aburto": {
+   "termo": "zoé robledo aburto",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 50000,
+   "noticias": [
+    {
+     "titulo": "Amplía México investigaciones por muerte de 5 bebés en hospital de Durango",
+     "url": "https://elcomentario.ucol.mx/?p=354343",
+     "fonte": "El Comentario"
+    },
+    {
+     "titulo": "Padres de bebés fallecidos en IMSS Durango aún no llegan a acuerdo reparatorio; piden justicia",
+     "url": "https://www.elfinanciero.com.mx/estados/2026/09/29/padres-de-bebes-fallecidos-en-imss-durango-aun-no-llegan-a-acuerdo-reparatorio-piden-justicia/",
+     "fonte": "El Financiero"
+    },
+    {
+     "titulo": "Investiga IMSS muertes de bebés en Durango por tres vías",
+     "url": "https://www.reforma.com/investiga-imss-muertes-de-bebes-en-durango-por-tres-vias/ar3284797",
+     "fonte": "Reforma"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias",
+    "vira_video": "nao",
+    "motivo": "Tragédia específica com foco noticioso de curto prazo",
+    "angulo": "Cronologia e responsabilidades no caso IMSS Durango",
+    "titulo": "Zoé Robledo y la TRAGEDIA del IMSS: ¿Qué pasó realmente?"
+   },
+   "score": 22
+  },
+  "el financiero": {
+   "termo": "el financiero",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Fin de septiembre",
+     "url": "https://www.elfinanciero.com.mx/opinion/macario-schettino/2026/09/30/fin-de-septiembre/",
+     "fonte": "El Financiero"
+    },
+    {
+     "titulo": "Oficinas expanden y amplían oferta en Guadalajara",
+     "url": "https://www.elfinanciero.com.mx/empresas/2026/09/30/oficinas-expanden-y-amplian-oferta-en-guadalajara/",
+     "fonte": "El Financiero"
+    },
+    {
+     "titulo": "Condiciona Morena candidaturas a Cámara de Diputados",
+     "url": "https://www.reforma.com/condiciona-morena-candidaturas-a-camara-de-diputados/ar3285820",
+     "fonte": "Reforma"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "ia": {
+    "categoria": "Notícias",
+    "vira_video": "nao",
+    "motivo": "Notícias genéricas de fim de mês sem gancho",
+    "angulo": "Tendências do mercado imobiliário em Guadalajara",
+    "titulo": "El Financiero: Boom de OFICINAS en Guadalajara 2026"
+   },
+   "score": 15
+  },
+  "carls junior": {
+   "termo": "carls junior",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "¿A qué hora inicia la promoción de Carl's Jr. para obtener una hamburguesa a 35 pesos HOY 30 de septiembre?",
+     "url": "https://www.milenio.com/consejos/carls-jr-hora-inicio-promocion-hamburguesas-35-pesos-30-septiembre",
+     "fonte": "Milenio"
+    },
+    {
+     "titulo": "Carl’s Jr: ¿Cuál es la historia de este restaurante, quién es su dueño y cuál fue su primera sucursal en México?",
+     "url": "https://www.cronica.com.mx/negocios/2026/09/30/carls-jr-cual-es-la-historia-de-este-restaurante-quien-es-su-dueno-y-cual-fue-su-primera-sucursal-en-mexico/",
+     "fonte": "La Crónica de Hoy"
+    },
+    {
+     "titulo": "Carl's Jr. vende hoy su Famous Star a 35 pesos por su aniversario en México",
+     "url": "https://www.informador.mx/economia/carls-jr.-vende-hoy-su-famous-star-a-35-pesos-por-su-aniversario-en-mexico-20260930-0055.html",
+     "fonte": "El Informador"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Gastronomia e Promoções",
+    "vira_video": "talvez",
+    "motivo": "Promoção específica mas marca gera interesse em reviews",
+    "angulo": "Vale a pena a promoção e história da marca",
+    "titulo": "Carl's Jr a $35 pesos: ¿VALE LA PENA? + Historia"
+   },
+   "score": 27
+  }
+ }
+}

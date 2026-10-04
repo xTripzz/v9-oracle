@@ -1,6 +1,6 @@
 {
  "data": "2026-09-30",
- "rodadas": 4,
+ "rodadas": 6,
  "termos": {
   "afd sachsen-anhalt": {
    "termo": "afd sachsen-anhalt",
@@ -842,7 +842,8 @@
     "angulo": "Histórico das polêmicas envolvendo Infantino na FIFA",
     "titulo": "Infantino unter Druck: Warum die Schweiz dem FIFA-Präsidenten den Rücken kehrt"
    },
-   "score": 29
+   "score": 29,
+   "rd": null
   },
   "ronaldo": {
    "termo": "ronaldo",
@@ -1049,7 +1050,8 @@
     "angulo": "Tour pela mansão minimalista vendida por Meg Ryan",
     "titulo": "Meg Ryans 15 Millionen Dollar Haus: Exklusiver Rundgang durch die Luxusvilla"
    },
-   "score": 29
+   "score": 29,
+   "rd": null
   },
   "wetter morgen": {
    "termo": "wetter morgen",
@@ -1095,6 +1097,500 @@
     "titulo": "N/A"
    },
    "score": 36
+  },
+  "tupolew": {
+   "termo": "tupolew",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Dienstag: Tote bei Absturz von russischem Langstreckenbomber",
+     "url": "https://www.mdr.de/nachrichten/welt/osteuropa/politik/russland-krieg-absturz-langstreckenbomber-Tu-95-tote-,ukraine-news-29-09-2026-100.html",
+     "fonte": "MDR.de"
+    },
+    {
+     "titulo": "Russland: Sechs Tote bei Absturz von Langstreckenbomber",
+     "url": "https://www.spiegel.de/ausland/russland-sechs-tote-bei-absturz-von-langstreckenbomber-a-195fb443-e7ee-4961-a4ef-39bcb87e3fad",
+     "fonte": "Spiegel"
+    },
+    {
+     "titulo": "Tote bei Absturz eines russischen Tu-95-Bombers",
+     "url": "https://www.faz.net/aktuell/politik/ausland/tote-bei-absturz-eines-russischen-tu-95-bombers-201274055.html",
+     "fonte": "FAZ"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias/Aviação",
+    "vira_video": "nao",
+    "motivo": "Notícia pontual de acidente sem desdobramentos",
+    "angulo": "Histórico de acidentes com bombardeiros russos",
+    "titulo": "Tupolew-Absturz: Warum russische Bomber so gefährlich sind"
+   },
+   "score": 20
+  },
+  "innenministerkonferenz": {
+   "termo": "innenministerkonferenz",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Nach Sachsen-Anhalt-Wahl: Wegen möglichen AfD-Ministers – Innenministerkonferenz kippt Einstimmigkeits-Prinzip",
+     "url": "https://www.welt.de/politik/deutschland/article6abd576996732a6393809b94/nach-sachsen-anhalt-wahl-wegen-moeglichen-afd-ministers-innenministerkonferenz-kippt-einstimmigkeits-prinzip.html",
+     "fonte": "WELT"
+    },
+    {
+     "titulo": "Länder-Innenminister kippen jahrzehntealtes Einstimmigkeitsprinzip",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/innenminister-einstimmigkeit-100.html",
+     "fonte": "tagesschau.de"
+    },
+    {
+     "titulo": "AfD: Länder passen Beschlusspraxis aus Sorge vor Blockade an",
+     "url": "https://www.spiegel.de/politik/deutschland/afd-laender-passen-beschlusspraxis-aus-sorge-vor-blockade-an-a-0109861c-2a28-448e-8094-6e4ac58b3784",
+     "fonte": "Spiegel"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Mudança política relevante mas interesse pode diminuir rapidamente",
+    "angulo": "Consequências práticas da mudança no sistema político alemão",
+    "titulo": "Historische Wende: Was die neue IMK-Regel für Deutschland bedeutet"
+   },
+   "score": 33
+  },
+  "thorsten frei": {
+   "termo": "thorsten frei",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Als die SPD im Bund Nein sagte: Eine Brandmauer gegen links gab es schon einmal",
+     "url": "https://www.tagesspiegel.de/berlin/als-die-spd-im-bund-nein-sagte-eine-brandmauer-gegen-links-gab-es-schon-einmal-16106094.html",
+     "fonte": "Tagesspiegel"
+    },
+    {
+     "titulo": "Nach der Berlin-Wahl - Start für Dreiergespräche zur Regierungsbildung in Berlin - Politik - SZ.de",
+     "url": "https://www.sueddeutsche.de/politik/nach-der-berlin-wahl-start-fuer-dreiergespraeche-zur-regierungsbildung-in-berlin-dpa.urn-newsml-dpa-com-20090101-260930-930-767563",
+     "fonte": "SZ.de"
+    },
+    {
+     "titulo": "Berliner Linke trifft sich mit Grünen und SPD zu Gespräch vor möglichen Sondierungen",
+     "url": "https://www.n-tv.de/ticker/Berliner-Linke-trifft-sich-mit-Gruenen-und-SPD-zu-Gespraech-vor-moeglichen-Sondierungen-id31366733.html",
+     "fonte": "n-tv.de"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "nao",
+    "motivo": "Político específico em contexto muito pontual de Berlim",
+    "angulo": "Bastidores das negociações de coalizão em Berlim",
+    "titulo": "Berlin-Koalition: Die Strategie hinter den Dreiergesprächen"
+   },
+   "score": 20
+  },
+  "michael schumacher": {
+   "termo": "michael schumacher",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Corinna Schumacher mit bewegenden Sätzen über Schumi",
+     "url": "https://www.bild.de/sport/mehr-sport/corinna-schumacher-mit-bewegenden-saetzen-ueber-schumi-6abbd548075de12d78a8de67",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "Corinna Schumacher in Netflix-Doku: »Der Michael wusste, mein Herz fährt mit«",
+     "url": "https://www.spiegel.de/sport/formel1/corinna-schumacher-der-michael-wusste-mein-herz-faehrt-mit-a-bba8a8e6-546f-4871-ae38-6064eb6ab609",
+     "fonte": "Spiegel"
+    },
+    {
+     "titulo": "„Musst jemanden haben, der Dich unterstützt, im Guten wie im Schlechten“, sagt Corinna Schumacher",
+     "url": "https://www.welt.de/videos/video6abcb064c7aea452433f02a3/schumacher-94-die-geburt-einer-legende-musst-jemanden-haben-der-dich-unterstuetzt-im-guten-wie-im-schlechten-sagt-corinna-schumacher.html",
+     "fonte": "WELT"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes/Documentário",
+    "vira_video": "sim",
+    "motivo": "Documentário Netflix gera interesse contínuo sobre legado Schumacher",
+    "angulo": "Análise emocional das revelações de Corinna na Netflix",
+    "titulo": "Corinna Schumacher bricht ihr Schweigen: Die emotionalsten Momente der Netflix-Doku"
+   },
+   "score": 38
+  },
+  "johannes winkel": {
+   "termo": "johannes winkel",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Grundsicherung: Endlich wird über dieses Gerechtigkeitsproblem gesprochen",
+     "url": "https://www.welt.de/debatte/article6aba0bd891ba8039e9c3d46d/grundsicherung-endlich-wird-ueber-dieses-gerechtigkeitsproblem-gesprochen.html",
+     "fonte": "WELT"
+    },
+    {
+     "titulo": "Mehr Gerechtigkeit bei Stütze: Hört auch auf die Ideen der Jungen!",
+     "url": "https://www.bild.de/politik/meinung-kommentare-kolumnen/mehr-gerechtigkeit-bei-stuetze-hoert-auch-auf-die-ideen-der-jungen-6aba9080e82a6edc94e19dc6",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "Wer einzahlt, soll mehr bekommen? Wirtschaftsrat springt Winkel bei - boerse.de",
+     "url": "https://www.boerse.de/nachrichten/Wer-einzahlt-soll-mehr-bekommen-Wirtschaftsrat-springt-Winkel-bei/38639328",
+     "fonte": "boerse.de"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "ia": {
+    "categoria": "Política Social",
+    "vira_video": "talvez",
+    "motivo": "Debate sobre justiça social tem interesse moderado contínuo",
+    "angulo": "Propostas jovens para reformar sistema de assistência",
+    "titulo": "Grundsicherung neu denken: Junge Ideen für mehr Gerechtigkeit"
+   },
+   "score": 33,
+   "rd": null
+  },
+  "stranger things": {
+   "termo": "stranger things",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 200,
+   "noticias": [
+    {
+     "titulo": "Die erfolgreichste Netflix-Serie wurde 1,2 Milliarden Mal geschaut und ihre Fortsetzung floppt: Wie geht es weiter?",
+     "url": "https://www.moviepilot.de/news/die-erfolgreichste-netflix-serie-sequel-1164850",
+     "fonte": "moviepilot.de"
+    },
+    {
+     "titulo": "Die erfolgreichste Netflix-Serie aller Zeiten stellt mit neuen Folgen bitteren Negativ-Rekord auf",
+     "url": "https://www.moviepilot.de/news/stranger-things-tales-from-85-staffel-2-charts-1164751",
+     "fonte": "moviepilot.de"
+    },
+    {
+     "titulo": "Stranger-Things-Produzent Shawn Levy verlässt Netflix und wechselt zu Disney",
+     "url": "https://www.scifiscene.de/news/shawn-levy-verlaesst-netflix-disney-20th-television",
+     "fonte": "scifiscene"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "ia": {
+    "categoria": "Entretenimento/Séries",
+    "vira_video": "sim",
+    "motivo": "Franquia popular gera discussões sobre futuro e qualidade",
+    "angulo": "Análise do declínio e o que esperar da próxima temporada",
+    "titulo": "Stranger Things Flop: Warum die neue Staffel enttäuscht und was jetzt kommt"
+   },
+   "score": 29,
+   "rd": null
+  },
+  "gemini 4": {
+   "termo": "gemini 4",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Gemini 4 Argon: our next era of frontier intelligence",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+     "fonte": "blog.google"
+    },
+    {
+     "titulo": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+     "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+     "fonte": "CNBC"
+    },
+    {
+     "titulo": "Google releases most advanced Gemini AI model",
+     "url": "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1",
+     "fonte": "Financial Times"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "ia": {
+    "categoria": "Tecnologia/IA",
+    "vira_video": "sim",
+    "motivo": "IA é tema evergreen com atualizações que geram interesse",
+    "angulo": "Testes práticos comparando Gemini 4 com concorrentes",
+    "titulo": "Gemini 4 Argon im Test: Schlägt es ChatGPT und Claude?"
+   },
+   "score": 32,
+   "rd": null
+  },
+  "das große backen 2026": {
+   "termo": "das große backen 2026",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Sieg im Finale: Wer hat „Das große Backen“ 2026 gewonnen?",
+     "url": "https://www.volksfreund.de/nachrichten/boulevard/entertainment/das-grosse-backen-2026-wer-hat-im-finale-gewonnen_aid-150853847",
+     "fonte": "Volksfreund"
+    },
+    {
+     "titulo": "„Das große Backen“ 2026: Wer sitzt in der Jury?",
+     "url": "https://www.augsburger-allgemeine.de/panorama/tv/das-grosse-backen-2025-jury-die-juroren-vorgestellt-1-30-9-2026-110012433",
+     "fonte": "Augsburger Allgemeine"
+    },
+    {
+     "titulo": "Die 3 Finalist:innen bei \"Das große Backen\" - doch sie ist Favoritin",
+     "url": "https://www.joyn.de/bts/serien/das-grosse-backen/finale2026-bianca-oxana-und-andre-kaempfen-um-den-sieg-wer-sticht-besonders-heraus-191996",
+     "fonte": "Joyn"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "ia": {
+    "categoria": "Entretenimento/TV",
+    "vira_video": "talvez",
+    "motivo": "Reality show tem fãs fiéis mas interesse diminui pós-final",
+    "angulo": "Melhores momentos e bastidores da temporada completa",
+    "titulo": "Das große Backen 2026: Die besten Momente und der verdiente Sieg"
+   },
+   "score": 29,
+   "rd": null
+  },
+  "trump": {
+   "termo": "trump",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "(S+) Wahlkampfhilfe für Donald Trump: USA wollen Europas Diesel-Vorräte freipressen",
+     "url": "https://www.spiegel.de/wirtschaft/wahlkampfhilfe-fuer-donald-trump-usa-wollen-europas-diesel-vorraete-freipressen-a-0e013ec0-61d3-4cb9-86d5-be36f9d8d9b5",
+     "fonte": "Spiegel"
+    },
+    {
+     "titulo": "Steigende Dieselpreise in Europa, steigende Inflation - was sind Hintergründe?",
+     "url": "https://www.dw.com/de/dieselpreis-steigt-bedeutung-f%C3%BCr-europa-%C3%B6lpreis-%C3%B6l-usa-ukraine-russland-iran-inflation-hormus/a-79458648",
+     "fonte": "DW.com"
+    },
+    {
+     "titulo": "Ölpreise: USA verlangen wohl Freigabe deutscher Dieselreserven",
+     "url": "https://www.handelsblatt.com/politik/international/oelpreise-usa-verlangen-wohl-freigabe-deutscher-dieselreserven/100258526.html",
+     "fonte": "Handelsblatt"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Política/Economia",
+    "vira_video": "sim",
+    "motivo": "Impacto econômico duradouro da política de Trump na Europa",
+    "angulo": "Como políticas de Trump afetam seu bolso diariamente",
+    "titulo": "Trump-Politik trifft Deutschland: Was die Diesel-Krise für DICH bedeutet"
+   },
+   "score": 34
+  },
+  "micron aktie": {
+   "termo": "micron aktie",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Technologie: Micron mit erneutem Rekordquartal und optimistischem Ausblick",
+     "url": "https://www.handelsblatt.com/technik/it-internet/technologie-micron-mit-erneutem-rekordquartal-und-optimistischem-ausblick/100258789.html",
+     "fonte": "Handelsblatt"
+    },
+    {
+     "titulo": "Micron überzeugt mit Zahlen-Hammer: So reagiert die Aktie auf das starke Quartal",
+     "url": "https://www.finanzen.net/nachricht/aktien/zahlen-im-fokus-micron-ueberzeugt-mit-zahlen-hammer-so-reagiert-die-aktie-auf-das-starke-quartal-15957420",
+     "fonte": "Finanzen.net"
+    },
+    {
+     "titulo": "Renes Market Minutes - Geduld ist gefragt!",
+     "url": "https://www.wallstreet-online.de/nachricht/21453141-renes-market-minutes-geduld-gefragt",
+     "fonte": "Wallstreet Online"
+    }
+   ],
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Finanças/Investimentos",
+    "vira_video": "sim",
+    "motivo": "Análise de ações tech sempre tem vida útil longa",
+    "angulo": "Oportunidade de investimento após resultados recordes",
+    "titulo": "Micron Aktie explodiert: Jetzt noch einsteigen oder zu spät?"
+   },
+   "score": 34
+  },
+  "olymp bezner": {
+   "termo": "olymp bezner",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 100,
+   "noticias": [
+    {
+     "titulo": "Deutscher Hemden-König tot: Er führte das Unternehmen an die Spitze",
+     "url": "https://www.bild.de/news/inland/deutscher-hemden-koenig-tot-er-fuehrte-das-unternehmen-an-die-spitze-6abce6957eb2c46354db2d82",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "\"Hasch koi Geld für a rechts Hemmad?\" – Olymp-Patriarch Eberhard Bezner gestorben",
+     "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101459490/olymp-hemden-patriarch-eberhard-bezner-ist-tot-er-wurde-90-jahre-alt.html",
+     "fonte": "T-Online"
+    },
+    {
+     "titulo": "Bietigheim-Bissingen: Trauer um Eberhard Bezner",
+     "url": "https://www.bietigheimerzeitung.de/inhalt.bietigheim-bissingen-trauer-um-eberhard-bezner.6164974c-4439-4e20-a3d3-b852599fcdeb.html",
+     "fonte": "bietigheimerzeitung.de"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "ia": {
+    "categoria": "Negócios",
+    "vira_video": "talvez",
+    "motivo": "Morte do empresário alemão relevante, interesse em legado",
+    "angulo": "Império das camisas: A história de Eberhard Bezner",
+    "titulo": "Eberhard Bezner: Wie er OLYMP zur deutschen Hemden-Ikone machte"
+   },
+   "score": 24
+  },
+  "argentina - bolivia": {
+   "termo": "argentina - bolivia",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 200,
+   "noticias": [
+    {
+     "titulo": "Con dos sorpresas, el 11 de la Selección para enfrentar a Bolivia",
+     "url": "https://www.ole.com.ar/seleccion/11-seleccion-enfrentar-bolivia-sorpresa_0_koLBcPSfop.html",
+     "fonte": "Olé"
+    },
+    {
+     "titulo": "¡Nico Paz le da el segundo a Argentina!",
+     "url": "https://onefootball.com/es/noticias/nico-paz-le-da-el-segundo-a-argentina-43543596",
+     "fonte": "OneFootball"
+    },
+    {
+     "titulo": "Video: así relató Gabriel Anello el gol de Lautaro Martínez para el 1 a 0 de Argentina ante Bolivia",
+     "url": "https://radiomitre.cienradios.com/videos/video-asi-relato-gabriel-anello-el-gol-de-lautaro-martinez-para-el-1-a-0-de-argentina-ante-bolivia/",
+     "fonte": "Radio Mitre"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Mesmo evento anterior, sem vida útil prolongada",
+    "angulo": "não aplicável",
+    "titulo": "não aplicável"
+   },
+   "score": 16
+  },
+  "argentina vs bolivia": {
+   "termo": "argentina vs bolivia",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Argentina vs. Bolivia: Preview, Predictions and Lineups",
+     "url": "https://www.si.com/soccer/argentina-vs-bolivia-preview-predictions-lineups-9-30-26",
+     "fonte": "Sports Illustrated"
+    },
+    {
+     "titulo": "Scaloni yet to decide who will succeed Messi",
+     "url": "https://www.beinsports.com/en-nz/football/friendlies/articles/scaloni-yet-to-decide-who-will-succeed-messi-2026-09-30",
+     "fonte": "beIN SPORTS"
+    },
+    {
+     "titulo": "Dibu as vice-captain, two doubts in Scaloni's Argentina XI v Bolivia",
+     "url": "https://onefootball.com/en/news/dibu-as-vice-captain-two-doubts-in-scalonis-argentina-xi-v-bolivia-43543117",
+     "fonte": "OneFootball"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo pontual, interesse expira após partida",
+    "angulo": "não aplicável",
+    "titulo": "não aplicável"
+   },
+   "score": 19
+  },
+  "الأرجنتين ضد بوليفيا": {
+   "termo": "الأرجنتين ضد بوليفيا",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "ما القنوات الناقلة لمباراة الأرجنتين وبوليفيا الودية؟ وكيف تشاهدها عبر الإنترنت؟",
+     "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%94%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D9%88%D8%A8%D9%88%D9%84%D9%8A%D9%81%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%83%D9%8A%D9%81-%D8%AA%D8%B4%D8%A7%D9%87%D8%AF%D9%87%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D9%95%D9%86%D8%AA%D8%B1%D9%86%D8%AA/bltbca1c607d5f2f551",
+     "fonte": "Kooora"
+    },
+    {
+     "titulo": "الأرجنتين تواجه بوليفيا فجر الخميس في أول اختبار بعد المونديال",
+     "url": "https://www.maspero.eg/sport/2026/09/30/993789/%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%A8%D9%88%D9%84%D9%8A%D9%81%D9%8A%D8%A7-%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D9%81%D9%8A-%D8%A3%D9%88%D9%84-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84",
+     "fonte": "الهيئة الوطنية للإعلام"
+    },
+    {
+     "titulo": "القنوات الناقلة لمباراة الأرجنتين وبوليفيا مباشر والموعد.. هل يشارك ميسي؟",
+     "url": "https://www.almasryalyoum.com/news/details/4371930",
+     "fonte": "المصري اليوم"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Termo em árabe para mercado alemão, relevância mínima",
+    "angulo": "não aplicável",
+    "titulo": "não aplicável"
+   },
+   "score": 17
+  },
+  "pak vs ban": {
+   "termo": "pak vs ban",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "1st Semi-Final, Nisshin, October 01, 2026 Asian Games Men's Cricket Competition",
+     "url": "https://www.cricinfo.com/series/asian-games-men-s-cricket-competition-2026-1552449/bangladesh-vs-pakistan-1st-semi-final-1552776/live-cricket-score",
+     "fonte": "Cricinfo"
+    },
+    {
+     "titulo": "Pakistan vs Bangladesh, 1st Semi-Final, Asian Games 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+     "url": "https://www.cricbuzz.com/live-cricket-scores/171051/pak-vs-ban-1st-semi-final-asian-games-2026",
+     "fonte": "Cricbuzz"
+    },
+    {
+     "titulo": "Yasir Ali took 16 off Muqeem’s last over for bronze in 2023, and Bangladesh meet Pakistan again for a place in the final",
+     "url": "https://www.sportsadda.asia/cricket/news/yasir-ali-took-16-off-muqeems-last-over-for-bronze-in-2023-and-bangladesh-meet-pakistan-again-for-a-place-in-the-final/",
+     "fonte": "SportsAdda"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Partida específica, audiência alemã limitada para críquete asiático",
+    "angulo": "não aplicável",
+    "titulo": "não aplicável"
+   },
+   "score": 17
   }
  }
 }

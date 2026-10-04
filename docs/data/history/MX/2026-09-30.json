@@ -1,11 +1,11 @@
 {
  "data": "2026-09-30",
- "rodadas": 4,
+ "rodadas": 6,
  "termos": {
   "andrea chávez treviño": {
    "termo": "andrea chávez treviño",
    "primeira_vez": "2026-09-30T17:05:09.937456Z",
-   "aparicoes": 4,
+   "aparicoes": 6,
    "trafego": 2000,
    "noticias": [
     {
@@ -24,7 +24,7 @@
      "fonte": "La Política Online"
     }
    ],
-   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
    "yt": {
     "videos_7d": 25,
     "com_10k": 16,
@@ -495,7 +495,7 @@
   "ticketmaster": {
    "termo": "ticketmaster",
    "primeira_vez": "2026-09-30T17:38:37.542284Z",
-   "aparicoes": 2,
+   "aparicoes": 4,
    "trafego": 2000,
    "noticias": [
     {
@@ -514,7 +514,7 @@
      "fonte": "Law360"
     }
    ],
-   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
    "yt": {
     "videos_7d": 25,
     "com_10k": 12,
@@ -535,13 +535,13 @@
     "angulo": "Cómo protegerte de bots y conseguir boletos realmente",
     "titulo": "TICKETMASTER PIERDE: Así Puedes Conseguir Boletos Sin Que Los Bots Te Ganen"
    },
-   "score": 51
+   "score": 59
   },
   "30 de septiembre": {
    "termo": "30 de septiembre",
    "primeira_vez": "2026-09-30T19:44:40.720001Z",
-   "aparicoes": 1,
-   "trafego": 2000,
+   "aparicoes": 3,
+   "trafego": 20000,
    "noticias": [
     {
      "titulo": "Las de hoy | 30 de septiembre de 2026",
@@ -559,7 +559,7 @@
      "fonte": "Lecturas"
     }
    ],
-   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
    "yt": {
     "videos_7d": 25,
     "com_10k": 25,
@@ -580,13 +580,13 @@
     "angulo": "N/A",
     "titulo": "N/A"
    },
-   "score": 23
+   "score": 32
   },
   "nacional monte de piedad": {
    "termo": "nacional monte de piedad",
    "primeira_vez": "2026-09-30T19:44:40.720001Z",
-   "aparicoes": 1,
-   "trafego": 2000,
+   "aparicoes": 3,
+   "trafego": 10000,
    "noticias": [
     {
      "titulo": "La huelga del Monte de Piedad cumple un año en México. Esto puedes hacer con tus productos empeñados",
@@ -604,7 +604,7 @@
      "fonte": "Reporte Indigo"
     }
    ],
-   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
    "yt": {
     "videos_7d": 1,
     "com_10k": 0,
@@ -625,13 +625,13 @@
     "angulo": "Alternativas seguras para empeñar y recuperar tus objetos de valor",
     "titulo": "Monte de Piedad en Crisis: Qué Hacer con Tus Prendas Empeñadas AHORA"
    },
-   "score": 48
+   "score": 62
   },
   "braves - phillies": {
    "termo": "braves - phillies",
    "primeira_vez": "2026-09-30T19:44:40.720001Z",
-   "aparicoes": 1,
-   "trafego": 1000,
+   "aparicoes": 3,
+   "trafego": 2000,
    "noticias": [
     {
      "titulo": "LIVE: Phillies-Braves NL Wild Card Series Game 2 on NBC/Peacock",
@@ -649,7 +649,7 @@
      "fonte": "Sports Illustrated"
     }
    ],
-   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
    "yt": {
     "videos_7d": 25,
     "com_10k": 25,
@@ -670,13 +670,13 @@
     "angulo": "Análisis táctico y momentos clave de la serie histórica",
     "titulo": "Braves vs Phillies: Los 5 Momentos Que Definieron Esta Serie Épica"
    },
-   "score": 36
+   "score": 46
   },
   "frío": {
    "termo": "frío",
    "primeira_vez": "2026-09-30T19:44:40.720001Z",
-   "aparicoes": 1,
-   "trafego": 5000,
+   "aparicoes": 2,
+   "trafego": 10000,
    "noticias": [
     {
      "titulo": "Adiós al calor: tendremos intensas lluvias y notable descenso de temperaturas por humedad, frentes fríos y aire polar",
@@ -694,7 +694,7 @@
      "fonte": "El Informador"
     }
    ],
-   "ultima_vez": "2026-09-30T19:44:40.720001Z",
+   "ultima_vez": "2026-09-30T23:21:32.242123Z",
    "yt": {
     "videos_7d": 25,
     "com_10k": 25,
@@ -715,7 +715,7 @@
     "angulo": "Guía completa de supervivencia y ahorro durante temporada de frío",
     "titulo": "Frente Frío en México: 10 Trucos para Sobrevivir y Ahorrar en Calefacción"
    },
-   "score": 46
+   "score": 52
   },
   "facebook": {
    "termo": "facebook",
@@ -761,6 +761,207 @@
     "titulo": "Cambridge Analytica: Cómo Facebook Vendió Tus Datos y Cómo Protegerte Ahora"
    },
    "score": 51
+  },
+  "argentina - bolivia": {
+   "termo": "argentina - bolivia",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 200000,
+   "noticias": [
+    {
+     "titulo": "Los antecedentes de la Selección Argentina en Córdoba",
+     "url": "https://www.espn.com.mx/futbol/mundial/nota/_/id/4977719/seleccion-argentina-antecedentes-en-cordoba-historial",
+     "fonte": "ESPN México"
+    },
+    {
+     "titulo": "A qué hora juega Argentina hoy",
+     "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17320651/a-que-hora-juega-argentina-hoy",
+     "fonte": "ESPN Deportes"
+    },
+    {
+     "titulo": "Dónde ver Argentina vs Bolivia: Hora y canal TV para el amistoso de Fecha FIFA",
+     "url": "https://www.marca.com/mx/futbol/mas-futbol/2026/09/30/ver-argentina-vs-bolivia-hora-canal-tv-amistoso-fecha-fifa.html",
+     "fonte": "MARCA"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 69713,
+    "outlier": 82.3,
+    "melhor": {
+     "titulo": "BOCA 3-2 RACING  | ¡HISTÓRICA REMONTADA DEL XENEIZE! | Copa Argentina 2026 | Cuartos de final",
+     "canal": "TyC Sports",
+     "views": 5028665,
+     "url": "https://youtu.be/vZ44aXc7uCc"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Jogo pontual mas análise tática e histórico rendem conteúdo",
+    "angulo": "Rivalidade histórica e comparação de estilos de jogo sul-americanos",
+    "titulo": "Argentina vs Bolivia: Historia, Rivalidad y Análisis Táctico Completo"
+   },
+   "score": 57
+  },
+  "zoé robledo aburto": {
+   "termo": "zoé robledo aburto",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 20000,
+   "noticias": [
+    {
+     "titulo": "Amplía México investigaciones por muerte de 5 bebés en hospital de Durango",
+     "url": "https://elcomentario.ucol.mx/?p=354343",
+     "fonte": "El Comentario"
+    },
+    {
+     "titulo": "Padres de bebés fallecidos en IMSS Durango aún no llegan a acuerdo reparatorio; piden justicia",
+     "url": "https://www.elfinanciero.com.mx/estados/2026/09/29/padres-de-bebes-fallecidos-en-imss-durango-aun-no-llegan-a-acuerdo-reparatorio-piden-justicia/",
+     "fonte": "El Financiero"
+    },
+    {
+     "titulo": "Investiga IMSS muertes de bebés en Durango por tres vías",
+     "url": "https://www.reforma.com/investiga-imss-muertes-de-bebes-en-durango-por-tres-vias/ar3284797",
+     "fonte": "Reforma"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 1,
+    "top_vph": 189,
+    "outlier": 0.4,
+    "melhor": {
+     "titulo": "IMSS mantiene investigación médica y legal por muerte de cinco bebés en Durango",
+     "canal": "MILENIO",
+     "views": 3759,
+     "url": "https://youtu.be/02g09ATgfoM"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Notícias/Atualidades",
+    "vira_video": "nao",
+    "motivo": "Notícia pontual sobre tragédia sem potencial de conteúdo duradouro",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 33
+  },
+  "el financiero": {
+   "termo": "el financiero",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "La liquidez global y la caída del peso",
+     "url": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/30/la-liquidez-global-y-la-caida-del-peso/",
+     "fonte": "El Financiero"
+    },
+    {
+     "titulo": "¿Por qué el dólar fuerte no alcanza para explicar la depreciación del peso?",
+     "url": "https://www.eleconomista.com.mx/opinion/dolar-fuerte-alcanza-explicar-depreciacion-peso-20260930-836047.html",
+     "fonte": "El Economista"
+    },
+    {
+     "titulo": "Desliz",
+     "url": "https://www.reforma.com/desliz-2026-09-30/op321669",
+     "fonte": "Reforma"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Economia/Finanças",
+    "vira_video": "talvez",
+    "motivo": "Tema econômico educativo mas vinculado a notícia momentânea do peso",
+    "angulo": "Explicação didática sobre como dólar afeta economia mexicana cotidiana",
+    "titulo": "Por Qué el Dólar Afecta Tu Bolsillo en México | Explicación Simple"
+   },
+   "score": 35
+  },
+  "carls junior": {
+   "termo": "carls junior",
+   "primeira_vez": "2026-09-30T23:21:32.242123Z",
+   "aparicoes": 2,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "¿A qué hora inicia la promoción de Carl's Jr. para obtener una hamburguesa a 35 pesos HOY 30 de septiembre?",
+     "url": "https://www.milenio.com/consejos/carls-jr-hora-inicio-promocion-hamburguesas-35-pesos-30-septiembre",
+     "fonte": "Milenio"
+    },
+    {
+     "titulo": "Carl’s Jr: ¿Cuál es la historia de este restaurante, quién es su dueño y cuál fue su primera sucursal en México?",
+     "url": "https://www.cronica.com.mx/negocios/2026/09/30/carls-jr-cual-es-la-historia-de-este-restaurante-quien-es-su-dueno-y-cual-fue-su-primera-sucursal-en-mexico/",
+     "fonte": "La Crónica de Hoy"
+    },
+    {
+     "titulo": "Carl's Jr. vende hoy su Famous Star a 35 pesos por su aniversario en México",
+     "url": "https://www.informador.mx/economia/carls-jr.-vende-hoy-su-famous-star-a-35-pesos-por-su-aniversario-en-mexico-20260930-0055.html",
+     "fonte": "El Informador"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 2,
+    "top_vph": 5180,
+    "outlier": 38.4,
+    "melhor": {
+     "titulo": "nadie tiene que saber que esto fue un rescate de último minuto 🤫🍔  @Carl's Jr. México @UberEnEspa",
+     "canal": "xKaren Torresx",
+     "views": 770996,
+     "url": "https://youtu.be/oPkYOit_ik8"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Gastronomia/Entretenimento",
+    "vira_video": "sim",
+    "motivo": "Marca popular, review de comida e história rendem conteúdo perene",
+    "angulo": "Teste de todas as hamburguesas e história da marca no México",
+    "titulo": "Probé TODAS las Hamburguesas de Carl's Jr en México | Ranking Definitivo"
+   },
+   "score": 66
+  },
+  "yankees - red sox": {
+   "termo": "yankees - red sox",
+   "primeira_vez": "2026-10-01T00:49:27.257615Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Red Sox-Yankees AL Wild Card Series Game 2 FAQ, lineups (8 ET, NBC/Peacock)",
+     "url": "https://www.mlb.com/news/red-sox-vs-yankees-al-wild-card-series-game-2-starting-lineups-pitching-matchup-2026",
+     "fonte": "MLB.com"
+    },
+    {
+     "titulo": "New York Yankees vs Boston Red Sox LIVE Score Updates in MLB Postseason Game",
+     "url": "https://www.vavel.com/en-us/mlb/2026/09/30/1273387-yankees-vs-red-sox-live-score-mlb-postseason-game-2.html",
+     "fonte": "VAVEL.com"
+    },
+    {
+     "titulo": "Red Sox's Projected Playoff Roster for 2026 ALWCS, Including Garrett Crochet",
+     "url": "https://www.si.com/mlb/red-sox/onsi/red-sox-s-projected-playoff-roster-for-2026-alwcs-including-garrett-crochet-pat3",
+     "fonte": "Sports Illustrated"
+    }
+   ],
+   "ultima_vez": "2026-10-01T00:49:27.257615Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Rivalidade histórica permite conteúdo perene além do jogo específico",
+    "angulo": "Análisis táctico y comparación histórica de la rivalidad MLB",
+    "titulo": "Yankees vs Red Sox: La VERDADERA Historia de la Rivalidad Más Intensa"
+   },
+   "score": 34
   }
  }
 }

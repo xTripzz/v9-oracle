@@ -1,0 +1,358 @@
+{
+ "data": "2026-10-01",
+ "rodadas": 1,
+ "termos": {
+  "manny machado": {
+   "termo": "manny machado",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Former 5-time MLB All-Star calls Manny Machado ‘misunderstood’",
+     "url": "https://sports.yahoo.com/articles/former-5-time-mlb-star-022816251.html",
+     "fonte": "Yahoo Sports"
+    },
+    {
+     "titulo": "Former 5-time MLB All-Star calls Manny Machado ‘misunderstood’",
+     "url": "https://nypost.com/2026/09/30/sports/adam-jones-refutes-negative-manny-machado-label-and-calls-him-misunderstood/",
+     "fonte": "New York Post"
+    },
+    {
+     "titulo": "Cubs-Padres NL Wild Card Series Game 2: LIVE on Peacock/NBCSN",
+     "url": "https://www.mlb.com/news/cubs-vs-padres-nl-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
+     "fonte": "MLB.com"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 9521,
+    "outlier": 4073.1,
+    "melhor": {
+     "titulo": "El no pudo #mlbplayoffs#mlb#beisbol#baseball#mlbhighlights#baseballhighlights#sports#postseason",
+     "canal": "Michael Deportes ",
+     "views": 127026,
+     "url": "https://youtu.be/ndZQ3XpYFVk"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes - Baseball",
+    "vira_video": "sim",
+    "motivo": "Personalidade controversa gera debate contínuo e engajamento",
+    "angulo": "Por que Machado é mal compreendido - análise profunda",
+    "titulo": "The Truth About Manny Machado: MLB's Most Misunderstood Superstar"
+   },
+   "score": 40
+  },
+  "azzi fudd": {
+   "termo": "azzi fudd",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Olivia Miles Is on the 2026 TIME100 Next",
+     "url": "https://time.com/collection/time100-next/2026/olivia-miles/",
+     "fonte": "Time Magazine"
+    },
+    {
+     "titulo": "Lynx's Olivia Miles unanimous WNBA Rookie of the Year",
+     "url": "https://www.espn.com/wnba/story/_/id/50052151/lynx-olivia-miles-unanimous-wnba-rookie-year",
+     "fonte": "ESPN"
+    },
+    {
+     "titulo": "Cheryl Reeve Wins 2026 Coach of the Year Award",
+     "url": "https://www.wnba.com/news/reeve-named-2026-coach-of-the-year",
+     "fonte": "WNBA"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes - Basquete",
+    "vira_video": "nao",
+    "motivo": "Notícias sobre outra jogadora, não Azzi diretamente",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 17
+  },
+  "kai cenat stream": {
+   "termo": "kai cenat stream",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Kevin Hart, Kai Cenat and Druski’s ‘Livestream From Hell’ arrives on Prime Video without prior release dat",
+     "url": "https://m.economictimes.com/news/international/us/kevin-hart-kai-cenat-and-druskis-livestream-from-hell-arrives-on-prime-video-without-prior-release-date/articleshow/134605862.cms",
+     "fonte": "The Economic Times"
+    },
+    {
+     "titulo": "Kai Cenat, Druski And Kevin Hart Drop Horror Comedy On Prime Video",
+     "url": "https://sports.ndtv.com/us/us-streamers/kai-cenat-druski-and-kevin-hart-drop-horror-comedy-on-prime-video-12120985",
+     "fonte": "NDTV Sports"
+    },
+    {
+     "titulo": "Kai Cenat, Druski and Kevin Hart Surprise Drop ‘Livestream From Hell’ on Prime Video",
+     "url": "https://whatstrending.com/kai-cenat-druski-and-kevin-hart-surprise-drop-livestream-from-hell-on-prime-video/",
+     "fonte": "What's Trending ·"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Entretenimento - Streaming",
+    "vira_video": "sim",
+    "motivo": "Lançamento Prime Video gera interesse em análise e reações",
+    "angulo": "Review e melhores momentos do filme de horror comédia",
+    "titulo": "Kai Cenat & Kevin Hart's 'Livestream From Hell' - Full Review & Reactions"
+   },
+   "score": 32
+  },
+  "marco rubio": {
+   "termo": "marco rubio",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Scoop: Rubio ordered Iranian delegation to leave the country, U.S. official says",
+     "url": "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
+     "fonte": "Axios"
+    },
+    {
+     "titulo": "US official said Secretary of State Rubio demanded on Monday that Iran's delegation to the UN General Assembly immediately leave the country after negotiations stalled, according to Axios",
+     "url": "https://www.newsquawk.com/headlines/us-official-said-secretary-of-state-rubio-demanded-on-monday-that-irans-delegation-to-the-un-general-assembly-immediately-leave-the-country-after-negotiations-stalled-according-to-axios",
+     "fonte": "Newsquawk"
+    },
+    {
+     "titulo": "Axios: Rubio kicked the Iranian delegation out of the US",
+     "url": "https://www.eadaily.com/en/news/2026/10/01/axios-rubio-kicked-the-iranian-delegation-out-of-the-us",
+     "fonte": "EADaily"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "nao",
+    "motivo": "Notícia diplomática específica com ciclo curto",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 17
+  },
+  "cook islands vs tahiti": {
+   "termo": "cook islands vs tahiti",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "**((Live HD!!)) Watch Cook Islands vs Tahiti Match Live Update fixtures & results 26 September 2026",
+     "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3VybW5reTEyNC5naXRodWIuaW8vbmV3cy9uaS54bWwiLz48L2tycGFubz4=&id=cok-tahi-lie-en-uagsvsojskhcn1",
+     "fonte": "CzechInvest"
+    },
+    {
+     "titulo": "The Cook Islands’ Long Journey Back to Home Soil",
+     "url": "https://www.soccerbible.com/features/2026/09/the-cook-islands-long-journey-back-to-home-soil/",
+     "fonte": "SoccerBible"
+    },
+    {
+     "titulo": "Cook Islands vs Tahiti Prediction & Head to Head » Betfair™",
+     "url": "https://betting.betfair.com/football/predictions/internationals/cook-islands-vs-tahiti/dfcv4a69655b4nnxgb8u9q6tw/",
+     "fonte": "Betfair"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes - Futebol",
+    "vira_video": "nao",
+    "motivo": "Jogo específico sem apelo além do evento",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 17
+  },
+  "pete crow armstrong": {
+   "termo": "pete crow armstrong",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Chicago Cubs at San Diego Padres Preview - 09/30/2026",
+     "url": "https://www.mlb.com/stories/game-preview/849842",
+     "fonte": "MLB"
+    },
+    {
+     "titulo": "Pete Crow-Armstrong just wrapped up one of the best Cubs seasons ever, and he's not done yet",
+     "url": "https://www.cbssports.com/mlb/news/pete-crow-armstrong-best-cubs-seasons-ever-playoffs/",
+     "fonte": "CBS Sports"
+    },
+    {
+     "titulo": "Pete Crow-Armstrong — with ‘more to prove’ — is eager to help Chicago Cubs start the postseason strong",
+     "url": "https://www.chicagotribune.com/2026/09/29/chicago-cubs-san-diego-padres-pete-crow-armstrong-2/",
+     "fonte": "Chicago Tribune"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes - Baseball",
+    "vira_video": "sim",
+    "motivo": "Temporada histórica jovem jogador atrai fãs long-term",
+    "angulo": "Breakdown completo da temporada histórica do Cubs rookie",
+    "titulo": "Pete Crow-Armstrong's Historic Cubs Season: Best Rookie Performance Ever?"
+   },
+   "score": 34
+  },
+  "ty france": {
+   "termo": "ty france",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "The Replacements: These minor-league signings and valuable vets have been key to the Padres' 2026 success",
+     "url": "https://www.sandiegouniontribune.com/2026/09/27/much-of-padres-success-in-26-owes-to-finding-the-replacements/",
+     "fonte": "San Diego Union-Tribune"
+    },
+    {
+     "titulo": "San Diego's Ty France Named As Potential Playoff Star",
+     "url": "https://roundtable.io/sports/mlb/padres/news/san-diegos-ty-france-named-as-potential-playoff-star",
+     "fonte": "roundtable.io"
+    },
+    {
+     "titulo": "Ty France Nearly Missed a $200,000 Bonus Until the Final Inning",
+     "url": "https://sports.yahoo.com/articles/ty-france-nearly-missed-200-154000701.html",
+     "fonte": "Yahoo Sports"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "yt": {
+    "videos_7d": 8,
+    "com_10k": 2,
+    "top_vph": 631,
+    "outlier": 4.6,
+    "melhor": {
+     "titulo": "Vengeance",
+     "canal": "David King",
+     "views": 88140,
+     "url": "https://youtu.be/H3eNCzinJ4I"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes - Baseball",
+    "vira_video": "talvez",
+    "motivo": "Playoff star potential tem apelo sazonal limitado",
+    "angulo": "Análise completa: como jogadores veteranos salvam playoffs",
+    "titulo": "How Ty France Became the Padres' Secret Playoff Weapon"
+   },
+   "score": 46
+  },
+  "will warren": {
+   "termo": "will warren",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Warren dominant in potential playoff role as Yanks prep to face Red Sox",
+     "url": "https://www.mlb.com/news/will-warren-helps-yankees-beat-orioles-in-doubleheader-nightcap",
+     "fonte": "MLB.com"
+    },
+    {
+     "titulo": "Yankees’ best bullpen audition came from a starting pitcher",
+     "url": "https://sports.yahoo.com/articles/yankees-best-bullpen-audition-came-174903938.html",
+     "fonte": "Yahoo Sports"
+    },
+    {
+     "titulo": "Will Warren fans seven in short outing against Orioles",
+     "url": "https://www.fantasypros.com/mlb/news/610769/will-warren-fans-seven-short-outing-against-orioles.php",
+     "fonte": "FantasyPros"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes - Baseball",
+    "vira_video": "talvez",
+    "motivo": "Relevância limitada a playoffs Yankees curto prazo",
+    "angulo": "Análise tática: starter virando bullpen weapon nos playoffs",
+    "titulo": "Will Warren's Dominant Audition: Yankees' Secret Playoff Weapon?"
+   },
+   "score": 29
+  },
+  "dansby swanson": {
+   "termo": "dansby swanson",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Chicago Cubs Announce Interesting Seiya Suzuki Decision Before MLB Playoffs",
+     "url": "https://sports.yahoo.com/articles/chicago-cubs-announce-interesting-seiya-013137138.html",
+     "fonte": "Yahoo Sports"
+    },
+    {
+     "titulo": "Cubs’ Dansby Swanson Makes Honest Statement Before Wild Card Game 2 vs. Padres",
+     "url": "https://heavy.com/sports/mlb/chicago-cubs/dansby-swanson-honest-statement-padres-series/",
+     "fonte": "Heavy.com"
+    },
+    {
+     "titulo": "Dansby Swanson, Cubs shortstop vs Padres in MLB Wild Card series, Vanderbilt baseball star",
+     "url": "https://www.tennessean.com/picture-gallery/sports/college/vanderbilt/2026/09/28/dansby-swanson-cubs-mlb-playoffs-vanderbilt-baseball/3258211002/",
+     "fonte": "The Tennessean"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "ia": {
+    "categoria": "Esportes - Baseball",
+    "vira_video": "talvez",
+    "motivo": "Declarações playoffs têm vida curta pós-eliminação",
+    "angulo": "Liderança Swanson e decisões Cubs para Wild Card",
+    "titulo": "Dansby Swanson's Honest Take Before Cubs Wild Card Game 2"
+   },
+   "score": 29
+  },
+  "cory booker": {
+   "termo": "cory booker",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Republicans wanted Jack Smith to give them a smoking gun. They got a gaffe instead.",
+     "url": "https://www.politico.com/news/2026/09/29/jack-smith-hearing-senate-judiciary-01098107",
+     "fonte": "Politico"
+    },
+    {
+     "titulo": "Opinion | Chaos at Jack Smith’s Senate Hearing",
+     "url": "https://www.nytimes.com/2026/09/30/opinion/jack-smith-senate-hearing.html",
+     "fonte": "The New York Times"
+    },
+    {
+     "titulo": "An embarrassing moment for the GOP, a confident witness and other takeaways from Jack Smith’s hearing",
+     "url": "https://www.cnn.com/2026/09/29/politics/jack-smith-testimony-basketball-takeaways",
+     "fonte": "CNN"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "nao",
+    "motivo": "Audiência específica sem valor duradouro",
+    "angulo": "N/A",
+    "titulo": "N/A"
+   },
+   "score": 17
+  }
+ }
+}

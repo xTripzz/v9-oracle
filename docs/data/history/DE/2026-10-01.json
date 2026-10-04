@@ -1,0 +1,334 @@
+{
+ "data": "2026-10-01",
+ "rodadas": 1,
+ "termos": {
+  "barcelona": {
+   "termo": "barcelona",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 100,
+   "noticias": [
+    {
+     "titulo": "Laporta: “Quería a Lautaro a toda costa”",
+     "url": "https://as.com/futbol/primera/laporta-queria-a-lautaro-a-toda-costa-f202609-n/",
+     "fonte": "Diario AS"
+    },
+    {
+     "titulo": "Laporta: \"Queríamos a Lautaro pero respeto a Marotta\"",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232837/laporta-queriamos-lautaro-respeto-marotta.html",
+     "fonte": "Mundo Deportivo"
+    },
+    {
+     "titulo": "\"Lo queríamos a cualquier precio\": un gigante de Europa confirmó que buscó a Lautaro Martínez y no pudo ficharlo",
+     "url": "https://www.clarin.com/deportes/queriamos-cualquier-precio-gigante-europa-confirmo-busco-lautaro-martinez-pudo-ficharlo_0_BiOgcF3eR1.html",
+     "fonte": "Clarin.com"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Declarações sobre transferência geram especulação mas notícia envelhece rápido",
+    "angulo": "Estratégia de contratações do Barcelona analisada",
+    "titulo": "Laporta wollte Lautaro: Barças Transfer-Strategie analysiert"
+   },
+   "score": 24
+  },
+  "benzinpreise": {
+   "termo": "benzinpreise",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 100,
+   "noticias": [
+    {
+     "titulo": "Wie lange noch Benzinpreis-Ärger? Wann Experten mit echter Entspannung rechnen",
+     "url": "https://www.morgenpost.de/politik/article413257945/wie-lange-noch-benzinpreis-aerger-wann-experten-mit-echter-entspannung-rechnen.html",
+     "fonte": "Berliner Morgenpost"
+    },
+    {
+     "titulo": "Ölmarkt: Warum der große Ölschock ausbleibt. Noch",
+     "url": "https://www.zeit.de/2026/41/oelmarkt-iran-hormus-china-preise-weltwirtschaft/komplettansicht",
+     "fonte": "DIE ZEIT"
+    },
+    {
+     "titulo": "Sprit-Klau! Immer mehr Fahrer tanken und verduften",
+     "url": "https://www.bild.de/politik/inland/sprit-klau-immer-mehr-fahrer-tanken-und-verduften-6abbaaad72f1dd17be2d2f20",
+     "fonte": "BILD"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Economia/Consumo",
+    "vira_video": "sim",
+    "motivo": "Preocupação contínua dos consumidores com previsões de longo prazo",
+    "angulo": "Quando realmente os preços vão cair",
+    "titulo": "Benzinpreise 2025: Wann kommt die echte Entspannung?"
+   },
+   "score": 26
+  },
+  "hape kerkeling": {
+   "termo": "hape kerkeling",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 100,
+   "noticias": [
+    {
+     "titulo": "Kerkeling zu Parteiverbot: „AfD-Wähler ruinieren Zukunft ihrer Kinder“",
+     "url": "https://www.bild.de/politik/inland/kerkeling-zu-parteiverbot-afd-waehler-ruinieren-zukunft-ihrer-kinder-6abd4491ca5c42fe8f9310be",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "AfD-Verbot: Hape Kerkeling fordert Beginn eines AfD-Verbotsverfahrens",
+     "url": "https://www.zeit.de/politik/deutschland/2026-09/hape-kerkeling-afd-nationalsozialismus-verfassungsfeindlichkeit-thueringen",
+     "fonte": "DIE ZEIT"
+    },
+    {
+     "titulo": "Anhörung im Thüringer Landtag: Hape Kerkeling fordert AfD-Verbotsverfahren – doch reichen die Beweise?",
+     "url": "https://www.welt.de/politik/deutschland/plus6abba6fe075de12d78a8d981/anhoerung-im-thueringer-landtag-hape-kerkeling-fordert-afd-verbotsverfahren-doch-reichen-die-beweise.html",
+     "fonte": "WELT"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Política/Celebridades",
+    "vira_video": "talvez",
+    "motivo": "Declaração polêmica de celebridade sobre tema político atual gera debate",
+    "angulo": "Celebridades alemãs se posicionando politicamente",
+    "titulo": "Hape Kerkeling zur AfD: Warum Promis jetzt Stellung beziehen"
+   },
+   "score": 24
+  },
+  "argentyna – boliwia": {
+   "termo": "argentyna – boliwia",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 100,
+   "noticias": [
+    {
+     "titulo": "Argentyna zwyciężyła na początek ery bez Messiego",
+     "url": "https://sportowefakty.wp.pl/pilka-nozna/1276824/argentyna-zwyciezyla-na-poczatek-ery-bez-messiego",
+     "fonte": "SportoweFakty"
+    },
+    {
+     "titulo": "NA ŻYWO Argentyna kontra Boliwia Na żywo: Mecz w toku",
+     "url": "https://www.vietnam.vn/pl/truc-tieptruc-tiep-argentina-vs-bolivia-tran-dau-dang-dien-ra",
+     "fonte": "Vietnam.vn"
+    },
+    {
+     "titulo": "Lautaro Martínez i Julián Álvarez od pierwszej minuty? Przewidywany skład Argentyny na Boliwię",
+     "url": "https://intermediolan.com/aktualnosci/48476/lautaro-martinez-i-julian-alvarez-od-pierwszej-minuty-przewidywany-sklad-argentyny-na-boliwie",
+     "fonte": "intermediolan.com"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico já realizado sem relevância futura",
+    "angulo": "Não aplicável",
+    "titulo": "Não aplicável"
+   },
+   "score": 14
+  },
+  "ausschuss": {
+   "termo": "ausschuss",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 100,
+   "noticias": [
+    {
+     "titulo": "Der Ständige Ausschuss der Nationalversammlung gibt Stellungnahmen zur Änderung des Gesetzes über Land, Wohnungsbau und Immobilienwirtschaft ab.",
+     "url": "https://www.vietnam.vn/de/thuong-vu-quoc-hoi-cho-y-kien-sua-luat-dat-dai-nha-o-kinh-doanh-bat-dong-san",
+     "fonte": "Vietnam.vn"
+    },
+    {
+     "titulo": "Förderung des Einsatzes digitaler Technologien und künstlicher Intelligenz bei der Gesetzgebung.",
+     "url": "https://www.vietnam.vn/de/day-manh-ung-dung-cong-nghe-so-tri-tue-nhan-tao-trong-xay-dung-phap-luat",
+     "fonte": "Vietnam.vn"
+    },
+    {
+     "titulo": "Gewährleistung von Disziplin, Ordnung, Qualität und Effektivität der 2. Sitzung der 16. Nationalversammlung.",
+     "url": "https://www.vietnam.vn/de/bao-dam-ky-luat-ky-cuong-chat-luong-va-hieu-qua-cua-ky-hop-thu-2-quoc-hoi-khoa-xvi",
+     "fonte": "Vietnam.vn"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "nao",
+    "motivo": "Termo genérico sobre comissões parlamentares sem gancho específico alemão",
+    "angulo": "Não aplicável",
+    "titulo": "Não aplicável"
+   },
+   "score": 14
+  },
+  "bündnis sahra wagenknecht": {
+   "termo": "bündnis sahra wagenknecht",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "BSW tritt ab sofort mit neuem Parteinamen an - Abkürzung bleibt",
+     "url": "https://www.n-tv.de/politik/BSW-kriegt-einen-neuen-Parteinamen-Abkuerzung-bleibt-id31366199.html",
+     "fonte": "n-tv.de"
+    },
+    {
+     "titulo": "„BSW bleibt BSW“: So nennt sich die Partei ab Oktober – ohne Sahra Wagenknecht",
+     "url": "https://www.berliner-zeitung.de/article/bsw-neuer-name-ohne-sahra-wagenknecht-10446658",
+     "fonte": "Berliner Zeitung"
+    },
+    {
+     "titulo": "BSW legt Namen der Gründerin ab - jetzt in echt",
+     "url": "https://www.gn-online.de/deutschland-und-welt/bsw-legt-namen-der-gruenderin-ab-jetzt-in-echt-624105.html",
+     "fonte": "GN-Online"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "talvez",
+    "motivo": "Mudança de nome partidário gera curiosidade sobre estratégia política futura",
+    "angulo": "Por que remover Wagenknecht do nome agora",
+    "titulo": "BSW ohne Wagenknecht im Namen: Was steckt dahinter?"
+   },
+   "score": 36
+  },
+  "spritpreise": {
+   "termo": "spritpreise",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
+     "fonte": "tagesschau.de"
+    },
+    {
+     "titulo": "Neuer Tankrabatt senkt die Spritpreise: 17 Cent weniger!",
+     "url": "https://www.bild.de/politik/inland/neuer-tankrabatt-senkt-die-spritpreise-17-cent-weniger-6abd7ce7ca5c42fe8f9312a9",
+     "fonte": "BILD"
+    },
+    {
+     "titulo": "Gesetzliche Neuregelungen im Oktober 2026",
+     "url": "https://www.bundesregierung.de/breg-de/aktuelles/gesetzliche-neuregelungen-oktober-2026-2454624",
+     "fonte": "Bundesregierung"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Economia/Consumo",
+    "vira_video": "sim",
+    "motivo": "Tema recorrente que afeta consumidores diariamente com impacto financeiro direto",
+    "angulo": "Como economizar ainda mais além do desconto",
+    "titulo": "Tankrabatt 2025: So sparen Sie noch mehr Geld beim Tanken"
+   },
+   "score": 37
+  },
+  "аргентина – боливия": {
+   "termo": "аргентина – боливия",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 100,
+   "noticias": [
+    {
+     "titulo": "Гол Лаутаро Мартинеса. Аргентина - Боливия. 1:0 (видео). Товарищеский матч. Футбол",
+     "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbvideo_NI2370130_clip_Gol_Lautaro_Martinesa_Argentina___Bolivija_10_video_Tovarishheskij_match_Futbol",
+     "fonte": "Sportbox"
+    },
+    {
+     "titulo": "Сборная Аргентины разгромила Боливию в первом матче после проигранного финала ЧМ-2026",
+     "url": "https://www.championat.ru/football/news-6640090-argentina-boliviya-rezultat-matcha-1-oktyabrya-2026-goda-schet-4-0-futbol-tovarischeskij-match.html",
+     "fonte": "https://www.championat.ru/"
+    },
+    {
+     "titulo": "Сборная Аргентины разгромила Боливию в товарищеском матче",
+     "url": "https://sport24.ru/football/news-886198-sbornaya-argentiny-razgromila-boliviyu-v-tovarishcheskom-matche",
+     "fonte": "Sport24.ru"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico já encerrado sem valor duradouro",
+    "angulo": "Não aplicável",
+    "titulo": "Não aplicável"
+   },
+   "score": 14
+  },
+  "große backen": {
+   "termo": "große backen",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "Sieg im Finale: Wer hat „Das große Backen“ 2026 gewonnen?",
+     "url": "https://www.volksfreund.de/nachrichten/boulevard/entertainment/das-grosse-backen-2026-wer-hat-im-finale-gewonnen_aid-150853847",
+     "fonte": "Volksfreund"
+    },
+    {
+     "titulo": "Sie kam vor 25 Jahren aus Russland: Pflegefachkraft Oxana gewinnt \"Das große Backen\" bei SAT.1",
+     "url": "https://mail.freenet.de/unterhaltung/medien/sie-kam-vor-25-jahren-aus-russland-pflegefachkraft-oxana-gewinnt-das-grosse-backen-bei-sat.1-40522002.html",
+     "fonte": "freenet Mail"
+    },
+    {
+     "titulo": "\"Das große Backen\"-Finale 2026: Wer gewinnt den goldenen Cupcake? Oxana zieht an Favoritin vorbei",
+     "url": "https://www.joyn.de/bts/serien/das-grosse-backen/finale2026-wer-gewinnt-den-goldenen-cupcake-oxana-zieht-an-favoritin-vorbei-194281",
+     "fonte": "Joyn"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Entretenimento",
+    "vira_video": "sim",
+    "motivo": "Reality show popular com receitas e histórias inspiradoras que geram engajamento",
+    "angulo": "Receitas vencedoras da temporada para replicar",
+    "titulo": "Das große Backen 2026: Oxanas Siegerrezepte zum Nachbacken"
+   },
+   "score": 34
+  },
+  "joshua kimmich": {
+   "termo": "joshua kimmich",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Kimmich fehlt gegen Serbien: Nico Schlotterbeck - der Kapitän der Zukunft",
+     "url": "https://www.sportschau.de/fussball/nationalmannschaft/nico-schlotterbeck-der-kapitaen-der-zukunft,deutschland-kapitaensfrage-100.html",
+     "fonte": "sportschau.de"
+    },
+    {
+     "titulo": "Kapitänsfrage und Schlotterbeck-Update: Die Pressekonferenz mit Klopp und Urbig zum Nachlesen",
+     "url": "https://www.kicker.de/6abcf6121d32817045b088f0/liveticker",
+     "fonte": "Kicker"
+    },
+    {
+     "titulo": "Aus der Kapitänsfrage macht Klopp ein Geheimnis",
+     "url": "https://www.welt.de/sport/fussball/article6abd2a32ca5c42fe8f930f73/nationalmannschaft-juergen-klopp-macht-aus-der-kapitaensfrage-ein-geheimnis.html",
+     "fonte": "WELT"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Ausência em jogo específico mas capitania levanta debate sobre futuro",
+    "angulo": "Schlotterbeck como futuro capitão da seleção",
+    "titulo": "Ohne Kimmich: Ist Schlotterbeck der Kapitän der Zukunft?"
+   },
+   "score": 29
+  }
+ }
+}

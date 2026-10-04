@@ -1,0 +1,358 @@
+{
+ "data": "2026-10-01",
+ "rodadas": 1,
+ "termos": {
+  "emergência 53": {
+   "termo": "emergência 53",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "‘Espiadinha Globoplay’: TV Globo exibe episódio da série ‘Emergência 53’ nesta quarta-feira, 30",
+     "url": "https://redeglobo.globo.com/redebahia/noticia/espiadinha-globoplay-tv-globo-exibe-episodio-da-serie-emergencia-53-nesta-quarta-feira-30.ghtml",
+     "fonte": "Globo"
+    },
+    {
+     "titulo": "\"Emergência 53\", do Globoplay, que já grava 2ª temporada, exibirá 1º episódio na TV Globo",
+     "url": "https://www.papelpop.com/2026/09/emergencia-53-do-globoplay-que-ja-grava-2a-temporada-exibira-1o-episodio-na-tv-globo/",
+     "fonte": "papelpop"
+    },
+    {
+     "titulo": "Jaffar Bambirra encara universo médico em 'Emergência 53'",
+     "url": "https://odia.ig.com.br/diversao/celebridades/2026/09/7304195-jaffar-bambirra-encara-universo-medico-em-emergencia-53.html",
+     "fonte": "O Dia"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "ia": {
+    "categoria": "Entretenimento",
+    "vira_video": "sim",
+    "motivo": "Série com segunda temporada confirmada, interesse contínuo dos fãs",
+    "angulo": "Análise da série e expectativas para temporada 2",
+    "titulo": "EMERGÊNCIA 53: Vale a Pena Assistir? Análise Completa da Série"
+   },
+   "score": 32
+  },
+  "acidente aéreo": {
+   "termo": "acidente aéreo",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 500,
+   "noticias": [
+    {
+     "titulo": "Ator israelense Guy Kapulnik morre aos 46 anos em queda de avião de pequeno porte nos EUA",
+     "url": "https://oglobo.globo.com/cultura/filmes/noticia/2026/09/30/ator-israelense-guy-kapulnik-morre-aos-46-anos-em-queda-de-aviao-de-pequeno-porte-nos-eua.ghtml",
+     "fonte": "O GLOBO"
+    },
+    {
+     "titulo": "Morre ator e aviador Guy Kapulnik, aos 46 anos, em acidente aéreo",
+     "url": "https://www.cnnbrasil.com.br/pop/cinema/morre-ator-e-aviador-guy-kapulnik-aos-46-anos-em-acidente-aereo/",
+     "fonte": "CNN Brasil"
+    },
+    {
+     "titulo": "Ator de ‘O Chamado da Floresta’ morre em queda de avião aos 46 anos",
+     "url": "https://www.estadao.com.br/em-alta/emais/gente/ator-de-o-chamado-da-floresta-morre-em-queda-de-aviao-aos-46-anos-nprec/",
+     "fonte": "Estadão"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "ia": {
+    "categoria": "Notícias",
+    "vira_video": "nao",
+    "motivo": "Notícia factual específica, interesse passa rapidamente",
+    "angulo": "Não aplicável",
+    "titulo": "Não aplicável"
+   },
+   "score": 17
+  },
+  "pagamento": {
+   "termo": "pagamento",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "Calendário BPC/Loas outubro 2026: veja datas de pagamento",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/01/calendario-bpcloas-outubro-2026-veja-datas-de-pagamento.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Calendário de pagamentos do INSS de outubro; veja todas as datas",
+     "url": "https://economia.uol.com.br/noticias/redacao/2026/09/30/inss-divulga-calendario-de-pagamentos-de-2026-veja-como-consultar.ghtm",
+     "fonte": "UOL Economia"
+    },
+    {
+     "titulo": "INSS libera calendário de outubro para aposentados e pensionistas",
+     "url": "https://www.brasil247.com/tendencias/2026/09/30/inss-libera-calendario-de-outubro-para-aposentados-e-pensionistas/",
+     "fonte": "Brasil 247"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Finanças Pessoais",
+    "vira_video": "sim",
+    "motivo": "Calendários de pagamento são consultados mensalmente, conteúdo perene",
+    "angulo": "Como organizar finanças com calendários de benefícios",
+    "titulo": "Calendário Completo de PAGAMENTOS Outubro 2025: INSS, BPC e Mais"
+   },
+   "score": 40
+  },
+  "atlético nacional x junior": {
+   "termo": "atlético nacional x junior",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "🔴 EN VIVO: Nacional vs. Junior - minuto a minuto y goles (Fecha 3)",
+     "url": "https://www.winsports.co/futbol-colombiano/noticias/en-vivo-nacional-vs-junior-minuto-a-minuto-y-goles-fecha-3-466931",
+     "fonte": "Win Sports"
+    },
+    {
+     "titulo": "Verde, a mover fichas pero con un solo objetivo: ¡es ir a ganar! | Q´HUBO Medellín",
+     "url": "https://qhubomedellin.com/deportes/futbol/atletico-nacional/nacional-vs-junior-de-barranquilla-septiembre-30-de-2026-AE41761177",
+     "fonte": "Qhubo Medellín"
+    },
+    {
+     "titulo": "Cómo quedó la tabla de posiciones de la Liga BetPlay II-2026, tras Nacional 3-1 Junior",
+     "url": "https://www.noticiascaracol.com/golcaracol/futbol-colombiano/como-quedo-la-tabla-de-posiciones-de-la-liga-betplay-ii-2026-tras-nacional-3-1-junior-so35",
+     "fonte": "Noticias Caracol"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "nao",
+    "motivo": "Jogo específico, interesse efêmero, baixo apelo no Brasil",
+    "angulo": "Não aplicável",
+    "titulo": "Não aplicável"
+   },
+   "score": 20
+  },
+  "antonio tabet": {
+   "termo": "antonio tabet",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 1000,
+   "noticias": [
+    {
+     "titulo": "TSE tem maioria para derrubar posts sobre fake news de Nossa Senhora",
+     "url": "https://www.cnnbrasil.com.br/politica/julgamento-tse-fake-news-nossa-senhora-aparecida/",
+     "fonte": "CNN Brasil"
+    },
+    {
+     "titulo": "Leonardo Sakamoto: Decisão do TSE é derrota para a 'censura no atacado' aplicada por Mendonça",
+     "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/09/30/decisao-do-tse-e-derrota-para-a-censura-no-atacado-aplicada-por-mendonca.htm",
+     "fonte": "UOL Notícias"
+    },
+    {
+     "titulo": "TSE forma maioria para vetar posts que ligam Flávio Bolsonaro a Nossa Senhora; alcance gera impasse",
+     "url": "https://www.terra.com.br/noticias/eleicoes/tse-forma-maioria-para-vetar-posts-que-ligam-flavio-bolsonaro-a-nossa-senhora-alcance-gera-impasse,13cb75d8510c406ae0210935669aeebevddgslxn.html",
+     "fonte": "Terra"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Política e Sociedade",
+    "vira_video": "sim",
+    "motivo": "Debate sobre liberdade de expressão e fake news permanece relevante",
+    "angulo": "Limites entre censura e combate à desinformação",
+    "titulo": "Caso Antonio Tabet: Onde Está o Limite Entre CENSURA e Fake News?"
+   },
+   "score": 27
+  },
+  "argentina - bolivia": {
+   "termo": "argentina - bolivia",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 10000,
+   "noticias": [
+    {
+     "titulo": "Videos: los goles y lo mejor de Argentina-Bolivia",
+     "url": "https://www.ole.com.ar/seleccion/videos-mejor-argentina-bolivia-amistoso_0_uPn7qzDVPe.html",
+     "fonte": "Olé"
+    },
+    {
+     "titulo": "Argentina empezó a construir el después de Messi con una goleada ante Bolivia y varias buenas noticias",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-empezo-a-construir-el-despues-de-messi-con-una-goleada-y-varias-buenas-noticias-nid30092026/",
+     "fonte": "La Nación"
+    },
+    {
+     "titulo": "El 1x1 de Argentina vs Bolivia: Nico Paz como figura saliente y una actuación sólida sin sobresaltos en Córdoba",
+     "url": "https://www.clarin.com/deportes/1x1-argentina-vs-bolivia-nico-paz-figura-saliente-actuacion-solida-sobresaltos-cordoba_0_TinPPvBYdr.html",
+     "fonte": "Clarin.com"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 1274453,
+    "outlier": 75.5,
+    "melhor": {
+     "titulo": "Argentina vs. Bolivia EN VIVO 🔴 | Amistoso Internacional 🇦🇷⚽🇧🇴 | TyC Sports",
+     "canal": "TyC Sports",
+     "views": 1274453,
+     "url": "https://youtu.be/5ezHiaP0BlE"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Mesmo jogo, variação de busca, vida útil curta",
+    "angulo": "O que muda na Argentina sem Messi titular",
+    "titulo": "ARGENTINA Vence Sem Messi: O Futuro da Seleção Está Garantido?"
+   },
+   "score": 44
+  },
+  "argentina x bolívia": {
+   "termo": "argentina x bolívia",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 200000,
+   "noticias": [
+    {
+     "titulo": "Sem Messi, joia comanda goleada da Argentina na Bolívia; Flaco desencanta",
+     "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/30/argentina-x-bolivia---amistoso.ghtm",
+     "fonte": "UOL"
+    },
+    {
+     "titulo": "Argentina terá nome do Palmeiras como titular em amistoso contra a Bolívia; veja o time",
+     "url": "https://www.espn.com.br/futebol/artigo/_/id/17321229/argentina-tera-nome-palmeiras-titular-amistoso-contra-bolivia-veja-time",
+     "fonte": "ESPN Brasil"
+    },
+    {
+     "titulo": "Aos 28 min do 1º tempo - Gol da Argentina! Nico Paz é acionado e dá bela cavadinha",
+     "url": "https://ge.globo.com/futebol/video/aos-28-min-do-1o-tempo-gol-da-argentina-nico-paz-e-acionado-e-da-bela-cavadinha-15009363.ghtml",
+     "fonte": "ge"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "yt": {
+    "videos_7d": 25,
+    "com_10k": 25,
+    "top_vph": 549756,
+    "outlier": 17.2,
+    "melhor": {
+     "titulo": "✅ Argentina vs Bolivia [En Vivo] 🏆 Amistoso Internacional",
+     "canal": "Cábala Futbolera",
+     "views": 642089,
+     "url": "https://youtu.be/USIcN7w38Hs"
+    }
+   },
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Melhores momentos e análise têm demanda por alguns dias",
+    "angulo": "Análise da nova geração argentina pós-Messi",
+    "titulo": "Argentina SEM MESSI: A Nova Era Chegou? Análise da Goleada"
+   },
+   "score": 47
+  },
+  "debate presidencial 2026": {
+   "termo": "debate presidencial 2026",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 10000,
+   "noticias": [
+    {
+     "titulo": "Quem vai ao debate presidencial da Globo? Confira os confirmados",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/quem-vai-ao-debate-presidencial-da-globo.ghtml",
+     "fonte": "G1"
+    },
+    {
+     "titulo": "Brasília Hoje: Lula repete estratégia e confirma entrevista a podcast Flow em horário de debate na TV",
+     "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-repete-estrategia-e-confirma-entrevista-a-podcast-flow-em-horario-de-debate-na-tv.shtml",
+     "fonte": "Folha de S.Paulo"
+    },
+    {
+     "titulo": "Circo da direita, Janja e fake news: por que Lula decidiu não ir ao debate da Globo",
+     "url": "https://iclnoticias.com.br/lula-nao-vai-debate-globo-bastidores/",
+     "fonte": "ICL Notícias"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Política",
+    "vira_video": "sim",
+    "motivo": "Tema recorrente até eleições, análises e bastidores rendem conteúdo",
+    "angulo": "Estratégias de candidatos que fogem dos debates",
+    "titulo": "Por Que Candidatos FOGEM de Debates? Estratégia ou Medo?"
+   },
+   "score": 35
+  },
+  "glicemia": {
+   "termo": "glicemia",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 5000,
+   "noticias": [
+    {
+     "titulo": "Controle a glicemia antes do café da manhã: 3 hábitos simples para inserir na rotina",
+     "url": "https://gauchazh.clicrbs.com.br/viral/noticia/2026/09/controle-a-glicemia-antes-do-cafe-da-manha-3-habitos-simples-para-inserir-na-rotina-cmuoj5f7p019i013bg0w1snfg.html",
+     "fonte": "GZH"
+    },
+    {
+     "titulo": "Controle a glicemia antes do café da manhã: 3 hábitos simples para inserir na rotina",
+     "url": "https://www.opovo.com.br/agencia/edicase/2026/09/30/controle-a-glicemia-antes-do-cafe-da-manha-3-habitos-simples-para-inserir-na-rotina.html",
+     "fonte": "O POVO"
+    },
+    {
+     "titulo": "Glicemia: 3 hábitos matinais que ajudam antes do café",
+     "url": "https://www.spacemoney.com.br/educacao-financeira/dicas/glicemia-habitos-matinais-antes-do-cafe/",
+     "fonte": "SpaceMoney"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Saúde",
+    "vira_video": "sim",
+    "motivo": "Saúde e hábitos saudáveis têm busca contínua e evergreen",
+    "angulo": "Rotina matinal cientificamente comprovada para controlar glicemia",
+    "titulo": "3 Hábitos Matinais Para CONTROLAR a Glicemia Antes do Café"
+   },
+   "score": 32
+  },
+  "torque x peñarol": {
+   "termo": "torque x peñarol",
+   "primeira_vez": "2026-10-01T03:21:52.632839Z",
+   "aparicoes": 1,
+   "trafego": 2000,
+   "noticias": [
+    {
+     "titulo": "Atlético de olho: City Torque busca empate com Peñarol pelo Campeonato Uruguaio",
+     "url": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-de-olho-city-torque-busca-empate-com-penarol-pelo-campeonato-uruguaio/",
+     "fonte": "Rádio Itatiaia"
+    },
+    {
+     "titulo": "O Peñarol é de qual país? Tudo sobre o clássico de hoje às 20h",
+     "url": "https://ncnews.com.br/2026/09/30/penarol-qual-pais-tudo-classico-hoje-20h/",
+     "fonte": "ncnews.com.br"
+    },
+    {
+     "titulo": "Atletico Torque x Penarol – Análise, Escalações, Hora do Jogo e Onde Assistir Hoje 30/09",
+     "url": "https://oddsscanner.com/br/palpites/futebol/atletico-torque-x-penarol-30-09-2026",
+     "fonte": "Odds Scanner"
+    }
+   ],
+   "ultima_vez": "2026-10-01T03:21:52.632839Z",
+   "rd": null,
+   "ia": {
+    "categoria": "Esportes",
+    "vira_video": "talvez",
+    "motivo": "Conexão com Atlético MG gera interesse pontual no Brasil",
+    "angulo": "Entenda a relação City Group no futebol sul-americano",
+    "titulo": "City Torque x Peñarol: Entenda a CONEXÃO com o Atlético MG"
+   },
+   "score": 27
+  }
+ }
+}
