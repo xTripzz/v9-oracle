@@ -11,7 +11,7 @@ paises:
 # A IA decide o que serve pra canal dark antes de gastar quota. Precisa de ANTHROPIC_API_KEY.
 encaixe_aceitos: [sim]   # sim = tema perene de canal dark. Inclua talvez pra aceitar tema nascido de notícia com ângulo documental
 nichos_dark:             # 100 nichos. É isso que a IA usa pra decidir. Apague ou comente (#) o que não quiser. (!) = risco de monetização
-  # Natureza e animais
+Natureza e animais:
   - "animais perigosos"
   - "predadores e cadeia alimentar"
   - "animais marinhos e tubarões"
