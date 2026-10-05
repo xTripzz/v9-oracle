@@ -1,26 +1,90 @@
+# V9 ORACLE MAXX
+# Google Trends descobre os temas de cada país. YouTube, Reddit e buscas validam. O core decide.
+
 paises:
   - {geo: BR, nome: Brasil,   idioma: pt, bandeira: "🇧🇷"}
   - {geo: US, nome: EUA,      idioma: en, bandeira: "🇺🇸"}
   - {geo: MX, nome: México,   idioma: es, bandeira: "🇲🇽"}
   - {geo: DE, nome: Alemanha, idioma: de, bandeira: "🇩🇪"}
 
-encaixe_aceitos: ["sim"]
+# Filtro dark: o Google Trends diário é cheio de notícia, esporte e celebridade.
+# A IA decide o que serve pra canal dark antes de gastar quota. Precisa de ANTHROPIC_API_KEY.
+encaixe_aceitos: [sim]   # sim = tema perene de canal dark. Inclua talvez pra aceitar tema nascido de notícia com ângulo documental
+nichos_dark:             # 100 nichos. É isso que a IA usa pra decidir. Apague ou comente (#) o que não quiser. (!) = risco de monetização
+  # Natureza e animais
+  - "animais perigosos"
+  - "predadores e cadeia alimentar"
+  - "animais marinhos e tubarões"
+  - "cobras e aranhas"
+  - "ataques de animais selvagens"
+  - "animais extintos"
+  - "insetos e seres estranhos"
+  - "cães e gatos (comportamento e raças)"
+  - "biomas (Amazônia, savana, polos)"
+  - "sobrevivência na natureza"
+  - "grandes felinos"
+  - "leões e comportamento dos leões"
+  - "tigres e caça"
+  - "onças e leopardos"
+  - "guepardos e velocidade"
+  - "lobos e cães selvagens"
+  - "ursos e comportamento"
+  - "crocodilos e jacarés"
+  - "anacondas e cobras gigantes"
+  - "animais venenosos"
+  - "animais peçonhentos"
+  - "águias e aves de rapina"
+  - "baleias e golfinhos"
+  - "polvos e lulas gigantes"
+  - "criaturas das profundezas"
+  - "monstros do oceano"
+  - "tubarões e comportamento"
+  - "animais pré-históricos"
+  - "animais da era do gelo"
+  - "evolução dos animais"
+  - "inteligência animal"
+  - "comunicação entre animais"
+  - "estratégias de sobrevivência animal"
+  - "camuflagem animal"
+  - "adaptações extremas dos animais"
+  - "batalhas entre animais"
+  - "disputas territoriais entre animais"
+  - "técnicas de caça dos predadores"
+  - "animais raros e desconhecidos"
+  - "animais misteriosos"
+  - "criaturas estranhas da natureza"
+  - "vida selvagem da Amazônia"
+  - "vida selvagem da África"
+  - "animais da savana africana"
+  - "animais das florestas tropicais"
+  - "animais do deserto"
+  - "animais do Ártico"
+  - "animais da Antártida"
+  - "animais de ilhas isoladas"
+  - "animais gigantes"
+  - "menores animais do mundo"
+  - "animais mais fortes do mundo"
+  - "animais mais rápidos do mundo"
+  - "animais mais inteligentes do mundo"
+  - "animais com habilidades incríveis"
+  - "comportamentos animais incomuns"
+  - "encontros entre humanos e animais selvagens"
+  - "resgate de animais selvagens"
+  - "animais que sobreviveram a situações extremas"
 
-nichos_dark: ["dangerous animals", "predators and food chain", "marine animals and sharks", "snakes and spiders", "wild animal attacks", "extinct animals", "insects and strange creatures", "dogs and cats behavior and breeds", "biomes amazon savanna poles", "wilderness survival", "big cats and wild felines", "lions and lion behavior", "tigers and tiger hunting", "jaguars and leopards", "wolves and wild dogs", "bears and bear attacks", "crocodiles and alligators", "venomous animals", "deadliest snakes", "giant snakes and anacondas", "eagles and birds of prey", "giant ocean creatures", "deep sea animals", "whales and dolphins", "octopus and giant squid", "prehistoric animals", "dinosaurs and prehistoric predators", "ice age animals", "animal evolution", "animal intelligence", "animal communication", "animal survival strategies", "camouflage and animal adaptations", "animal battles in the wild", "territorial animal behavior", "animal hunting techniques", "rare and unusual animals", "mysterious wildlife", "rainforest wildlife", "african savanna wildlife", "amazon rainforest animals", "desert animals", "arctic and antarctic wildlife", "island wildlife", "venomous insects", "giant spiders and scorpions", "parasites and unusual creatures", "animal rescue and recovery", "human wildlife encounters", "extreme animal adaptations"]
-
-
-yt_dias: 90
-yt_min_minutos: 8
-yt_duracoes: ["medium", "long"]
-yt_ttl_horas: 14
-quota_diaria: 9800
-yt_novas_por_rodada: 2
-trends_por_rodada: 5
-serpapi_limite_mensal: 250
-serpapi_por_rodada: 4
-serpapi_por_pais: 1
-ia_por_rodada: 12
-ia_provedor: auto
-modelo_gemini: gemini-3.5-flash-lite
-modelo_ia: claude-sonnet-5-5
+topicos_por_pais: 10     # quantos temas do Google entram na análise a cada rodada
+yt_dias: 90              # janela de vídeos do YouTube que o core avalia
+yt_min_minutos: 8        # só vídeos longos: tudo abaixo disso (Shorts incluídos) fica fora
+yt_duracoes: [medium, long]   # faixas buscadas: medium = 4 a 20 min, long = mais de 20. Só [medium] gasta metade da quota
+yt_ttl_horas: 14         # quanto tempo reaproveita a busca do YouTube (economiza quota)
+quota_diaria: 9800       # limite grátis do YouTube é 10.000 por dia, dividido entre os países
+yt_novas_por_rodada: 2   # temas novos no YouTube por país a cada rodada (cada um gasta ~200 de quota; o resto entra na próxima)
+trends_por_rodada: 5     # séries horárias do Google Trends por país (se não bloquear)
+serpapi_limite_mensal: 250   # plano da SerpApi: Free 250, Starter 1000, Developer 5000. Só entra quando o pytrends falha
+serpapi_por_rodada: 4        # teto de buscas SerpApi por rodada (o ritmo diário também limita)
+serpapi_por_pais: 1          # no máximo 1 por país a cada rodada
+ia_por_rodada: 12        # temas que a IA orienta por rodada
+ia_provedor: auto        # auto = Gemini se tiver GEMINI_API_KEY, senão Claude (ANTHROPIC_API_KEY). Ou escreva gemini / claude
+modelo_gemini: gemini-3.5-flash-lite   # se o nome não existir, o Oracle tenta gemini-3.6-flash e gemini-2.5-flash-lite
+modelo_ia: claude-sonnet-5-5           # usado só quando o provedor é Claude
 top: 30
