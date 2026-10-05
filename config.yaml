@@ -6,58 +6,9 @@ paises:
 
 encaixe_aceitos: ["sim"]
 
-nichos_dark: ["dangerous animals"
-"predators and food chain"
-"marine animals and sharks"
-"snakes and spiders"
-"wild animal attacks"
-"extinct animals"
-"insects and strange creatures"
-"dogs and cats behavior and breeds"
-"biomes amazon savanna poles"
-"wilderness survival"
-"big cats and wild felines"
-"lions and lion behavior"
-"tigers and tiger hunting"
-"jaguars and leopards"
-"wolves and wild dogs"
-"bears and bear attacks"
-"crocodiles and alligators"
-"venomous animals"
-"deadliest snakes"
-"giant snakes and anacondas"
-"eagles and birds of prey"
-"giant ocean creatures"
-"deep sea animals"
-"whales and dolphins"
-"octopus and giant squid"
-"prehistoric animals"
-"dinosaurs and prehistoric predators"
-"ice age animals"
-"animal evolution"
-"animal intelligence"
-"animal communication"
-"animal survival strategies"
-"camouflage and animal adaptations"
-"animal battles in the wild"
-"territorial animal behavior"
-"animal hunting techniques"
-"rare and unusual animals"
-"mysterious wildlife"
-"rainforest wildlife"
-"african savanna wildlife"
-"amazon rainforest animals"
-"desert animals"
-"arctic and antarctic wildlife"
-"island wildlife"
-"venomous insects"
-"giant spiders and scorpions"
-"parasites and unusual creatures"
-"animal rescue and recovery"
-"human wildlife encounters"
-"extreme animal adaptations"]
+nichos_dark: ["dangerous animals", "predators and food chain", "marine animals and sharks", "snakes and spiders", "wild animal attacks", "extinct animals", "insects and strange creatures", "dogs and cats behavior and breeds", "biomes amazon savanna poles", "wilderness survival", "big cats and wild felines", "lions and lion behavior", "tigers and tiger hunting", "jaguars and leopards", "wolves and wild dogs", "bears and bear attacks", "crocodiles and alligators", "venomous animals", "deadliest snakes", "giant snakes and anacondas", "eagles and birds of prey", "giant ocean creatures", "deep sea animals", "whales and dolphins", "octopus and giant squid", "prehistoric animals", "dinosaurs and prehistoric predators", "ice age animals", "animal evolution", "animal intelligence", "animal communication", "animal survival strategies", "camouflage and animal adaptations", "animal battles in the wild", "territorial animal behavior", "animal hunting techniques", "rare and unusual animals", "mysterious wildlife", "rainforest wildlife", "african savanna wildlife", "amazon rainforest animals", "desert animals", "arctic and antarctic wildlife", "island wildlife", "venomous insects", "giant spiders and scorpions", "parasites and unusual creatures", "animal rescue and recovery", "human wildlife encounters", "extreme animal adaptations"]
 
-topicos_por_pais: 10
+
 yt_dias: 90
 yt_min_minutos: 8
 yt_duracoes: ["medium", "long"]
