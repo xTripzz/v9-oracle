@@ -71,6 +71,28 @@ nichos_dark:             # 100 nichos. É isso que a IA usa pra decidir. Apague 
   - "encontros entre humanos e animais selvagens"
   - "resgate de animais selvagens"
   - "animais que sobreviveram a situações extremas"
+  
+  # GTA VI - alta prioridade
+  - "GTA VI novidades e notícias"
+  - "GTA VI teorias"
+  - "GTA VI mapa"
+  - "GTA VI easter eggs"
+  - "GTA VI segredos"
+  - "GTA VI detalhes escondidos"
+  - "GTA VI Jason e Lucia"
+  - "GTA VI história e enredo"
+  - "GTA VI gameplay"
+  - "GTA VI mundo aberto"
+  - "GTA VI comparado com GTA V"
+  - "GTA VI rumores"
+  - "GTA VI vazamentos"
+  - "GTA VI coisas que você não percebeu"
+  - "GTA VI detalhes que ninguém percebeu"
+  - "GTA VI fatos curiosos"
+  - "GTA VI locais secretos"
+  - "GTA VI NPCs"
+  - "GTA VI polícia e perseguições"
+  - "GTA VI veículos e carros"
 
 topicos_por_pais: 10     # quantos temas do Google entram na análise a cada rodada
 yt_dias: 90              # janela de vídeos do YouTube que o core avalia
